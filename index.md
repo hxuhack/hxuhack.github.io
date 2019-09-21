@@ -1,5 +1,3 @@
-## Dr. XU, Hui
-
 I am currently a Pre-tunured Associate Professor at School of Computer Science, Fudan University. My research interests are within the fields of Cyber Security, Program Analysis, and AI System Reliability. I obtained my Ph.D. degree from the Chinese University of Hong Kong in 2018, supervised by [Prof. Michael Lyu](http://www.cse.cuhk.edu.hk/lyu).
 
 ## News
