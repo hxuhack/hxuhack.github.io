@@ -8,7 +8,6 @@ I am currently a Pre-tunured Associate Professor at School of Computer Science, 
 
 Fusor: An obfuscation tool based on LLVM [(link)](https://github.com/zzrcxb/fusor).
 
-
 ## Publication
 
 - "Textout: Detecting Text-layout Bugs in Mobile Apps via Visualization-oriented Learning," Yaohui Wang, Hui Xu, Yangfan Zhou, Michael R. Lyu, Xin Wang, _in Prof. of the 30th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Berlin, Germany, 2019.
@@ -38,9 +37,8 @@ Fusor: An obfuscation tool based on LLVM [(link)](https://github.com/zzrcxb/fuso
 - "Towards Continuous and Passive Authentication via Touch Biometrics: An Experimental Study on Smartphones," **Hui Xu**, Yangfan Zhou, and Michael R. Lyu, _in Proc. of the USENIX Symposium on Usable Privacy and Security (SOUPS)_, Menlo Park, CA, USA, July 9-11, 2014.
 
 ## Useful Links
-[Recent Conferences](http://confsearch.ethz.ch/confsearch/faces/pages/topic.jsp?topic=Security%20&sortMode=1&graphicView=1). 
+[Recent Conferences](http://confsearch.ethz.ch/confsearch/faces/pages/topic.jsp?topic=Security%20&sortMode=1&graphicView=1)  
 [CCF Ranking](http://www.ccf.org.cn/xspj/gyml/)   
 [Common Bugs in Writting](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)  
 [Top Cybersecurity Scientists](http://s3.eurecom.fr/~balzarot/notes/top4/index.html)  
-[Software Engineering Academic Genealogy](http://taoxie.cs.illinois.edu/sefamily.htm)  
-[Software Engineering Academic Genealogy](http://taoxie.cs.illinois.edu/sefamily.htm)  
+[Software Engineering Academic Genealogy](http://taoxie.cs.illinois.edu/sefamily.htm)
