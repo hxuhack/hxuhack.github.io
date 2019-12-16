@@ -1,6 +1,6 @@
 ![image][profile_photo]
 
-I am currently a Pre-tenure Associate Professor at School of Computer Science, Fudan University. My research interests are within the fields of Cybersecurity, Program Analysis, and System Reliability. I obtained my Ph.D. degree from the Chinese University of Hong Kong in 2018, supervised by [Prof. Michael Lyu](http://www.cse.cuhk.edu.hk/lyu).
+I am a Pre-tenure Associate Professor in School of Computer Science, Fudan University. My research interests are within the fields of Cybersecurity, Program Analysis, and System Reliability. I obtained my Ph.D. degree from the Chinese University of Hong Kong in 2018, supervised by [Prof. Michael Lyu](http://www.cse.cuhk.edu.hk/lyu).
 
 Email: xuh[AT]fudan.edu.cn
 
@@ -20,7 +20,7 @@ Fusor: An obfuscation tool based on LLVM [(link)](https://github.com/zzrcxb/fuso
 
 - "Deep Validation: Toward Detecting Real-world Corner Cases for Deep Neural Networks," Weibin Wu, **Hui Xu**, Sanqiang Zhong, Michael R Lyu, and Irwin King, _in Proc. of the 49th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, Portland, Oregon, USA, June 24–27, 2019. 
 
-- "Benchmarking the Capability of Symbolic Execution Tools with Logic Bombs," **Hui Xu**, Zirui Zhao, Yangfan Zhou, and Michael R. Lyu, _Transactions on Dependable and Secure Computing (TDSC)_, 2018. 
+- "Benchmarking the Capability of Symbolic Execution Tools with Logic Bombs," **Hui Xu**, Zirui Zhao, Yangfan Zhou, and Michael R. Lyu, _Transactions on Dependable and Secure Computing (TDSC)_,early access, 2018. 
 
 - "Manufacturing Resilient Bi-Opaque Predicates against Symbolic Execution," **Hui Xu**, Yangfan Zhou, Yu Kang, Fengzhi Tu and Michael R. Lyu, _in Proc. of the 48th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, Luxembourg City, Luxembourg, June 1-5, 2018. 
 
@@ -28,7 +28,7 @@ Fusor: An obfuscation tool based on LLVM [(link)](https://github.com/zzrcxb/fuso
 
 - "IntelliAd: Assisting Mobile App Developers in Measuring Ad Costs Automatically [Poster]," Cuiyun Gao, Yichuan Man, **Hui Xu**, Jieming Zhu, Yangfan Zhou and Michael R. Lyu, _in Proc. of the 39th International Conference on Software Engineering (ICSE-C)_, 2017. 
 
-- "DiagDroid: Android Performance Diagnosis via Anatomizing Asynchronous Executions," Yu Kang, Yangfan Zhou, **Hui Xu**, and Michael R. Lyu, _in Proc. of the 24th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE)_,Seattle, WA, USA, November 13-18, 2016. 
+- "DiagDroid: Android Performance Diagnosis via Anatomizing Asynchronous Executions," Yu Kang, Yangfan Zhou, **Hui Xu**, and Michael R. Lyu, _in Proc. of the 24th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE)_, Seattle, WA, USA, November 13-18, 2016. 
 
 - "N-Version Obfuscation," **Hui Xu**, Yangfan Zhou, and Michael R. Lyu, _in Proc. of the 2nd Cyber-Phsical System Security Workshop (in conjunction with AsiaCCS)_, Xi'an, China, May 30, 2016. 
 
