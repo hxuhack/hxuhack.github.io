@@ -6,11 +6,12 @@ Email: xuh[AT]fudan.edu.cn
 
 ## News
 
-- I am looking for self-motivated students.
+- I am looking for <span style="color: red"> self-motivated students</span>.
 
-## Projects
+## Research Project
 
-Fusor: An obfuscation tool based on LLVM [(link)](https://github.com/zzrcxb/fusor).
+- Rust Program Analysis based on Symbolic Execution. 
+- Fusor: An obfuscation tool based on LLVM [(link)] (https://github.com/zzrcxb/fusor).
 
 ## Publication
 
