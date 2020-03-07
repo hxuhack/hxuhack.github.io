@@ -2,7 +2,7 @@
 
 ## Biography 
 
-- [The Ph.D. Grind, A Ph.D. Student Memoir] (http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf), by Philip Guo
+- [The Ph.D. Grind, A Ph.D. Student Memoir](http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf), by Philip Guo
 
 ## Books
 
