@@ -6,8 +6,6 @@
 
 ## Research
 
-- Rust Program Analysis based on Symbolic Execution. 
-- Fusor: An obfuscation tool based on LLVM [(link)](https://github.com/zzrcxb/fusor).
 
 ##  Teaching
 
