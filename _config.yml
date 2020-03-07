@@ -2,7 +2,8 @@ title: Dr. XU, Hui 徐輝
 logo: profile.png
 
 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minimal-jekyll-theme
 header_navigation:
 
   - title: Publications
