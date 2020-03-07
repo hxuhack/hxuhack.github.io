@@ -1,3 +1,5 @@
+|[<b>Home</b>](index) | [<b>Publications</b>](publication/index) | [<b>Recommended Reading</b>](culture/index) | [<b>Students</b>](students/index) |
+
 ## Publications (chronological order)
 
 - "Textout: Detecting Text-layout Bugs in Mobile Apps via Visualization-oriented Learning," Yaohui Wang, **Hui Xu**, Yangfan Zhou, Michael R. Lyu, Xin Wang, _in Prof. of the 30th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Berlin, Germany, 2019.
