@@ -1,4 +1,4 @@
-|[<b>Home</b>](index) | [<b>Publications</b>](publication/index) | [<b>Recommended Reading</b>](culture/index) | [<b>Students</b>](students/index) |
+|[<b>Home</b>](index) | [<b>Publications</b>](list/index) | [<b>Recommended Reading</b>](culture/index) | [<b>Students</b>](students/index) |
 
 ## Publications (chronological order)
 
