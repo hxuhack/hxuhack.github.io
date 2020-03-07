@@ -1,4 +1,4 @@
-|[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](list/index) | [<b>Recommended Reading</b>](culture/index) | [<b>Students</b>](students/index) |
+|[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](publication/list) | [<b>Recommended Reading</b>](culture/list) | [<b>Students</b>](students/list) |
 
 ## Publications (chronological order)
 
