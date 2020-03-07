@@ -1,3 +1,17 @@
 title: Dr. XU, Hui 徐輝
 theme: jekyll-theme-minimal
-logo: profile.jpeg
+logo: profile.png
+
+header_navigation:
+  - title: Publications
+    url: /publications/index.md
+
+
+  - title: Teaching
+    url: /teach/index.md
+
+  - title: Students
+    url: /students/index.md
+
+  - title: Culture
+    url: /culture/index.md
