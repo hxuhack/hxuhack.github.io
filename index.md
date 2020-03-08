@@ -5,7 +5,9 @@
 
 
 ## Research
+In general, my research objective is to help software engineers develop dependable software systems that can be resilient to malicious users. Previously, I have investigated the security, privacy, and various types of bugs of Android applications with program analysis and machine learning techniques. In particular, I have been working on software obfuscation techniques to protect the intellectual property of software against piracy, and symbolic execution techniques to explore software bugs. Besides, I have also looked into the robustness of AI software with deep learning models inside. 
 
+Recently, I move my focus to help developers prevent memory-safety bugs, which is one of the most dangerous bug types. I base my research on Rust programming language which has already done much decent work to this end. However, there is still way ahead for Rust. I will investigate the problems Rust faces and work on potential solutions.
 
 ##  Teaching
 
