@@ -9,10 +9,8 @@ In general, my research objective is to help software engineers develop dependab
 
 Recently, I move my focus to help developers prevent memory-safety bugs, which is one of the most dangerous bug types. I base my research on Rust programming language which has already done much decent work to this end. However, there is still way ahead for Rust. I will investigate the problems Rust faces and work on potential solutions.
 
+<span style="color: red"> I am looking for students as research collaborators. If you are self-motivated and have solid background in computer science, please drop me an email. </span>.
+
 ##  Teaching
 
 -Spring 2020, [COMP130159.01 软件安全 Software Security](lecture/softwaresec)
-
-## News
-
-- I am looking for <span style="color: red"> self-motivated students </span>.
