@@ -3,6 +3,7 @@
 ## Biography 
 
 - [The Ph.D. Grind, A Ph.D. Student Memoir](http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf), by Philip Guo
+- [博士这五年](https://zhuanlan.zhihu.com/p/25099638), by 李沐
 
 ## Books
 
