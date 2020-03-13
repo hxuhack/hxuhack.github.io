@@ -8,3 +8,5 @@
 - [模仿游戏 The Imitation Game](https://movie.douban.com/subject/10463953/), for Alan Turing（阿兰图灵）, 2014.
 - [美丽心灵 A Beautiful Mind](https://movie.douban.com/subject/1306029/), for John Forbes Nash（约翰纳什）, 2000。
 - [心灵捕手 Good Will Hunting](https://movie.douban.com/subject/1292656/), by Matthew P. Damon, 1997
+
+- [大空头 The Big Short](https://movie.douban.com/subject/26303622/), 美国次债危机2008，2015
