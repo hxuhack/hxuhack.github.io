@@ -3,6 +3,8 @@
 
 ## Publications (chronological order)
 
+- "Memory-Safety Challenge Considered Solved? An Empirical Study with All Rust CVEs," Xu, Hui, Zhuangbin Chen, Mingshen Sun, and Yangfan Zhou, _arXiv preprint arXiv:2003.03296_, 2020.
+
 - "Textout: Detecting Text-layout Bugs in Mobile Apps via Visualization-oriented Learning," Yaohui Wang, **Hui Xu**, Yangfan Zhou, Michael R. Lyu, Xin Wang, _in Prof. of the 30th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Berlin, Germany, 2019.
 
 - "NV-DNN: Towards Fault-Tolerant DNN Systems with N-Version Programming," **Hui Xu**, Zhuangbin Chen, Weibin Wu, Zhi Jin, Sy-yen Kuo, and Michael R. Lyu, _in Prof. of the 2nd Workshop on Dependable and Secure Machine Learning (DSN-DSML)_, Portland, Oregon, USA, June 24–27, 2019. 
