@@ -4,6 +4,7 @@
 
 - [隐藏人物 Hidden Figures](https://movie.douban.com/subject/26615208/?from=subject-page), 2016
 - [知无涯者 The Man Who Knew Infinity](https://movie.douban.com/celebrity/1054443/), for Srinivasa Ramanujan (拉马努金), 2015
+- [互联网之子 The Internet's Own Boy: The Story of Aaron Swartz](https://movie.douban.com/subject/25785114/), for Aaron Swartz, 2014
 - [模仿游戏 The Imitation Game](https://movie.douban.com/subject/10463953/), for Alan Turing（阿兰图灵）, 2014.
 - [美丽心灵 A Beautiful Mind](https://movie.douban.com/subject/1306029/), for John Forbes Nash（约翰纳什）, 2000。
 - [心灵捕手 Good Will Hunting](https://movie.douban.com/subject/1292656/), by Matthew P. Damon, 1997
