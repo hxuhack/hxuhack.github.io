@@ -16,3 +16,8 @@
 
 ### 音乐/其它 
 - [波西米亚狂想曲 Bohemian Rhapsody](https://movie.douban.com/subject/5300054/), for Freddie Mercury and Queen (皇后乐队), 2018
+
+## Books
+
+### 传记
+- [图灵和ACM图灵奖](https://book.douban.com/subject/10862190/), by 吴鹤龄（北京理工大学前计算机工程系主任）、崔林，2012年第4版
