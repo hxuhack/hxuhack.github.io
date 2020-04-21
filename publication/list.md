@@ -17,7 +17,7 @@
 
 - "Manufacturing resilient bi-opaque predicates against symbolic execution," **Hui Xu**, Yangfan Zhou, Yu Kang, Fengzhi Tu and Michael R. Lyu, _in Proc. of the 48th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, Luxembourg City, Luxembourg, June 1-5, 2018. 
 
-- "Concolic execution on small-size binary codes: Challenges and empirical study," **Hui Xu**, Yangfan Zhou, Yu Kang, and Michael R. Lyu, _in Proc. of the 47th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, Denver, CO, USA, June 26-29, 2017. 
+- "Concolic execution on small-size binaries: Challenges and empirical study," **Hui Xu**, Yangfan Zhou, Yu Kang, and Michael R. Lyu, _in Proc. of the 47th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, Denver, CO, USA, June 26-29, 2017. 
 
 - "IntelliAd: Assisting mobile app developers in measuring Ad costs automatically [Poster]," Cuiyun Gao, Yichuan Man, **Hui Xu**, Jieming Zhu, Yangfan Zhou and Michael R. Lyu, _in Proc. of the 39th International Conference on Software Engineering Companion (ICSE-C)_, 2017. 
 
