@@ -6,3 +6,6 @@
 - 毕研翔 (2019 - now), co-supervise with Prof. ZHOU, Zhe
 - 罗思成 (2018 - now), co-supervise with Prof. ZHOU, Yangfan and Prof. WANG, Xin
 - 吕鹏 (2018 - now), co-supervise with Prof. ZHOU, Yangfan and Prof. WANG, Xin
+
+## FYP Student 
+ - 沈家诚（2020）, 自动注释生成模型的可解释性研究
