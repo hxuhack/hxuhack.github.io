@@ -1,4 +1,26 @@
-Coming soon...
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjEzODc2NTZdfQ==
--->
+|[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](../publication/list) | [<b>Reading</b>](../reading/list) | [<b>Students</b>](../students/list) | [<b>Leisure</b>](../leisure/list)|
+
+### 科学/人物/成长
+- Lecture 1. Introduction to Software Security, by Prof. ZHOU Zhe
+- Lecture 2. Buffer Overflow, by Prof. ZHOU Zhe
+- Lecture 3. Return-oriented Programming, by Prof. ZHOU Zhe
+- Lecture 4. Heap Overflow, by Prof. ZHOU Zhe
+- Lecture 5. Race Condition, by Prof. ZHOU Zhe
+- Lecture 6. Input Validation, by Prof. ZHOU Zhe
+- Lecture 7. Sandboxing, by Prof. ZHOU Zhe
+- Lecture 8. Lab, by Prof. ZHOU Zhe
+- Lecture 9. Program Analysis Basics, by Prof. XU Hui
+- Lecture 10. Static Program Analysis, by Prof. XU Hui
+- Lecture 11. Taint Analysis, by Prof. XU Hui
+- Lecture 12. Symbolic Execution, by Prof. XU Hui
+- Lecture 13. Fuzz Testing, by Prof. XU Hui
+- Lecture 14. Bug Retrieval, by Prof. XU Hui
+- Lecture 15. Software Obfuscation, by Prof. XU Hui
+- Lecture 16. Memory-Safety Programming, by Prof. XU Hui
+
+
+## Acknowledgement
+When preparing the course materials, we have referenced the following materials:
+- Textbook [Static Program Analysis](https://cs.au.dk/~amoeller/spa/) by Anders Møller and Michael I. Schwartzbach
+- lecture notes [CIS 700 Program Analysis and Testing](https://www.cis.upenn.edu/~mhnaik/edu/cis700/index.html) by [Mayur Naik](https://www.cis.upenn.edu/~mhnaik/)
+- lecture notes [Foundations of Software Engineering](https://www.cs.cmu.edu/~ckaestne/15313/2018/index.html) by [Christian Kästner](http://www.cs.cmu.edu/%7Eckaestne/) and [Michael Hilton](https://www.cs.cmu.edu/%7Emhilton/)
