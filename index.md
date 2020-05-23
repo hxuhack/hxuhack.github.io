@@ -16,6 +16,7 @@ Recently, I move my focus to help developers prevent memory-safety bugs, which i
 ##  Teaching
 
 - Spring 2020, [COMP130159.01 软件安全 Software Security](lecture/softwaresec)
+- Autumn 2020, [COMP130189.01 网络安全 Network Security](lecture/networksec)
 
 
 ##  Academic Service
