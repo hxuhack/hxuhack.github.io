@@ -1,6 +1,6 @@
 |[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](../publication/list) | [<b>Reading</b>](../reading/list) | [<b>Students</b>](../students/list) | [<b>Leisure</b>](../leisure/list)|
 
-### 科学/人物/成长
+### Lecture Notes
 - Lecture 1. Introduction to Software Security, by Prof. ZHOU Zhe
 - Lecture 2. Buffer Overflow, by Prof. ZHOU Zhe
 - Lecture 3. Return-oriented Programming, by Prof. ZHOU Zhe
@@ -9,11 +9,11 @@
 - Lecture 6. Input Validation, by Prof. ZHOU Zhe
 - Lecture 7. Sandboxing, by Prof. ZHOU Zhe
 - Lecture 8. Lab, by Prof. ZHOU Zhe
-- Lecture 9. Program Analysis Basics, by Prof. XU Hui
-- Lecture 10. Static Program Analysis, by Prof. XU Hui
-- Lecture 11. Taint Analysis, by Prof. XU Hui
-- Lecture 12. Symbolic Execution, by Prof. XU Hui
-- Lecture 13. Fuzz Testing, by Prof. XU Hui
+- Lecture 9. [Program Analysis Basics](lecture9.pptx), by Prof. XU Hui
+- Lecture 10. [Static Program Analysis](lecture10.pptx), by Prof. XU Hui
+- Lecture 11. [Taint Analysis](lecture11.pptx), by Prof. XU Hui
+- Lecture 12. [Symbolic Execution](lecture12.pptx), by Prof. XU Hui
+- Lecture 13. [Fuzz Testing](lecture13.pptx), by Prof. XU Hui
 - Lecture 14. Bug Retrieval, by Prof. XU Hui
 - Lecture 15. Software Obfuscation, by Prof. XU Hui
 - Lecture 16. Memory-Safety Programming, by Prof. XU Hui
