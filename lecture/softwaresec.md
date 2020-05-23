@@ -9,11 +9,11 @@
 - Lecture 6. Input Validation, by Prof. ZHOU Zhe
 - Lecture 7. Sandboxing, by Prof. ZHOU Zhe
 - Lecture 8. Lab, by Prof. ZHOU Zhe
-- Lecture 9. [Program Analysis Basics](lecture9.pptx), by Prof. XU Hui
-- Lecture 10. [Static Program Analysis](lecture10.pptx), by Prof. XU Hui
-- Lecture 11. [Taint Analysis](lecture11.pptx), by Prof. XU Hui
-- Lecture 12. [Symbolic Execution](lecture12.pptx), by Prof. XU Hui
-- Lecture 13. [Fuzz Testing](lecture13.pptx), by Prof. XU Hui
+- Lecture 9. [Program Analysis Basics](software_sec/Chp06.1-ProgramAnalysis.pptx), by Prof. XU Hui
+- Lecture 10. [Static Program Analysis](software_sec/Chp06.2-StaticAnalysis.pptx), by Prof. XU Hui
+- Lecture 11. [Taint Analysis](software_sec/Chp06.3-TaintAnalysis.pptx), by Prof. XU Hui
+- Lecture 12. [Symbolic Execution](software_sec/Chp06.4-SymbolicExecution.pptx), by Prof. XU Hui
+- Lecture 13. [Fuzz Testing](software_sec/Chp06.5-FuzzTesting.pptx), by Prof. XU Hui
 - Lecture 14. Bug Retrieval, by Prof. XU Hui
 - Lecture 15. Software Obfuscation, by Prof. XU Hui
 - Lecture 16. Memory-Safety Programming, by Prof. XU Hui
