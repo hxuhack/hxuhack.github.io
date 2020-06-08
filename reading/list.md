@@ -8,7 +8,7 @@
 
 ## Books
 
-- [Computer Systems: A Programmer's Perspective](https://book.douban.com/subject/3023631/)[website](http://csapp.cs.cmu.edu/), by Randal Bryant and David R. O'Hallaron
+- [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/), by Randal Bryant and David R. O'Hallaron
 - [Pattern Recognition and Machine Learning](https://book.douban.com/subject/2061116/), by Christopher Bishop
 - [The Elements of Style](https://book.douban.com/subject/1433835/), by William Strunk
 
