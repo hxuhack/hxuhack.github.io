@@ -15,7 +15,7 @@
 - Lecture 12. [Symbolic Execution](software_sec/Chp06.4-SymbolicExecution.pptx), by Prof. XU Hui
 - Lecture 13. [Fuzz Testing](software_sec/Chp06.5-FuzzTesting.pptx), by Prof. XU Hui
 - Lecture 14. [Bug Retrieval](software_sec/Chp06.6-BugSearch.pptx), by Prof. XU Hui
-- Lecture 15. Software Obfuscation, by Prof. XU Hui
+- Lecture 15. [Program Obfuscation](software_sec/Chp07.1-Obfuscation.pptx), by Prof. XU Hui
 - Lecture 16. Memory-Safety Programming, by Prof. XU Hui
 
 
