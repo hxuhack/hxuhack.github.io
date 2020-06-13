@@ -25,3 +25,4 @@ When preparing the course materials, we have referenced the following materials:
 - Textbook [Static Program Analysis](https://cs.au.dk/~amoeller/spa/) by Anders Møller and Michael I. Schwartzbach
 - lecture notes [CIS 700 Program Analysis and Testing](https://www.cis.upenn.edu/~mhnaik/edu/cis700/index.html) by [Mayur Naik](https://www.cis.upenn.edu/~mhnaik/)
 - lecture notes [Foundations of Software Engineering](https://www.cs.cmu.edu/~ckaestne/15313/2018/index.html) by [Christian Kästner](http://www.cs.cmu.edu/%7Eckaestne/) and [Michael Hilton](https://www.cs.cmu.edu/%7Emhilton/)
+- [CS 380S Software Security](http://www.cs.utexas.edu/~shmat/courses/cs380s_fall09/cs380s_notes.html) by Vitaly [Shmatikov](http://www.cs.cornell.edu/~shmat/) 
