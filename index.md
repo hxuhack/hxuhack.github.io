@@ -21,4 +21,5 @@ Recently, I move my focus to help developers prevent memory-safety bugs, which i
 
 ##  Academic Service
 
+- Publicity Co-Chair, DSN 2021, Taipei
 - PC Member: DSN 2020 Doctoral Forum
