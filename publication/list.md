@@ -5,7 +5,7 @@
 
 - "Memory-safety challenge considered solved? An empirical study with all Rust CVEs," **Hui Xu**, Zhuangbin Chen, Mingshen Sun, and Yangfan Zhou, _arXiv preprint arXiv:2003.03296_, 2020.
 
-- "Towards Intelligent Incident Management: Why We Need it and How We Make it," Z. Chen, Y. Kang, **H. Xu**, Y. Zhou, F. Gao, L. Yang, J. Sun, Z. Xu, P. Zhao, B. Qiao, L. Li, X. Zhang, Y. Dang, Q. Lin, H. Zhang, D. Zhang, M. Lyu, _in Proc. of the 24th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE)_, Sacramento, California, United States, 2020
+- "Towards intelligent incident management: Why we need it and how we make it," Z. Chen, Y. Kang, **H. Xu**, Y. Zhou, F. Gao, L. Yang, J. Sun, Z. Xu, P. Zhao, B. Qiao, L. Li, X. Zhang, Y. Dang, Q. Lin, H. Zhang, D. Zhang, M. Lyu, _in Proc. of the 24th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE)_, Sacramento, California, United States, Nov 8-13, 2020
 
 - "Layered obfuscation: a taxonomy of software obfuscation techniques for layered security," **Hui Xu**, Yangfan Zhou, Jiang Ming, and Michael Lyu, _Cybersecurity 3, 9 (2020)_, Springer. 
 
