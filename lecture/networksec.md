@@ -9,5 +9,5 @@
 ## Acknowledgement
 When preparing the course materials, we have referenced/used the following materials:
 - Textbook [Network Security Essentials] by William Stallings
-- Textbook [计算机安全导论](https://cs.au.dk/~amoeller/spa/) by 杜文亮
+- Textbook [计算机安全导论](https://www.handsonsecurity.net/chinese/) by 杜文亮
 - lecture notes [CIS 700 Program Analysis and Testing](https://cbw.sh/6740/index.html) by [Christo Wilson](https://cbw.sh/index.html)
