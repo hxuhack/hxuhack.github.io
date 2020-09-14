@@ -1,8 +1,8 @@
 |[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](../publication/list) | [<b>Reading</b>](../reading/list) | [<b>Students</b>](../students/list) | [<b>Leisure</b>](../leisure/list)|
 
 ### Lecture Notes
-- Lecture 1. [网络安全引言](networksec/L0-网络安全引言.pptx)
-- Lecture 2. [基础网络协议攻防](networksec/L1-基础网络协议攻防.pptx)
+- Lecture 1. [网络安全引言](network_sec/L0-网络安全引言.pptx)
+- Lecture 2. [基础网络协议攻防](network_sec/L1-基础网络协议攻防.pptx)
 - Lecture 3. 路由和寻址安全
 
 
