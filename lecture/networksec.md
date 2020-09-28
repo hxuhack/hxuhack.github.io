@@ -3,7 +3,7 @@
 ### Lecture Notes
 - Lecture 1. [网络安全引言](network_sec/L0-网络安全引言.pptx)
 - Lecture 2. [基础网络协议攻防](network_sec/L1-基础网络协议攻防.pptx)
-- Lecture 3. 路由和寻址安全
+- Lecture 3. [互联网攻防基础](network_sec/L2-互联网攻防基础.pptx)
 
 
 ## Acknowledgement
