@@ -1,9 +1,8 @@
 |[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](../publication/list) | [<b>Reading</b>](../reading/list) | [<b>Students</b>](../students/list) | [<b>Leisure</b>](../leisure/list)|
 
-
 ## Publications (chronological order)
 
-- "Memory-safety challenge considered solved? An empirical study with all Rust CVEs," **Hui Xu**, Zhuangbin Chen, Mingshen Sun, and Yangfan Zhou, _arXiv preprint arXiv:2003.03296_, 2020.
+- "Memory-safety challenge considered solved? An empirical study with all Rust CVEs," **Hui Xu**, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, and Michael Lyu, _arXiv preprint arXiv:2003.03296_, 2020.
 
 - "Towards intelligent incident management: Why we need it and how we make it," Z. Chen, Y. Kang, **H. Xu**, Y. Zhou, F. Gao, L. Yang, J. Sun, Z. Xu, P. Zhao, B. Qiao, L. Li, X. Zhang, Y. Dang, Q. Lin, H. Zhang, D. Zhang, M. Lyu, _in Proc. of the 28th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE)_, Sacramento, California, United States, Nov 8-13, 2020
 
