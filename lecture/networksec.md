@@ -1,10 +1,11 @@
 |[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](../publication/list) | [<b>Reading</b>](../reading/list) | [<b>Students</b>](../students/list) | [<b>Leisure</b>](../leisure/list)|
 
 ### Lecture Notes
-- Lecture 1. [网络安全引言](network_sec/L0-网络安全引言.pptx)
-- Lecture 2. [基础网络协议攻防](network_sec/L1-基础网络协议攻防.pptx)
-- Lecture 3. [互联网攻防基础](network_sec/L2-互联网攻防基础.pptx)
-- Lecture 4. [DNS攻击实验](network_sec/L2-DNS攻击实验.pptx)
+- [网络安全引言](network_sec/L0-网络安全引言.pptx)
+- [基础网络协议攻防](network_sec/L1-基础网络协议攻防.pptx)
+- [互联网攻防基础](network_sec/L2-互联网攻防基础.pptx)
+- [TCP攻击实验](network_sec/L1Lab-TCP攻击实验.pptx)
+- [DNS攻击实验](network_sec/L2Lab-DNS攻击实验.pptx)
 
 
 ## Acknowledgement
