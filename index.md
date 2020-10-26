@@ -4,8 +4,8 @@
 |青年副研究员 <br> 复旦大学 计算机学院 <br> 电邮：xuh[AT]fudan.edu.cn  <br> 地址：复旦大学江湾校区 交叉二号楼D6023室 <br> 上海市 杨浦区 淞沪路2005号  | Pre-tenure Associate Professor <br>School of Computer Science, Fudan University	<br>Email: xuh[AT]fudan.edu.cn	<br>Address: Fudan University (Jiangwan Campus), <br> Yangpu District, Shanghai, China	|
 
 ## Research
-<span style="color: blue"> 研究兴趣：结合人工智能和逻辑推理的方法解决软件系统的可靠性和安全性问题 </span>
-### Research Project:
+Software Reliability and Security
+## Research Project:
 - [Intelligent API Testing for Cloud Services](project/cloud)
 - [Memory-safety Bug Prevention Based on Rust](project/rust)
 
