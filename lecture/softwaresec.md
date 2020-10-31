@@ -19,7 +19,7 @@
 - Lecture 16. [Memory-Safety Programming](software_sec/Chp08.1-Rust.pptx), by Prof. XU Hui
 
 
-## Acknowledgement
+### Acknowledgement
 When preparing the course materials, we have referenced the following materials:
 - [SEED Labs](https://seedsecuritylabs.org/index.html) by [Prof. Wenliang Du](http://www.cis.syr.edu/~wedu/)
 - Textbook [Static Program Analysis](https://cs.au.dk/~amoeller/spa/) by Anders Møller and Michael I. Schwartzbach
