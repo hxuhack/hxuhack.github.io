@@ -10,7 +10,7 @@
 - [PKI及其应用](network_sec/L4-PKI及其应用.pptx)
 
 
-## Acknowledgement
+### Acknowledgement
 When preparing the course materials, we have referenced/used the following materials:
 - Textbook [Network Security Essentials] by William Stallings
 - Textbook [计算机安全导论](https://www.handsonsecurity.net/chinese/) by 杜文亮
