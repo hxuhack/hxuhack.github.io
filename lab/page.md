@@ -7,7 +7,7 @@
 ![avatar](rust.png)
 Some preliminary results can be found [here](https://arxiv.org/abs/2003.03296)
 
-#### 主要成员：
+#### 项目成员：
 - 姜剑锋
 - 崔漠寒 
 - 陈澄钧
@@ -15,7 +15,7 @@ Some preliminary results can be found [here](https://arxiv.org/abs/2003.03296)
 
 ### Project2: Intelligent API Testing for Cloud Services
 
-#### 主要成员
+#### 项目成员
 - 陈阳
 - 林佳贤
 - 李天宇
