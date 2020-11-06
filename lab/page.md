@@ -6,19 +6,20 @@
 ### Project1: Memory-safety Bug Prevention Based on Rust
 Some preliminary results can be found [here](https://arxiv.org/abs/2003.03296)
 
-
-### Project2: Intelligent API Testing for Cloud Services
-
-### 团队成员
+#### 主要成员：
 - 姜剑锋
-- 罗思成
 - 崔漠寒 
 - 陈澄钧
 - 卢修文
+
+### Project2: Intelligent API Testing for Cloud Services
+
+#### 主要成员
 - 陈阳
 - 林佳贤
 - 李天宇
 - 候梦圆
+- 罗思成
 
 ### FYP Student 
  - 沈家诚 (2020）, 自动注释生成模型的可解释性研究
