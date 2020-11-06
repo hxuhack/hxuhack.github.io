@@ -4,6 +4,7 @@
 复旦大学智能软件可靠性实验室（AISR-Lab）专注程序分析、软件测试等软件可靠性技术研究，并致力于将研究成果应用于移动计算、云计算、人工智能等系统软件的可靠性提升。
 
 ### Project1: Memory-safety Bug Prevention Based on Rust
+
 ![avatar](rust.png)
 Some preliminary results can be found [here](https://arxiv.org/abs/2003.03296)
 
@@ -14,6 +15,8 @@ Some preliminary results can be found [here](https://arxiv.org/abs/2003.03296)
 - 卢修文
 
 ### Project2: Intelligent API Testing for Cloud Services
+
+![avatar](cloud.png)
 
 #### 项目成员
 - 陈阳
