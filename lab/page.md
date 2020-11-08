@@ -27,3 +27,5 @@ Some preliminary results can be found [here](https://arxiv.org/abs/2003.03296)
 
 ### FYP Student 
  - 沈家诚 (2020）, 自动注释生成模型的可解释性研究
+
+### We thank all the generous supporters for our research, including Huawei, CERNET, etc.
