@@ -1,4 +1,4 @@
-|[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](../publication/list) | [<b>Reading</b>](../reading/list) | [<b>Students</b>](../students/list) | [<b>Leisure</b>](../leisure/list)|
+|[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](publication/list) | [<b>AISR-Lab</b>](lab/page) | [<b>Misc</b>](misc/list) |
 
 ### Lecture Notes
 - Lecture 1. Introduction to Software Security, by Prof. ZHOU Zhe
@@ -9,14 +9,14 @@
 - Lecture 6. Input Validation, by Prof. ZHOU Zhe
 - Lecture 7. Sandboxing, by Prof. ZHOU Zhe
 - Lecture 8. Lab, by Prof. ZHOU Zhe
-- Lecture 9. [Program Analysis Basics](software_sec/Chp06.1-ProgramAnalysis.pptx), by Prof. XU Hui
-- Lecture 10. [Static Program Analysis](software_sec/Chp06.2-StaticAnalysis.pptx), by Prof. XU Hui
-- Lecture 11. [Taint Analysis](software_sec/Chp06.3-TaintAnalysis.pptx), by Prof. XU Hui
-- Lecture 12. [Symbolic Execution](software_sec/Chp06.4-SymbolicExecution.pptx), by Prof. XU Hui
-- Lecture 13. [Fuzz Testing](software_sec/Chp06.5-FuzzTesting.pptx), by Prof. XU Hui
-- Lecture 14. [Bug Retrieval](software_sec/Chp06.6-BugSearch.pptx), by Prof. XU Hui
-- Lecture 15. [Program Obfuscation](software_sec/Chp07.1-Obfuscation.pptx), by Prof. XU Hui
-- Lecture 16. [Memory-Safety Programming](software_sec/Chp08.1-Rust.pptx), by Prof. XU Hui
+- Lecture 9. [Program Analysis Basics](software_sec/Chp06.1-ProgramAnalysis.pptx)
+- Lecture 10. [Static Program Analysis](software_sec/Chp06.2-StaticAnalysis.pptx)
+- Lecture 11. [Taint Analysis](software_sec/Chp06.3-TaintAnalysis.pptx)
+- Lecture 12. [Symbolic Execution](software_sec/Chp06.4-SymbolicExecution.pptx)
+- Lecture 13. [Fuzz Testing](software_sec/Chp06.5-FuzzTesting.pptx)
+- Lecture 14. [Bug Retrieval](software_sec/Chp06.6-BugSearch.pptx)
+- Lecture 15. [Program Obfuscation](software_sec/Chp07.1-Obfuscation.pptx)
+- Lecture 16. [Memory-Safety Programming](software_sec/Chp08.1-Rust.pptx)
 
 
 ### Acknowledgement
