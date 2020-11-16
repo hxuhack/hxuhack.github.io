@@ -8,6 +8,8 @@
 - [DNS攻击实验](network_sec/L2Lab-DNS攻击实验.pptx)
 - [常用密码算法](network_sec/L3-常用密码算法.pdf)
 - [PKI及其应用](network_sec/L4-PKI及其应用.pptx)
+- [数字证书应用实验](network_sec/L4Lab1-数字证书应用.pptx)
+- [Heartbleed漏洞实验](network_sec/L4Lab2-Heartbleed漏洞实验.pptx)
 - [AAA](network_sec/L5-AAA.pptx)
 
 
