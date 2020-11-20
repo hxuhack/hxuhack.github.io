@@ -4,11 +4,11 @@
 
 - "Memory-safety challenge considered solved? An empirical study with all Rust CVEs," **Hui Xu**, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, and Michael Lyu, _arXiv preprint arXiv:2003.03296_, 2020.
 
-- "Towards intelligent incident management: Why we need it and how we make it," Zhuangbin Chen, Yu Kang, Liqun Li, Xu Zhang, Hongyu Zhang, **Hui Xu**, Yangfan Zhou, et al, _in Proc. of the 28th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE)_, Sacramento, California, United States, Nov 8-13, 2020
+- "Towards intelligent incident management: Why we need it and how we make it," Zhuangbin Chen, Yu Kang, Liqun Li, Xu Zhang, Hongyu Zhang, **Hui Xu**, Yangfan Zhou, et al, _in Proc. of the 28th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE)_, Sacramento, California, United States, Nov 8-13, 2020.
 
 - "Layered obfuscation: a taxonomy of software obfuscation techniques for layered security," **Hui Xu**, Yangfan Zhou, Jiang Ming, and Michael Lyu, _Cybersecurity 3, 9 (2020)_, Springer. 
 
-- "Benchmarking the capability of symbolic execution tools with logic bombs," **Hui Xu**, Zirui Zhao, Yangfan Zhou, and Michael R. Lyu, _Transactions on Dependable and Secure Computing (TDSC) vol 7, no 6_, 2020. pp.1243-1256.  
+- "Benchmarking the capability of symbolic execution tools with logic bombs," **Hui Xu**, Zirui Zhao, Yangfan Zhou, and Michael R. Lyu, _Transactions on Dependable and Secure Computing (TDSC), vol 7, no 6_, 2020. pp.1243-1256.  
 
 - "Textout: Detecting text-layout bugs in mobile apps via visualization-oriented learning," Yaohui Wang, **Hui Xu**, Yangfan Zhou, Michael R. Lyu, Xin Wang, _in Proc. of the 30th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Berlin, Germany, 2019.
 
