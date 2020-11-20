@@ -8,13 +8,13 @@
 
 - "Layered obfuscation: a taxonomy of software obfuscation techniques for layered security," **Hui Xu**, Yangfan Zhou, Jiang Ming, and Michael Lyu, _Cybersecurity 3, 9 (2020)_, Springer. 
 
+- "Benchmarking the capability of symbolic execution tools with logic bombs," **Hui Xu**, Zirui Zhao, Yangfan Zhou, and Michael R. Lyu, _Transactions on Dependable and Secure Computing (TDSC) vol 7, no 6_, 2020. pp.1243-1256.  
+
 - "Textout: Detecting text-layout bugs in mobile apps via visualization-oriented learning," Yaohui Wang, **Hui Xu**, Yangfan Zhou, Michael R. Lyu, Xin Wang, _in Proc. of the 30th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Berlin, Germany, 2019.
 
 - "NV-DNN: Towards fault-tolerant DNN systems with n-version programming," **Hui Xu**, Zhuangbin Chen, Weibin Wu, Zhi Jin, Sy-yen Kuo, and Michael R. Lyu, _in Proc. of the 2nd Workshop on Dependable and Secure Machine Learning (DSN-DSML)_, Portland, Oregon, USA, June 24–27, 2019. 
 
 - "Deep validation: Toward detecting real-world corner cases for deep neural networks," Weibin Wu, **Hui Xu**, Sanqiang Zhong, Michael R Lyu, and Irwin King, _in Proc. of the 49th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, Portland, Oregon, USA, June 24–27, 2019. 
-
-- "Benchmarking the capability of symbolic execution tools with logic bombs," **Hui Xu**, Zirui Zhao, Yangfan Zhou, and Michael R. Lyu, _Transactions on Dependable and Secure Computing (TDSC)_,early access, 2018. 
 
 - "Manufacturing resilient bi-opaque predicates against symbolic execution," **Hui Xu**, Yangfan Zhou, Yu Kang, Fengzhi Tu and Michael R. Lyu, _in Proc. of the 48th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, Luxembourg City, Luxembourg, June 1-5, 2018. 
 
