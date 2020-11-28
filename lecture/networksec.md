@@ -11,6 +11,7 @@
 - [数字证书应用实验](network_sec/L4Lab1-数字证书应用.pptx)
 - [Heartbleed漏洞实验](network_sec/L4Lab2-Heartbleed漏洞实验.pptx)
 - [AAA](network_sec/L5-AAA.pptx)
+- [Web安全](network_sec/L6-Web安全.pptx)
 
 
 ### Acknowledgement
