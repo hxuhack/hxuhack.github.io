@@ -12,6 +12,7 @@
 - [Heartbleed漏洞实验](network_sec/L4Lab2-Heartbleed漏洞实验.pptx)
 - [AAA](network_sec/L5-AAA.pptx)
 - [Web安全](network_sec/L6-Web安全.pptx)
+- [隐私泄漏与保护](network_sec/L7-隐私泄漏与保护.pptx)
 
 
 ### Acknowledgement
