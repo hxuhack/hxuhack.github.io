@@ -13,6 +13,7 @@
 - [AAA](network_sec/L5-AAA.pptx)
 - [Web安全](network_sec/L6-Web安全.pptx)
 - [隐私泄漏与保护](network_sec/L7-隐私泄漏与保护.pptx)
+- [网络犯罪](network_sec/L8-网络犯罪.pptx)
 
 
 ### Acknowledgement
