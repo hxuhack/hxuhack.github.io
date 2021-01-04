@@ -1,4 +1,4 @@
-|[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](../publication/list) | [<b>Lab</b>](../lab/page) | [<b>Misc</b>](../misc/list) |
+|[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](../publication/list) | [<b>Artiste-Lab</b>](../lab/page) | [<b>Misc</b>](../misc/list) |
 
 
 ## Stories
