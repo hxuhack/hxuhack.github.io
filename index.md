@@ -1,4 +1,4 @@
-|[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](publication/list) | [<b>Artiste-Lab</b>](lab/page) | [<b>Photo</b>](photo/page) | [<b>Misc</b>](misc/list) |
+|[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](publication/list) | [<b>Artiste-Lab</b>](lab/page) | [<b>Beauty-Fudan</b>](photo/page) | [<b>Misc</b>](misc/list) |
 
 
 |青年副研究员 <br> 复旦大学 计算机学院 <br> 电邮：xuh[AT]fudan.edu.cn  <br> 地址：复旦大学江湾校区 交叉二号楼D6023室 <br> 上海市 杨浦区 淞沪路2005号  | Pre-tenure Associate Professor <br>School of Computer Science, Fudan University	<br>Email: xuh[AT]fudan.edu.cn	<br>Address: Fudan University (Jiangwan Campus), <br> Yangpu District, Shanghai, China	|
@@ -20,5 +20,6 @@ Software Reliability and Security
 
 ##  Academic Service
 
-- Publicity Co-Chair, DSN 2021, Taipei
-- PC Member, DSN 2020 Doctoral Forum
+- General Co-Chair, [DSML 2021](https://dependablesecureml.github.io), Taipei
+- Publicity Co-Chair, [DSN 2021](http://dsn2021.ntu.edu.tw), Taipei
+- PC Member, [DSN 2020 Doctoral Forum](https://dsn2020.webs.upv.es/final-program/doctoral-forum/), Valencia
