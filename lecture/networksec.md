@@ -1,4 +1,4 @@
-|[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](publication/list) | [<b>Artiste-Lab</b>](lab/page) | [<b>Misc</b>](misc/list) |
+|[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](publication/list) | [<b>Artiste-Lab</b>](lab/page) | [<b>Photo</b>](photo/page) | [<b>Misc</b>](misc/list) |
 
 ### Lecture Notes
 - [网络安全引言](network_sec/L0-网络安全引言.pptx)
