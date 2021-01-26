@@ -1,7 +1,7 @@
-|[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](publication/list) | [<b>Artiste-Lab</b>](lab/page) | [<b>Beauty-Fudan</b>](photo/page) | [<b>Misc</b>](misc/list) |
+|[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](publication/list) | [<b>Artisan-Lab</b>](lab/page) | [<b>Beauty-Fudan</b>](photo/page) | [<b>Misc</b>](misc/list) |
 
 ### Short Bio
-I am currently a Pre-tenure Associate Professor in the School of Computer Science, Fudan University. My research interests include program analysis and software reliability modeling, as well as their applications in AI systems, mobile computing, and cloud. I run a research group, namely [Artiste-Lab](lab/page). Before joining Fudan University, I was a Postdoctoral Researcher at the Chinese University of Hong Kong with CUHK Postdoctoral Research Fellowship. I also obtained my Ph.D. degree from CUHK, supervised by [Prof. Michael Lyu](http://www.cse.cuhk.edu.hk/lyu/), M.Sc. degree from Hong Kong University, and B.Eng and B.M degrees from China University of Geosciences (Beijing).
+I am currently a Pre-tenure Associate Professor in the School of Computer Science, Fudan University. My research interests include program analysis and software reliability modeling, as well as their applications in AI systems, mobile computing, and cloud. I run a research group, namely [Artisan-Lab](lab/page). Before joining Fudan University, I was a Postdoctoral Researcher at the Chinese University of Hong Kong with CUHK Postdoctoral Research Fellowship. I also obtained my Ph.D. degree from CUHK, supervised by [Prof. Michael Lyu](http://www.cse.cuhk.edu.hk/lyu/), M.Sc. degree from Hong Kong University, and B.Eng and B.M degrees from China University of Geosciences (Beijing).
 
 **Email**: xuh[AT]fudan.edu.cn	
 
