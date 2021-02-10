@@ -15,7 +15,3 @@ Please find our projects [here](https://artiste-lab.github.io).
  - 陶永志 (2021)
  - 李纳川 (2021)
  - 沈家诚 (2020）, 自动注释生成模型的可解释性研究
-
-### Acknowledgement
-
-We thank all the generous supporters for our research, including Huawei, CERNET, etc.
