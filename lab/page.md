@@ -3,7 +3,7 @@
 
 复旦大学智能软件分析实验室（Artisan-Lab: Artificial Intelligence for Software Analysis Laboratory）专注程序分析、软件测试等软件可靠性技术研究，并致力于将研究成果应用于移动计算、云计算、人工智能等系统软件的可靠性提升。
 
-Please find our projects [here](https://artiste-lab.github.io).
+Please find our projects [here](https://artisan-lab.github.io).
 
 ### Master Student
 - 崔漠寒 (2020 - now)
