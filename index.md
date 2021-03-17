@@ -14,8 +14,9 @@ I am currently a Pre-tenure Associate Professor in the School of Computer Scienc
 
 ###  Teaching
 
-- [COMP130159.01 软件安全 Software Security](lecture/softwaresec), Spring 2020
-- [COMP130189.01 网络安全 Network Security](lecture/networksec), Autumn 2020, Spring 2021
+- SOFT130061 编译原理 Compiler Theory and Practice, Autumn 2021
+- [COMP130159 软件安全 Software Security](lecture/softwaresec), Spring 2020
+- [COMP130189 网络安全 Network Security](lecture/networksec), Autumn 2020, Spring 2021
 
 
 ###  Academic Service
