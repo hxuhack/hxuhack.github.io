@@ -2,6 +2,8 @@
 
 ## Publications (chronological order)
 
+- "SafeDrop: Detecting Memory Deallocation Bugs of Rust Programs via Static Data-Flow Analysis," Mohan Cui, Chengjun Chen, Hui Xu, Yangfan Zhou, _arXiv preprint arXiv:2103.15420_, 2021 
+
 - "Memory-safety challenge considered solved? An empirical study with all Rust CVEs," **Hui Xu**, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, and Michael Lyu, _arXiv preprint arXiv:2003.03296_, 2020.
 
 - "Towards intelligent incident management: Why we need it and how we make it," Zhuangbin Chen, Yu Kang, Liqun Li, Xu Zhang, Hongyu Zhang, **Hui Xu**, Yangfan Zhou, et al, _in Proc. of the 28th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE)_, Sacramento, California, United States, Nov 8-13, 2020.
