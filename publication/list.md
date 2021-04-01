@@ -2,7 +2,7 @@
 
 ## Publications (chronological order)
 
-- "SafeDrop: Detecting Memory Deallocation Bugs of Rust Programs via Static Data-Flow Analysis," Mohan Cui, Chengjun Chen, Hui Xu, Yangfan Zhou, _arXiv preprint arXiv:2103.15420_, 2021 
+- "SafeDrop: Detecting Memory Deallocation Bugs of Rust Programs via Static Data-Flow Analysis," Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _arXiv preprint arXiv:2103.15420_, 2021 
 
 - "Memory-safety challenge considered solved? An empirical study with all Rust CVEs," **Hui Xu**, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, and Michael Lyu, _arXiv preprint arXiv:2003.03296_, 2020.
 
