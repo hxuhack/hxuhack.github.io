@@ -2,7 +2,7 @@
 
 ## Publications (chronological order)
 
-- "SafeDrop: Detecting Memory Deallocation Bugs of Rust Programs via Static Data-Flow Analysis," Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _arXiv preprint arXiv:2103.15420_, 2021 
+- "SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis," Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _arXiv preprint arXiv:2103.15420_, 2021. (corresponding author)
 
 - "Memory-safety challenge considered solved? An empirical study with all Rust CVEs," **Hui Xu**, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, and Michael Lyu, _arXiv preprint arXiv:2003.03296_, 2020.
 
@@ -16,7 +16,7 @@
 
 - "NV-DNN: Towards fault-tolerant DNN systems with n-version programming," **Hui Xu**, Zhuangbin Chen, Weibin Wu, Zhi Jin, Sy-yen Kuo, and Michael R. Lyu, _in Proc. of the 2nd Workshop on Dependable and Secure Machine Learning (DSN-DSML)_, Portland, Oregon, USA, June 24–27, 2019. 
 
-- "Deep validation: Toward detecting real-world corner cases for deep neural networks," Weibin Wu, **Hui Xu**, Sanqiang Zhong, Michael R Lyu, and Irwin King, _in Proc. of the 49th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, Portland, Oregon, USA, June 24–27, 2019. 
+- "Deep validation: Toward detecting real-world corner cases for deep neural networks," Weibin Wu, **Hui Xu**, Sanqiang Zhong, Michael R Lyu, and Irwin King, _in Proc. of the 49th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, Portland, Oregon, USA, June 24–27, 2019. (corresponding author)
 
 - "Manufacturing resilient bi-opaque predicates against symbolic execution," **Hui Xu**, Yangfan Zhou, Yu Kang, Fengzhi Tu and Michael R. Lyu, _in Proc. of the 48th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, Luxembourg City, Luxembourg, June 1-5, 2018. 
 
