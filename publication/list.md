@@ -2,7 +2,7 @@
 
 ## Publications (chronological order)
 
-- "Boosting symbolic execution via constraint solving time prediction: An experience report," Sicheng Luo, **Hui Xu**, Yanyang Bi, Yangfan Zhou, Xin Wang, to appear in ISSTA 2021 (corresponding author).
+- "Boosting symbolic execution via constraint solving time prediction: An experience report," Sicheng Luo, **Hui Xu**, Yanyang Bi, Yangfan Zhou, Xin Wang, to appear in ISSTA 2021. (corresponding author)
  
 - "SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis," Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _arXiv preprint arXiv:2103.15420_, 2021. (corresponding author)
 
