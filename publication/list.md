@@ -1,10 +1,12 @@
 |[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](../publication/list) | [<b>Artisan-Lab</b>](../lab/page) | [<b>Beauty-Fudan</b>](../photo/page) | [<b>Misc</b>](../misc/list) |
 
 ## Publications (chronological order)
+ 
+- "RULF: Rust Library Fuzzing via API Dependency Graph Traversal," Jianfeng Jiang, **Hui Xu**, Yangfan Zhou, _arXiv preprint arXiv:2104.12064_, 2021. (corresponding author)
+
+- "SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis," Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _arXiv preprint arXiv:2103.15420_, 2021. (corresponding author)
 
 - "Boosting symbolic execution via constraint solving time prediction: An experience report," Sicheng Luo, **Hui Xu**, Yanyang Bi, Yangfan Zhou, Xin Wang, to appear in ISSTA 2021. (corresponding author)
- 
-- "SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis," Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _arXiv preprint arXiv:2103.15420_, 2021. (corresponding author)
 
 - "Memory-safety challenge considered solved? An empirical study with all Rust CVEs," **Hui Xu**, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, and Michael Lyu, _arXiv preprint arXiv:2003.03296_, 2020.
 
