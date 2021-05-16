@@ -6,8 +6,6 @@
 
 - "SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis," Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _arXiv preprint arXiv:2103.15420_, 2021. (corresponding author)
 
-- "Boosting symbolic execution via constraint solving time prediction: An experience report," Sicheng Luo, **Hui Xu**, Yanyang Bi, Yangfan Zhou, Xin Wang, _to appear in Proc. of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)_, 2021. (corresponding author)
-
 - "Towards intelligent incident management: Why we need it and how we make it," Zhuangbin Chen, Yu Kang, Liqun Li, Xu Zhang, Hongyu Zhang, **Hui Xu**, Yangfan Zhou, et al, _in Proc. of the 28th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE)_, Sacramento, California, United States, Nov 8-13, 2020.
 
 - "Layered obfuscation: a taxonomy of software obfuscation techniques for layered security," **Hui Xu**, Yangfan Zhou, Jiang Ming, and Michael Lyu, _Cybersecurity 3, 9 (2020)_, Springer. 
