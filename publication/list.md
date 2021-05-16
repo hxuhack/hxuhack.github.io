@@ -39,6 +39,3 @@
 - "AR-Tracker: Track the dynamics of mobile Apps via user review mining," Cuiyun Gao, **Hui Xu**, Junjie Hu, and Yangfan Zhou, _in Proc. of the 2015 International Workshop on Internet-based Virtual Computing Environment (IVCE)_, 2015. 
 
 - "Towards continuous and passive authentication via touch biometrics: An experimental study on smartphones," **Hui Xu**, Yangfan Zhou, and Michael R. Lyu, _in Proc. of the USENIX Symposium on Usable Privacy and Security (SOUPS)_, Menlo Park, CA, USA, July 9-11, 2014.
-
-
-
