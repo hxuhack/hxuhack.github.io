@@ -6,9 +6,9 @@
 
 - "SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis," Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _arXiv preprint arXiv:2103.15420_, 2021. (corresponding author)
 
-- "Boosting symbolic execution via constraint solving time prediction: An experience report," Sicheng Luo, **Hui Xu**, Yanyang Bi, Yangfan Zhou, Xin Wang, _to appear in Proc. of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)_, 2021. (corresponding author)
+- "Memory-safety challenge considered solved? An empirical study with all Rust CVEs," **Hui Xu**, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, and Michael Lyu, _accepted by ACM Transactions on Software Engineering and Methodology (TOSEM)_, 2021.
 
-- "Memory-safety challenge considered solved? An empirical study with all Rust CVEs," **Hui Xu**, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, and Michael Lyu, _Accepted by ACM Transactions on Software Engineering and Methodology (TOSEM)_, 2021.
+- "Boosting symbolic execution via constraint solving time prediction: An experience report," Sicheng Luo, **Hui Xu**, Yanyang Bi, Yangfan Zhou, Xin Wang, _to appear in Proc. of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)_, 2021. (corresponding author)
 
 - "Towards intelligent incident management: Why we need it and how we make it," Zhuangbin Chen, Yu Kang, Liqun Li, Xu Zhang, Hongyu Zhang, **Hui Xu**, Yangfan Zhou, et al, _in Proc. of the 28th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE)_, Sacramento, California, United States, Nov 8-13, 2020.
 
