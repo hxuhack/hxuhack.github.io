@@ -2,9 +2,7 @@
 
 ## Publications (chronological order)
  
-- "RULF: Rust library fuzzing via API dependency graph traversal," Jianfeng Jiang, **Hui Xu**, Yangfan Zhou, _arXiv preprint arXiv:2104.12064_, 2021. (corresponding author)
 
-- "SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis," Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _arXiv preprint arXiv:2103.15420_, 2021. (corresponding author)
 
 - "Towards intelligent incident management: Why we need it and how we make it," Zhuangbin Chen, Yu Kang, Liqun Li, Xu Zhang, Hongyu Zhang, **Hui Xu**, Yangfan Zhou, et al, _in Proc. of the 28th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE)_, Sacramento, California, United States, Nov 8-13, 2020.
 
