@@ -8,7 +8,7 @@
   
 - "SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis," Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _arXiv preprint arXiv:2103.15420_, 2021. (corresponding author)
 
-- "Boosting symbolic execution via constraint solving time prediction: An experience report," Sicheng Luo, **Hui Xu**, Yanyang Bi, Yangfan Zhou, Xin Wang, _to appear in Proc. of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis (<span style="color: red">ISSTA</span>)_, 2021. (corresponding author)
+- "Boosting symbolic execution via constraint solving time prediction: An experience report," Sicheng Luo, **Hui Xu**, Yanyang Bi, Yangfan Zhou, Xin Wang, in Proc. of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis (<span style="color: red">ISSTA</span>)_, 2021. (corresponding author)
 
 - "Towards intelligent incident management: Why we need it and how we make it," Zhuangbin Chen, Yu Kang, Liqun Li, Xu Zhang, Hongyu Zhang, **Hui Xu**, Yangfan Zhou, et al, _in Proc. of the 28th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (<span style="color: red">FSE</span>)_, Sacramento, California, United States, Nov 8-13, 2020.
 
@@ -18,7 +18,7 @@
 
 - "Textout: Detecting text-layout bugs in mobile apps via visualization-oriented learning," Yaohui Wang, **Hui Xu**, Yangfan Zhou, Michael R. Lyu, Xin Wang, _in Proc. of the 30th IEEE International Symposium on Software Reliability Engineering (<span style="color: red">ISSRE</span>)_, Berlin, Germany, 2019.
 
-- "NV-DNN: Towards fault-tolerant DNN systems with n-version programming," **Hui Xu**, Zhuangbin Chen, Weibin Wu, Zhi Jin, Sy-yen Kuo, and Michael R. Lyu, _in Proc. of the 2nd Workshop on Dependable and Secure Machine Learning (<span style="color: red">DSML</span>)_, Portland, Oregon, USA, June 24–27, 2019. 
+- "NV-DNN: Towards fault-tolerant DNN systems with n-version programming," **Hui Xu**, Zhuangbin Chen, Weibin Wu, Zhi Jin, Sy-yen Kuo, and Michael R. Lyu, _in Proc. of the 2nd Workshop on Dependable and Secure Machine Learning (<span style="color: red">DSML, in conjunction with DSN</span>)_, Portland, Oregon, USA, June 24–27, 2019. 
 
 - "Deep validation: Toward detecting real-world corner cases for deep neural networks," Weibin Wu, **Hui Xu**, Sanqiang Zhong, Michael R Lyu, and Irwin King, _in Proc. of the 49th IEEE/IFIP International Conference on Dependable Systems and Networks (<span style="color: red">DSN</span>)_, Portland, Oregon, USA, June 24–27, 2019. (corresponding author)
 
