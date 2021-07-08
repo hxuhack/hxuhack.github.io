@@ -11,7 +11,7 @@ I am currently a Pre-tenure Associate Professor in the School of Computer Scienc
 - [Intelligent API Testing for Cloud Services](lab/page)
 - [Memory-safety Bug Prevention Based on Rust](lab/page)
 
-### Selective Paper:
+### Selected Paper:
 
 - "RULF: Rust library fuzzing via API dependency graph traversal," Jianfeng Jiang, **Hui Xu**, Yangfan Zhou, _to appear in Prof. of the 36th IEEE/ACM International Conference on Automated Software Engineering (<span style="color: red">ASE</span>)_, 2021. (corresponding author)
 
