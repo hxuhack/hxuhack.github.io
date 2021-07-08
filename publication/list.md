@@ -2,7 +2,7 @@
 
 ## Publications (chronological order)
 
-- "RULF: Rust library fuzzing via API dependency graph traversal," Jianfeng Jiang, **Hui Xu**, Yangfan Zhou, _arXiv preprint arXiv:2104.12064_, 2021. (corresponding author)
+- "RULF: Rust library fuzzing via API dependency graph traversal," Jianfeng Jiang, **Hui Xu**, Yangfan Zhou, _to appear in Prof. of the 36th IEEE/ACM International Conference on Automated Software Engineering (ASE)_, 2021. (corresponding author)
 
 - "SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis," Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _arXiv preprint arXiv:2103.15420_, 2021. (corresponding author)
 
