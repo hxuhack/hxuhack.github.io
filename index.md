@@ -11,6 +11,17 @@ I am currently a Pre-tenure Associate Professor in the School of Computer Scienc
 - [Intelligent API Testing for Cloud Services](lab/page)
 - [Memory-safety Bug Prevention Based on Rust](lab/page)
 
+### Selective Paper:
+"RULF: Rust library fuzzing via API dependency graph traversal," Jianfeng Jiang, Hui Xu, Yangfan Zhou, to appear in Prof. of the 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2021. (corresponding author)
+
+"Memory-safety challenge considered solved? An in-depth study with all Rust CVEs," Hui Xu, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, and Michael Lyu, accepted by ACM Transactions on Software Engineering and Methodology (TOSEM), 2021.
+
+"SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis," Mohan Cui, Chengjun Chen, Hui Xu, Yangfan Zhou, arXiv preprint arXiv:2103.15420, 2021. (corresponding author)
+
+"Boosting symbolic execution via constraint solving time prediction: An experience report," Sicheng Luo, Hui Xu, Yanyang Bi, Yangfan Zhou, Xin Wang, to appear in Proc. of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2021. (corresponding author)
+
+"Benchmarking the capability of symbolic execution tools with logic bombs," Hui Xu, Zirui Zhao, Yangfan Zhou, and Michael R. Lyu, Transactions on Dependable and Secure Computing (TDSC), vol 7, no 6, 2020. pp.1243-1256.
+
 
 ###  Teaching
 
