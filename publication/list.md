@@ -12,17 +12,17 @@
 
 - "[Towards intelligent incident management: Why we need it and how we make it](https://dl.acm.org/doi/abs/10.1145/3368089.3417055)," Zhuangbin Chen, Yu Kang, Liqun Li, Xu Zhang, Hongyu Zhang, **Hui Xu**, Yangfan Zhou, et al, _in Proc. of the 28th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (<span style="color: red">FSE</span>)_, Sacramento, California, United States, Nov 8-13, 2020.
 
-- "Layered obfuscation: a taxonomy of software obfuscation techniques for layered security," **Hui Xu**, Yangfan Zhou, Jiang Ming, and Michael Lyu, _Cybersecurity 3, 9 (2020)_, Springer. 
+- "[Layered obfuscation: a taxonomy of software obfuscation techniques for layered security](https://cybersecurity.springeropen.com/articles/10.1186/s42400-020-00049-3)," **Hui Xu**, Yangfan Zhou, Jiang Ming, and Michael Lyu, _Cybersecurity 3, 9 (2020)_, Springer. 
 
-- "Benchmarking the capability of symbolic execution tools with logic bombs," **Hui Xu**, Zirui Zhao, Yangfan Zhou, and Michael R. Lyu, _Transactions on Dependable and Secure Computing (<span style="color: red">TDSC</span>), vol 7, no 6_, 2020. pp.1243-1256.  
+- "[Benchmarking the capability of symbolic execution tools with logic bombs](https://ieeexplore.ieee.org/document/8443109)," **Hui Xu**, Zirui Zhao, Yangfan Zhou, and Michael R. Lyu, _Transactions on Dependable and Secure Computing (<span style="color: red">TDSC</span>), vol 7, no 6_, 2020. pp.1243-1256.  
 
-- "Textout: Detecting text-layout bugs in mobile apps via visualization-oriented learning," Yaohui Wang, **Hui Xu**, Yangfan Zhou, Michael R. Lyu, Xin Wang, _in Proc. of the 30th IEEE International Symposium on Software Reliability Engineering (<span style="color: red">ISSRE</span>)_, Berlin, Germany, 2019.
+- "[Textout: Detecting text-layout bugs in mobile apps via visualization-oriented learning](https://ieeexplore.ieee.org/document/8987514)," Yaohui Wang, **Hui Xu**, Yangfan Zhou, Michael R. Lyu, Xin Wang, _in Proc. of the 30th IEEE International Symposium on Software Reliability Engineering (<span style="color: red">ISSRE</span>)_, Berlin, Germany, 2019.
 
-- "NV-DNN: Towards fault-tolerant DNN systems with n-version programming," **Hui Xu**, Zhuangbin Chen, Weibin Wu, Zhi Jin, Sy-yen Kuo, and Michael R. Lyu, _in Proc. of the 2nd Workshop on Dependable and Secure Machine Learning (<span style="color: red">DSML, in conjunction with DSN</span>)_, Portland, Oregon, USA, June 24–27, 2019. 
+- "[NV-DNN: Towards fault-tolerant DNN systems with n-version programming](https://ieeexplore.ieee.org/document/8806007)," **Hui Xu**, Zhuangbin Chen, Weibin Wu, Zhi Jin, Sy-yen Kuo, and Michael R. Lyu, _in Proc. of the 2nd Workshop on Dependable and Secure Machine Learning (<span style="color: red">DSML, in conjunction with DSN</span>)_, Portland, Oregon, USA, June 24–27, 2019. 
 
-- "Deep validation: Toward detecting real-world corner cases for deep neural networks," Weibin Wu, **Hui Xu**, Sanqiang Zhong, Michael R Lyu, and Irwin King, _in Proc. of the 49th IEEE/IFIP International Conference on Dependable Systems and Networks (<span style="color: red">DSN</span>)_, Portland, Oregon, USA, June 24–27, 2019. (corresponding author)
+- "[Deep validation: Toward detecting real-world corner cases for deep neural networks](https://ieeexplore.ieee.org/document/8809533)," Weibin Wu, **Hui Xu**, Sanqiang Zhong, Michael R Lyu, and Irwin King, _in Proc. of the 49th IEEE/IFIP International Conference on Dependable Systems and Networks (<span style="color: red">DSN</span>)_, Portland, Oregon, USA, June 24–27, 2019. (corresponding author)
 
-- "Manufacturing resilient bi-opaque predicates against symbolic execution," **Hui Xu**, Yangfan Zhou, Yu Kang, Fengzhi Tu and Michael R. Lyu, _in Proc. of the 48th IEEE/IFIP International Conference on Dependable Systems and Networks (<span style="color: red">DSN</span>)_, Luxembourg City, Luxembourg, June 1-5, 2018. 
+- "[Manufacturing resilient bi-opaque predicates against symbolic execution](https://ieeexplore.ieee.org/document/8416525)," **Hui Xu**, Yangfan Zhou, Yu Kang, Fengzhi Tu and Michael R. Lyu, _in Proc. of the 48th IEEE/IFIP International Conference on Dependable Systems and Networks (<span style="color: red">DSN</span>)_, Luxembourg City, Luxembourg, June 1-5, 2018. 
 
 - "Concolic execution on small-size binaries: Challenges and empirical study," **Hui Xu**, Yangfan Zhou, Yu Kang, and Michael R. Lyu, _in Proc. of the 47th IEEE/IFIP International Conference on Dependable Systems and Networks (<span style="color: red">DSN</span>)_, Denver, CO, USA, June 26-29, 2017. 
 
