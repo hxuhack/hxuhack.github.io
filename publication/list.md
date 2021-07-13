@@ -24,18 +24,18 @@
 
 - "[Manufacturing resilient bi-opaque predicates against symbolic execution](https://ieeexplore.ieee.org/document/8416525)," **Hui Xu**, Yangfan Zhou, Yu Kang, Fengzhi Tu and Michael R. Lyu, _in Proc. of the 48th IEEE/IFIP International Conference on Dependable Systems and Networks (<span style="color: red">DSN</span>)_, Luxembourg City, Luxembourg, June 1-5, 2018. 
 
-- "Concolic execution on small-size binaries: Challenges and empirical study," **Hui Xu**, Yangfan Zhou, Yu Kang, and Michael R. Lyu, _in Proc. of the 47th IEEE/IFIP International Conference on Dependable Systems and Networks (<span style="color: red">DSN</span>)_, Denver, CO, USA, June 26-29, 2017. 
+- "[Concolic execution on small-size binaries: Challenges and empirical study](https://ieeexplore.ieee.org/document/8023121)," **Hui Xu**, Yangfan Zhou, Yu Kang, and Michael R. Lyu, _in Proc. of the 47th IEEE/IFIP International Conference on Dependable Systems and Networks (<span style="color: red">DSN</span>)_, Denver, CO, USA, June 26-29, 2017. 
 
-- "IntelliAd: Assisting mobile app developers in measuring Ad costs automatically [Poster]," Cuiyun Gao, Yichuan Man, **Hui Xu**, Jieming Zhu, Yangfan Zhou and Michael R. Lyu, _in Proc. of the 39th International Conference on Software Engineering Companion (<span style="color: red">ICSE-C</span>)_, 2017. 
+- "[IntelliAd: Assisting mobile app developers in measuring Ad costs automatically](https://ieeexplore.ieee.org/document/7965321)," Cuiyun Gao, Yichuan Man, **Hui Xu**, Jieming Zhu, Yangfan Zhou and Michael R. Lyu, _in Proc. of the 39th International Conference on Software Engineering Companion (<span style="color: red">ICSE-C</span>)_, 2017. 
 
-- "DiagDroid: Android performance diagnosis via anatomizing asynchronous executions," Yu Kang, Yangfan Zhou, **Hui Xu**, and Michael R. Lyu, _in Proc. of the 24th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (<span style="color: red">FSE</span>)_, Seattle, WA, USA, November 13-18, 2016. 
+- "[DiagDroid: Android performance diagnosis via anatomizing asynchronous executions](https://dl.acm.org/doi/10.1145/2950290.2950316)," Yu Kang, Yangfan Zhou, **Hui Xu**, and Michael R. Lyu, _in Proc. of the 24th ACM SIGSOFT International Symposium on the Foundations of Software Engineering (<span style="color: red">FSE</span>)_, Seattle, WA, USA, November 13-18, 2016. 
 
-- "N-version obfuscation," **Hui Xu**, Yangfan Zhou, and Michael R. Lyu, _in Proc. of the 2nd Cyber-Phsical System Security Workshop (in conjunction with AsiaCCS)_, Xi'an, China, May 30, 2016. 
+- "[N-version obfuscation](https://dl.acm.org/doi/10.1145/2899015.2899026)," **Hui Xu**, Yangfan Zhou, and Michael R. Lyu, _in Proc. of the 2nd Cyber-Phsical System Security Workshop (in conjunction with AsiaCCS)_, Xi'an, China, May 30, 2016. 
 
-- "Assessing the security properties of software obfuscation," **Hui Xu**, and Michael R. Lyu, _in IEEE Security & Privacy Magazine_, Oct, 2016. 
+- "[Assessing the security properties of software obfuscation](https://ieeexplore.ieee.org/document/7676195)," **Hui Xu**, and Michael R. Lyu, _in IEEE Security & Privacy Magazine_, Oct, 2016. 
 
-- "SpyAware: Investigating the privacy leakage signatures in app execution traces," **Hui Xu**, Yangfan Zhou, Cuiyun Gao, Yu Kang, Michael R. Lyu, _in Precedings of the 26th IEEE International Symposium on Software Reliability Engineering (<span style="color: red">ISSRE</span>)_,Washington DC, USA, November 2-5, 2015. 
+- "[SpyAware: Investigating the privacy leakage signatures in app execution traces](https://ieeexplore.ieee.org/abstract/document/7381828)," **Hui Xu**, Yangfan Zhou, Cuiyun Gao, Yu Kang, Michael R. Lyu, _in Precedings of the 26th IEEE International Symposium on Software Reliability Engineering (<span style="color: red">ISSRE</span>)_,Washington DC, USA, November 2-5, 2015. 
 
-- "AR-Tracker: Track the dynamics of mobile Apps via user review mining," Cuiyun Gao, **Hui Xu**, Junjie Hu, and Yangfan Zhou, _in Proc. of the 2015 International Workshop on Internet-based Virtual Computing Environment (IVCE)_, 2015. 
+- "[AR-Tracker: Track the dynamics of mobile Apps via user review mining](https://ieeexplore.ieee.org/document/7133542)," Cuiyun Gao, **Hui Xu**, Junjie Hu, and Yangfan Zhou, _in Proc. of the 2015 International Workshop on Internet-based Virtual Computing Environment (IVCE)_, 2015. 
 
-- "Towards continuous and passive authentication via touch biometrics: An experimental study on smartphones," **Hui Xu**, Yangfan Zhou, and Michael R. Lyu, _in Proc. of the USENIX Symposium on Usable Privacy and Security (<span style="color: red">SOUPS</span>)_, Menlo Park, CA, USA, July 9-11, 2014.
+- "[Towards continuous and passive authentication via touch biometrics: An experimental study on smartphones](https://www.usenix.org/conference/soups2014/proceedings/presentation/xu)," **Hui Xu**, Yangfan Zhou, and Michael R. Lyu, _in Proc. of the USENIX Symposium on Usable Privacy and Security (<span style="color: red">SOUPS</span>)_, Menlo Park, CA, USA, July 9-11, 2014.
