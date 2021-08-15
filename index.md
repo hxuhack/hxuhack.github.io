@@ -17,7 +17,7 @@ I am currently a Pre-tenure Associate Professor in the School of Computer Scienc
 
 - "Memory-safety challenge considered solved? An in-depth study with all Rust CVEs," **Hui Xu**, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, and Michael Lyu, _accepted by ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>)_, 2021.
 
-- "Boosting symbolic execution via constraint solving time prediction: An experience report," Sicheng Luo, **Hui Xu**, Yanyang Bi, Yangfan Zhou, Xin Wang, _to appear in Proc. of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis (<span style="color: red">ISSTA</span>)_, 2021. (corresponding author)
+- "Boosting symbolic execution via constraint solving time prediction (experience paper)" Sicheng Luo, **Hui Xu**, Yanyang Bi, Yangfan Zhou, Xin Wang, _in Proc. of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis (<span style="color: red">ISSTA</span>)_, 2021. (corresponding author)
 
 - "Benchmarking the capability of symbolic execution tools with logic bombs," **Hui Xu**, Zirui Zhao, Yangfan Zhou, and Michael R. Lyu, _Transactions on Dependable and Secure Computing (<span style="color: red">TDSC</span>), vol 7, no 6_, 2020. pp.1243-1256.  
 
