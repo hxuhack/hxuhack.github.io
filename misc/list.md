@@ -24,7 +24,7 @@
 - [降临 Arrival](https://movie.douban.com/subject/21324900/), 2016
 
 ### 科学/人物/成长
-- [隐藏人物 Hidden Figures](https://movie.douban.com/subject/26615208/?from=subject-page), 2016
+- [隐藏人物 Hidden Figures](https://movie.douban.com/subject/26615208/?from=subject-page), 关于沃尔夫假说（Sapir-Whorf hypothesis）, 2016
 - [知无涯者 The Man Who Knew Infinity](https://movie.douban.com/celebrity/1054443/), for Srinivasa Ramanujan (拉马努金), 2015
 - [互联网之子 The Internet's Own Boy: The Story of Aaron Swartz](https://movie.douban.com/subject/25785114/), for Aaron Swartz, 2014
 - [模仿游戏 The Imitation Game](https://movie.douban.com/subject/10463953/), for Alan Turing（阿兰图灵）, 2014.
