@@ -10,6 +10,7 @@
 
 ### 经典计算机教材
 - [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/), by Randal Bryant and David R. O'Hallaron
+- [The Little Schemer](https://book.douban.com/subject/1632977/), by Daniel P. Friedman and Matthias Felleis
 - [Pattern Recognition and Machine Learning](https://book.douban.com/subject/2061116/), by Christopher Bishop
 
 ### 其它
@@ -17,6 +18,10 @@
 - [The Elements of Style](https://book.douban.com/subject/1433835/), by William Strunk
 
 ## Movie
+
+
+### 科幻
+- [降临 Arrival](https://movie.douban.com/subject/21324900/), 2016
 
 ### 科学/人物/成长
 - [隐藏人物 Hidden Figures](https://movie.douban.com/subject/26615208/?from=subject-page), 2016
