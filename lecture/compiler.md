@@ -2,7 +2,7 @@
 
 ### Lecture Notes
 - [课程介绍](compiler/L0-课程介绍.pdf)
-- [编程语言简介](compiler/)
+- [编程语言简介](compiler/L1-编程语言.pdf)
 - [词法分析](compiler/)
 - [语法分析](compiler/)
 - [中间代码生成](compiler/)
