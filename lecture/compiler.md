@@ -1,7 +1,7 @@
 |[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](publication/list) | [<b>Artisan-Lab</b>](lab/page) | [<b>Beauty-Fudan</b>](../photo/page) | [<b>Misc</b>](misc/list) |
 
 ### Lecture Notes
-- [编译原理课程介绍](compiler/L0-课程介绍.pdf)
+- [课程介绍](compiler/L0-课程介绍.pdf)
 - [编程语言简介](compiler/)
 - [词法分析](compiler/)
 - [语法分析](compiler/)
