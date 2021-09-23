@@ -1,7 +1,7 @@
 
-|[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](../publication/list) | [<b>Artisan-Lab</b>](../lab/page) | [<b>Beauty-Fudan</b>](../photo/page) | [<b>Misc</b>](../misc/list) |
+|[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](../publication/list) | [<b>Fn*-Lab</b>](../lab/page) | [<b>Beauty-Fudan</b>](../photo/page) | [<b>Misc</b>](../misc/list) |
 
-复旦大学智能软件分析实验室（Artisan-Lab: Artificial Intelligence for Software Analysis Laboratory）专注程序分析、软件测试等软件可靠性技术研究，并致力于将研究成果应用于移动计算、云计算、人工智能等系统软件的可靠性提升。
+复旦大学智能软件分析和系统可靠性实验室（Fn*-Lab）专注程序分析、软件测试等软件可靠性技术研究，并致力于将研究成果应用于移动计算、云计算、人工智能等系统软件的可靠性提升。
 
 <span style="color: red">Please find more information about our lab <a href = "https://artisan-lab.github.io">here</a>.</span>
 
