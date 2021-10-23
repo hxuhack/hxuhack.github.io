@@ -12,6 +12,11 @@
 - 李天宇 (2020 - now)
 - 候梦圆 (2020 - now)
 - 任志勇 (2020 - now)
+- 陈阳 (2020 - now), co supervise with Yangfan Zhou
+- 卢修文 (2020 - now), co supervise with Xing Wang
+- 林佳贤 (2020 - now), co supervise with Yangfan Zhou
+- 姜剑峰 (2019 - now), co supervise with Yangfan Zhou
+- 陈澄钧 (2020 - now), co supervise with Yangfan Zhou
 - 罗思成 (2018 - now)
 
 ### FYP Student 
