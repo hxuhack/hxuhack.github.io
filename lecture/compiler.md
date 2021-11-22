@@ -7,10 +7,10 @@
 - [句法分析](compiler/L3-句式分析.pdf)
 - [中间代码生成](compiler/L4-中间代码生成.pdf)
 - [汇编代码生成](compiler/L5-汇编代码生成.pdf)
-- [类型系统](compiler/L6)
 - [代码优化](compiler/)
-- [自动内存管理](compiler/)
+- [类型系统](compiler/)
 - [异常处理](compiler/)
+- [自动内存管理](compiler/)
 - [函数式编程](compiler/)
 
 ### Course Project
