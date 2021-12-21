@@ -8,14 +8,15 @@ I am currently a Pre-tenure Associate Professor in the School of Computer Scienc
 <span style="color: red"> I am looking for self-motivated students (master, intern, or FYP). Please drop me an email if you are interested. </span>
 
 ### Research Project:
-- [Intelligent API Testing for Cloud Services](lab/page)
+
 - [Rust Program Analysis](lab/page)
+- [Intelligent API Testing for Cloud Services](lab/page)
 
 ### Selected Paper:
 
 - "Memory-safety challenge considered solved? An in-depth study with all Rust CVEs," **Hui Xu**, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, and Michael Lyu, _accepted by ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), vol 31, issue 1, no. 3_, 2022. pp.1-25.
 
-- "RULF: Rust library fuzzing via API dependency graph traversal," Jianfeng Jiang, **Hui Xu**, Yangfan Zhou, _to appear in Prof. of the 36th IEEE/ACM International Conference on Automated Software Engineering (<span style="color: red">ASE</span>)_, 2021. (<span style="color: red">Distinguished Paper Award</span>)(corresponding author)
+- "RULF: Rust library fuzzing via API dependency graph traversal," Jianfeng Jiang, **Hui Xu**, Yangfan Zhou, _in Prof. of the 36th IEEE/ACM International Conference on Automated Software Engineering (<span style="color: red">ASE</span>)_, 2021. (<span style="color: red">Distinguished Paper Award</span>)(corresponding author)
 
 - "Boosting symbolic execution via constraint solving time prediction (experience paper)" Sicheng Luo, **Hui Xu**, Yanyang Bi, Yangfan Zhou, Xin Wang, _in Proc. of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis (<span style="color: red">ISSTA</span>)_, 2021. (corresponding author)
 
