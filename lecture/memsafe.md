@@ -2,7 +2,7 @@
 
 ### Lecture Notes
 - [Course Introduction](compiler/Lecture0-course_introduction.pdf)
-- [Buffer Overflow](compiler/Lecture1-buffer_overflow.pdf)
+- [Buffer Overflow](compiler/Lecture1-bufferoverflow.pdf)
 
 
 ### Course Project
