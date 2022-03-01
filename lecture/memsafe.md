@@ -3,7 +3,7 @@
 ### Lecture Notes
 - [Course Introduction](memsafe/L0-course_intro.pdf)
 - [Buffer Overflow](memsafe/L1-buffer_overflow.pdf)
-
+- [Memory Allocation](memsafe/L2-mem_allocation.pdf)
 
 ### Course Project
 
