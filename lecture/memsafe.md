@@ -4,6 +4,7 @@
 - [Course Introduction](memsafe/L0-course_intro.pdf)
 - [Buffer Overflow](memsafe/L1-buffer_overflow.pdf)
 - [Memory Allocation](memsafe/L2-mem_allocation.pdf)
+- [Heap Attack and Protection](memsafe/L3-heap_attack.pdf)
 
 ### Course Project
 
