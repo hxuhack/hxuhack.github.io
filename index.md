@@ -10,7 +10,7 @@ I am currently a Pre-tenure Associate Professor in the School of Computer Scienc
 ### Research Project:
 
 - [Rust Program Analysis](lab/rust)
-- [Software Testing](lab/cloud)
+- [Software Testing](lab/testing)
 
 ### Selected (Recent) Paper:
 
