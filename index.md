@@ -9,8 +9,8 @@ I am currently a Pre-tenure Associate Professor in the School of Computer Scienc
 
 ### Research Project:
 
-- [Rust Program Analysis](lab/page)
-- [Intelligent API Testing for Cloud Services](lab/page)
+- [Rust Program Analysis](lab/rust)
+- [Software Testing](lab/cloud)
 
 ### Selected (Recent) Paper:
 
