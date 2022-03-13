@@ -2,7 +2,7 @@
 
 ### Lecture Notes
 
-#### Part1: Problems related to Memory-Safety 
+#### Part1: Foundations of Memory Safety 
 - Week1: [Course Introduction](memsafe/L0-course_intro.pdf)
 - Week1: [Buffer Overflow](memsafe/L1-buffer_overflow.pdf)
 - Week2: [Memory Allocation](memsafe/L2-mem_allocation.pdf)
