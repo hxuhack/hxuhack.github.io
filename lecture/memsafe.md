@@ -16,7 +16,7 @@
 - Week8: [Rust Concurrency Programming]
 - Week9: [Rust Compiler Theory]
 - Week10: [Rust Compiler Techniques]
-- 
+
 #### Part3: Advanced Topic for Memory Safety
 
 
