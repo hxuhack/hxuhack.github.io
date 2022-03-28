@@ -11,7 +11,7 @@
 - Week5: [Concurrent Memory Access](memsafe/L5-concurrent_access.pdf)
 
 #### Part2: Rust Programming Language
-- Week6: [Rust Ownership-based Memory Management]
+- Week6: [Rust Ownership-based Memory Management](memsafe/L6-Rust_OBRM.pdf)
 - Week7: [Rust Generics and Traits]
 - Week8: [Rust Concurrency Programming]
 - Week9: [Rust Compiler Theory]
