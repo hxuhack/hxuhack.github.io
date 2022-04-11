@@ -12,7 +12,7 @@
 
 #### Part2: Rust Programming Language
 - Week6: [Rust Ownership-based Memory Management](memsafe/L6-Rust_OBRM.pdf)
-- Week7: [Rust Type System](memsafe/L6-Rust_Type_System.pdf)
+- Week7: [Rust Type System](memsafe/L7-Rust_Type_System.pdf)
 - Week8: [Rust Concurrency]
 - Week9: [Rust Compiler Theory]
 - Week10: [Rust Compiler Techniques]
