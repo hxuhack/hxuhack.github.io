@@ -22,7 +22,7 @@
 
 
 
-#### Reading List
+### Reading List
 
 **Empirical**
 - Qin, Boqin, Yilun Chen, Zeming Yu, Linhai Song, and Yiying Zhang. "[Understanding memory and thread safety practices and issues in real-world Rust programs](https://dl.acm.org/doi/pdf/10.1145/3385412.3386036)." In Proceedings of the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation, pp. 763-779. 2020.
