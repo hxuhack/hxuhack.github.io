@@ -8,12 +8,13 @@
 - [中间代码生成](compiler/L4-中间代码生成.pdf)
 - [汇编代码生成](compiler/L5-汇编代码生成.pdf)
 - [代码优化](compiler/L6-代码优化.pdf)
-- [类型系统](compiler/L7-类型系统)
-- [内存管理](compiler/L8-内存管理)
-- [异常处理](compiler/L9-异常处理)
+- [类型系统](compiler/L7-类型系统.pdf)
+- [内存管理](compiler/L8-内存管理.pdf)
+- [异常处理](compiler/L9-异常处理.pdf)
 
 ### Course Project
 
+- [Labs with LLVM](http://cchanging.gitee.io/compiler_2021/)
 
 ### Reference Book
 - Textbook [Compilers: Principles, Techniques, and Tools (2nd Edition)](https://suif.stanford.edu/dragonbook/) by Alfred V. Aho, Monica Lam, Ravi Sethi, Jeffrey Ullman
