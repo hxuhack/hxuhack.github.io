@@ -32,6 +32,7 @@
 - [心灵捕手 Good Will Hunting](https://movie.douban.com/subject/1292656/), by Matthew P. Damon, 1997
 
 ### 经济/社会
+- [浪潮 Die Welle](https://movie.douban.com/subject/2297265/), 2008
 - [监守自盗 Inside Job](https://movie.douban.com/subject/4843480/), 2008美国次债危机，2010
 - [安然：房间里最聪明的人 Enron: The Smartest Guys in the Room](https://movie.douban.com/subject/2268042/)，2005
 
