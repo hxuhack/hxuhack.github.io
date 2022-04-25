@@ -11,7 +11,6 @@
 - [类型系统](compiler/L7-类型系统)
 - [内存管理](compiler/L8-内存管理)
 - [异常处理](compiler/L9-异常处理)
-- [函数式编程](compiler/)
 
 ### Course Project
 
