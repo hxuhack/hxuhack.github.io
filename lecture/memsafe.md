@@ -21,7 +21,6 @@
 #### Part3: Advanced Topic for Memory Safety
 
 
-
 ### Reading List
 
 **Empirical**
