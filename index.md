@@ -14,15 +14,15 @@ I am currently a Pre-tenure Associate Professor in the School of Computer Scienc
 
 ### Selected (Recent) Paper:
 
-- "[SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis](https://arxiv.org/abs/2103.15420)", Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), accepted, 2022. (corresponding author)
+- "[SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis](https://arxiv.org/abs/2103.15420)", Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>)_, accepted, 2022. (corresponding author)
 
-- "Memory-safety challenge considered solved? An in-depth study with all Rust CVEs," **Hui Xu**, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, and Michael Lyu, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), vol 31, issue 1, no. 3_, 2022. pp.1-25.
+- "[Memory-safety challenge considered solved? An in-depth study with all Rust CVEs](https://dl.acm.org/doi/10.1145/3466642)", **Hui Xu**, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, and Michael Lyu, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), vol 31, issue 1, no. 3_, 2022. pp.1-25.
 
-- "RULF: Rust library fuzzing via API dependency graph traversal," Jianfeng Jiang, **Hui Xu**, Yangfan Zhou, _in Prof. of the 36th IEEE/ACM International Conference on Automated Software Engineering (<span style="color: red">ASE</span>)_, 2021. (<span style="color: red">Distinguished Paper Award</span>)(corresponding author)
+- "[RULF: Rust library fuzzing via API dependency graph traversal](https://ieeexplore.ieee.org/abstract/document/9678813)", Jianfeng Jiang, **Hui Xu**, Yangfan Zhou, _in Prof. of the 36th IEEE/ACM International Conference on Automated Software Engineering (<span style="color: red">ASE</span>)_, 2021. (corresponding author)
 
-- "Boosting symbolic execution via constraint solving time prediction (experience paper)" Sicheng Luo, **Hui Xu**, Yanyang Bi, Yangfan Zhou, Xin Wang, _in Proc. of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis (<span style="color: red">ISSTA</span>)_, 2021. (corresponding author)
+- "[Boosting symbolic execution via constraint solving time prediction (experience paper)](https://dl.acm.org/doi/10.1145/3460319.3464813)," Sicheng Luo, **Hui Xu**, Yanyang Bi, Yangfan Zhou, Xin Wang, _in Proc. of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis (<span style="color: red">ISSTA</span>)_, 2021. (corresponding author)
 
-- "Benchmarking the capability of symbolic execution tools with logic bombs," **Hui Xu**, Zirui Zhao, Yangfan Zhou, and Michael R. Lyu, _Transactions on Dependable and Secure Computing (<span style="color: red">TDSC</span>), vol 7, no 6_, 2020. pp.1243-1256.  
+- "[Benchmarking the capability of symbolic execution tools with logic bombs](https://ieeexplore.ieee.org/document/8443109)", **Hui Xu**, Zirui Zhao, Yangfan Zhou, and Michael R. Lyu, _Transactions on Dependable and Secure Computing (<span style="color: red">TDSC</span>), vol 7, no 6_, 2020. pp.1243-1256.  
 
 ###  Teaching
 
