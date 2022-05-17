@@ -16,7 +16,7 @@
 - Week8: [Rust Concurrency](memsafe/L8-Rust_Concurrency.pdf)
 - Week9: [Rust Functional Programming](memsafe/L9-Rust_Functional_Programming.pdf)
 - Week10: [Rust Compiler Design](memsafe/L10-Rust_Compiler.pdf)
-- Week11: [Rust Compiler Techniques]
+- Week11: [Rust Compiler Techniques (Guest Speaker)](memsafe/L11-compiler_tech.pdf)
 
 #### Part3: Advanced Topic for Memory Safety
 
