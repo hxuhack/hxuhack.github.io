@@ -19,7 +19,11 @@
 - Week11: [Rust Compiler Techniques (by Guest Speaker)](memsafe/L11-compiler_tech.pdf)
 
 #### Part3: Advanced Topic for Memory Safety
+Due to Covid-19, we have to rearrange the course materials.
 
+- Week12: [Dynamic Analysis of Rust Programs](memsafe/L12-Dynamic_Analysis.pdf)
+- Week13: [Static Analysis of Rust Programs](memsafe/L13-Static_Analysis.pdf)
+- Week14: Presentation (by Students)
 
 ### Reading List
 
