@@ -13,12 +13,15 @@
 - [The Little Schemer](https://book.douban.com/subject/1632977/), by Daniel P. Friedman and Matthias Felleis
 - [Pattern Recognition and Machine Learning](https://book.douban.com/subject/2061116/), by Christopher Bishop
 
+### 软工书籍
+- [The Fuzzing Book](https://www.fuzzingbook.org), by Andreas Zeller, et al.
+- [Static Program Analysis](https://cs.au.dk/~amoeller/spa/), by Anders Møller and Michael I. Schwartzbach
+
 ### 其它
 - [图灵和ACM图灵奖](https://book.douban.com/subject/10862190/), by 吴鹤龄（北京理工大学前计算机工程系主任）、崔林，2012年第4版
 - [The Elements of Style](https://book.douban.com/subject/1433835/), by William Strunk
 
 ## Movie
-
 
 ### 科幻
 - [降临 Arrival](https://movie.douban.com/subject/21324900/), 2016
