@@ -24,6 +24,10 @@ Due to Covid-19, we have to rearrange the course materials.
 - Week12: [Dynamic Analysis of Rust Programs](memsafe/L12-Dynamic_Analysis.pdf)
 - Week13: [Static Analysis of Rust Programs](memsafe/L13-Static_Analysis.pdf)
 - Week14: Presentation (by Students)
+  - [Rust Libraries 泛型API测试](memsafe/RustLibraries-张业鸿.pptx)
+  - [Allocator](memsafe/allocator_张志淙.pptx)
+  - [MirChecker](memsafe/MirChecker_任灏贇.pptx)
+  - [Stacked Borrows](memsafe/stacked_borrows_吴钟立.pptx)
 
 ### Reading List
 
