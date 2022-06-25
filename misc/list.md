@@ -24,7 +24,7 @@
 ## Movie
 
 ### 纪录片
-- [人生七年](https://movie.douban.com/subject/2123439/)14个孩子7岁-63岁的成长记录（共9集）, Michael Apted（迈克尔·艾普特），1964-2019
+- [人生七年](https://movie.douban.com/subject/2123439/)，14个孩子7岁-63岁的成长记录（共9集）, Michael Apted（迈克尔·艾普特），1964-2019
 
 ### 科幻
 - [降临 Arrival](https://movie.douban.com/subject/21324900/), 2016
