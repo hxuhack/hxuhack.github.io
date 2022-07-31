@@ -15,9 +15,14 @@
 - 陈阳 (2020 - now), co supervise with Yangfan Zhou
 - 卢修文 (2020 - now), co supervise with Xing Wang
 - 林佳贤 (2020 - now), co supervise with Yangfan Zhou
-- 姜剑峰 (2019 - now), co supervise with Yangfan Zhou
 - 陈澄钧 (2020 - now), co supervise with Yangfan Zhou
-- 罗思成 (2018 - now)
+
+
+### Graduated Student
+- 姜剑峰 (2019 - 2022), 毕业后入职蚂蚁集团
+  - 荣获ACM SIGSOFT优秀论文奖、2022年度上海市优秀硕士毕业生、第二届复旦大学计算机科学技术学院应届硕士毕业生原型系统竞赛一等奖。 
+  - [RustConf China报告](files/RustConf22.pdf) 
+- 罗思成 (2018 - 2021)，毕业后入职字节跳动
 
 ### FYP Student 
  - 林佳韵 (2021)，基于路由的Android页面跳转框架的设计与实现
