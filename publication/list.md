@@ -4,10 +4,13 @@
 
 ### 2022
 
+
 - "[SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis](https://arxiv.org/abs/2103.15420)", Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), accepted_, 2022. (corresponding author)
 
 - "[Memory-safety challenge considered solved? An in-depth study with all Rust CVEs](https://dl.acm.org/doi/10.1145/3466642)", **Hui Xu**, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, and Michael Lyu, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), vol 31, issue 1, no. 3_, 2022. pp.1-25.
 
+- "[STELLA: Sparse Taint Analysis for Enclave Leakage Detection](https://arxiv.org/abs/2208.04719)", Yang Chen, Jianfeng jiang, Shoumeng Yan, **Hui Xu**, _arXiv preprint arXiv:2208.04719_, 2022. (corresponding author)
+- 
 - "[foREST: A Tree-based Approach for Fuzzing RESTful APIs](https://arxiv.org/abs/2203.02906)", Jiaxian Lin, Tianyu Li, Yang Chen, Guangsheng Wei, Jiadong Lin, Sen Zhang, **Hui Xu**, _arXiv preprint arXiv:2203.02906_, 2022. (corresponding author)
 
 ### 2021
