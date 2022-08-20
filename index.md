@@ -12,6 +12,10 @@ I am currently a Tenure-track Associate Professor in the School of Computer Scie
 - [Rust Program Analysis](lab/rust)
 - [Software Testing](lab/testing)
 
+### Talks:
+
+- [Talk at Rust Education Workshop 2022](talks/Xu-RustEdu-2022.pdf) 
+
 ### Selected (Recent) Paper:
 
 - "[SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis](https://arxiv.org/abs/2103.15420)", Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), accepted_, 2022. (corresponding author)
