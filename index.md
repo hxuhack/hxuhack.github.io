@@ -12,7 +12,7 @@ I am currently a Tenure-track Associate Professor in the School of Computer Scie
 - [Rust Program Analysis](lab/rust)
 - [Software Testing](lab/testing)
 
-### Talks:
+### Recent Talk:
 
 - [Experiences of Teaching Rust and Code Recommendation to Assist Rust Beginners](talks/Xu-RustEdu-2022.pdf), Rust Education Workshop, 2022. 
 
