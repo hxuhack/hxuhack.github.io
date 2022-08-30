@@ -4,6 +4,7 @@
 
 ### 2022
 
+- "[Rust library fuzzing](https://doi.ieeecomputersociety.org/10.1109/MS.2022.3176657)", **Hui Xu**, _in IEEE Software_, Sept.-Oct. 2022, pp. 105-108, vol. 39.
 
 - "[SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis](https://dl.acm.org/doi/10.1145/3542948)", Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), accepted_, 2022. (corresponding author)
 
