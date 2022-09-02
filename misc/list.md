@@ -46,7 +46,7 @@
 - [波西米亚狂想曲 Bohemian Rhapsody](https://movie.douban.com/subject/5300054/), for Freddie Mercury and Queen (皇后乐队), 2018
 
 ## Useful Links
-- [Recent Conferences](http://confsearch.ethz.ch/confsearch/faces/pages/topic.jsp?topic=Security%20&sortMode=1&graphicView=1)  
+- [Recent Conferences](https://confsearch.ethz.ch/?query=software+security+program)  
 - [CCF Ranking](https://www.ccf.org.cn/Academic_Evaluation/By_category/)   
 - [CS Ranking](http://csrankings.org/)
 - [Common Bugs in Writting](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)  
