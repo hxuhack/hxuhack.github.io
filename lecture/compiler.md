@@ -6,7 +6,7 @@
 |           |Lecture Notes | More |
 |:---------:|:------------------:|:----------------------------------:|
 | Week 1    |[课程介绍](compiler/Lecture1-课程介绍.pdf) | |
-|           |[计算器实现分析](compiler/Lecture2.1-课程介绍.pdf) | |
+|           |[计算器实现分析](compiler/Lecture2.1-计算器实现分析.pdf) | |
 | Week 2    | | 
 
 ### Course Project
