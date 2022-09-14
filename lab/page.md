@@ -6,6 +6,8 @@
 <span style="color: red">Please find more information about our lab <a href = "https://artisan-lab.github.io">here</a>.</span>
 
 ### Master Student
+- 孙意林 (2022 - now)
+- 吕点 (2022 - now)
 - 张志淙 (2021 - now)
 - 董 妍 (2021 - now)
 - 崔漠寒 (2020 - now)
