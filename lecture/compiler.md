@@ -10,8 +10,8 @@
 | Week 2    |[计算器词法分析](compiler/Lecture2.2-计算器词法分析.pdf) | |
 | Week 3    |[计算器句法分析](compiler/Lecture2.3-计算器句式分析.pdf) | |
 |           |[计算器实验](compiler/Lecture2.4-计算器实验.pdf) | |
-| Week 4    |[更多文法分析理论](compiler/Lecture2.4-更多文法分析理论.pdf) | |
-
+| Week 4    |[更多文法分析理论](compiler/Lecture2.5-更多文法分析理论.pdf) | |
+| Week 5    |[编译器前端设计](compiler/) | |
 
 ### Course Project
 
