@@ -6,6 +6,7 @@
 |           |Lecture Notes | More |
 |:---------:|:------------------:|:----------------------------------:|
 | Week 1    |[课程介绍](compiler/Lecture1-课程介绍.pdf) | |
+| 第一部分：计算器 |
 |           |[计算器实现分析](compiler/Lecture2.1-计算器实现分析.pdf) | |
 | Week 2    |[计算器词法分析](compiler/Lecture2.2-计算器词法分析.pdf) | |
 | Week 3    |[计算器句法分析](compiler/Lecture2.3-计算器句式分析.pdf) | |
