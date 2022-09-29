@@ -15,6 +15,13 @@
 
 ### Course Project
 
+|           | Lab | Due |
+|:---------:|:------------------:|:----------------------------------:|
+| Lab 1    |[基于Flex和Bison实现计算器](compiler/lab1.zip) | Oct 16  |
+| Lab 2    |[编译器前端](compiler/lab2.zip) | Nov 6 |
+| Lab 3    | | |
+| Lab 4    | | |
+| Lab 5    | | |
 
 
 ### Reference Book
