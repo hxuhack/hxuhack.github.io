@@ -3,25 +3,22 @@
 
 ### Lecture Notes
 
-|           |Lecture Notes | More |
+| Phase | Date |Lecture Notes | More |
 |:---------:|:------------------:|:----------------------------------:|
-| Week 1    |[课程介绍](compiler/Lecture1-课程介绍.pdf) | |
-| 第一部分：计算器 |
-|           |[计算器实现分析](compiler/Lecture2.1-计算器实现分析.pdf) | |
-| Week 2    |[计算器词法分析](compiler/Lecture2.2-计算器词法分析.pdf) | |
-| Week 3    |[计算器句法分析](compiler/Lecture2.3-计算器句式分析.pdf) | |
-|           |[计算器实验](compiler/Lecture2.4-计算器实验.pdf) | |
-| Week 4    |[更多文法分析理论](compiler/Lecture2.5-更多语法分析.pdf) | |
-| 第二部分：编译器前端 |
-| Week 5    |[编译器前端设计](compiler/) | |
-| Week 6    |[树形IR和类型检查](compiler/) | |
-| Week 7    |[线性IR和SSA](compiler/) | |
-| Week 8    |[虚拟机](compiler/) | |
-| 第三部分：编译器后端 |
-| Week 9    |[指令选择和调度](compiler/) | |
-| Week 10   |[寄存器分配](compiler/) | |
-| Week 11   |[LLVM案例分析](compiler/) | |
-|第四部分：高级主题 |
+| 一：计算器 | Week 1    |[课程介绍](compiler/Lecture1-课程介绍.pdf) | |
+| |           |[计算器实现分析](compiler/Lecture2.1-计算器实现分析.pdf) | |
+| | Week 2    |[计算器词法分析](compiler/Lecture2.2-计算器词法分析.pdf) | |
+| | Week 3    |[计算器句法分析](compiler/Lecture2.3-计算器句式分析.pdf) | |
+| |           |[计算器实验](compiler/Lecture2.4-计算器实验.pdf) | |
+| | Week 4    |[更多文法分析理论](compiler/Lecture2.5-更多语法分析.pdf) | |
+| 二：编译器前端 | Week 5 |[编译器前端设计](compiler/) | |
+| | Week 6    |[树形IR和类型检查](compiler/) | |
+| | Week 7    |[线性IR和SSA](compiler/) | |
+| | Week 8    |[虚拟机](compiler/) | |
+| 三：编译器后端 | Week 9  |[指令选择和调度](compiler/) | |
+| | Week 10   |[寄存器分配](compiler/) | |
+| | Week 11   |[LLVM案例分析](compiler/) | |
+|四：高级主题 | | | |
 
 ### Course Project
 
