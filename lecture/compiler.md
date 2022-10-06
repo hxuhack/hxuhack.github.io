@@ -11,7 +11,7 @@
 | | Week 3    |[计算器句法分析](compiler/Lecture2.3-计算器句式分析.pdf) | |
 | |           |[计算器实验](compiler/Lecture2.4-计算器实验.pdf) | |
 | | Week 4    |[更多文法分析理论](compiler/Lecture2.5-更多语法分析.pdf) | |
-| 二：编译器前端 | Week 5 |[编译器前端设计](compiler/) | |
+| 二：编译器前端 | Week 5 |[编译器前端设计](compiler/Lecture3.1-编译器前端.pdf) | |
 | | Week 6    |[树形IR和类型检查](compiler/) | |
 | | Week 7    |[线性IR和SSA](compiler/) | |
 | | Week 8    |[虚拟机](compiler/) | |
