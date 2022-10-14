@@ -13,11 +13,10 @@
 | | Week 4    |[更多文法分析理论](compiler/Lecture2.5-更多语法分析.pdf) | |
 | 二：编译器前端 | Week 5 |[编译器前端设计](compiler/Lecture3.1-编译器前端.pdf) | |
 | | Week 6    |[树形IR和类型检查](compiler/Lecture3.2-树形IR和类型检查.pdf) | |
-| | Week 7    |[线性IR和SSA](compiler/) | |
-| | Week 8    |[虚拟机](compiler/) | |
-| 三：编译器后端 | Week 9  |[指令选择和调度](compiler/) | |
-| | Week 10   |[寄存器分配](compiler/) | |
-| | Week 11   |[LLVM案例分析](compiler/) | |
+| | Week 7    |[线性IR和解释执行(compiler/) | |
+| 三：编译器后端 | Week 8  |[指令选择和调度](compiler/) | |
+| | Week 9   |[寄存器分配](compiler/) | |
+| | Week 10   |[LLVM案例分析](compiler/) | |
 |四：高级主题 | | | |
 
 ### Course Project
