@@ -13,7 +13,7 @@
 | | Week 4    |[更多文法分析理论](compiler/Lecture2.5-更多语法分析.pdf) | |
 | 二：编译器前端 | Week 5 |[编译器前端设计](compiler/Lecture3.1-编译器前端.pdf) | |
 | | Week 6    |[树形IR和类型检查](compiler/Lecture3.2-树形IR和类型检查.pdf) | |
-| | Week 7    |线性IR和解释执行 | |
+| | Week 7    |[线性IR和解释执行](compiler/Lecture3.3-线性IR和解释执行.pdf) | |
 | 三：编译器后端 | Week 8  |指令选择和调度 | |
 | | Week 9   |compiler/ | |
 | | Week 10   | LLVM案例分析 | |
