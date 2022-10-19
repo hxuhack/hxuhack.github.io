@@ -15,9 +15,14 @@
 | | Week 6    |[树形IR和类型检查](compiler/Lecture3.2-树形IR和类型检查.pdf) | |
 | | Week 7    |[线性IR和解释执行](compiler/Lecture3.3-线性IR和解释执行.pdf) | |
 | 三：编译器后端 | Week 8  |指令选择和调度 | |
-| | Week 9   |compiler/ | |
+| | Week 9   | 寄存器分配 | |
 | | Week 10   | LLVM案例分析 | |
-|四：高级主题 | | | |
+|四：高级主题 | Week 11 | 程序分析和代码优化 | |
+| Week 12 | 自动内存管理 | |
+| Week 13 | 高级类型系统 | |
+| Week 14 | 异常处理 | |
+| Week 15 | 函数式编程 | |
+| Week 16 | 课程报告 | |
 
 ### Course Project
 
