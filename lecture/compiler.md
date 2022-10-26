@@ -14,7 +14,7 @@
 | 二：编译器前端 | Week 5 |[编译器前端设计](compiler/Lecture3.1-编译器前端.pdf) | |
 | | Week 6    |[树形IR和类型检查](compiler/Lecture3.2-树形IR和类型检查.pdf) | |
 | | Week 7    |[线性IR和解释执行](compiler/Lecture3.3-线性IR和解释执行.pdf) | |
-| 三：编译器后端 | Week 8  |指令选择和调度 | |
+| 三：编译器后端 | Week 8 | [指令选择和调度](compiler/Lecture4.1-指令选择和调度.pdf) | |
 | | Week 9   | 寄存器分配 | |
 | | Week 10   | LLVM案例分析 | |
 |四：高级主题 | Week 11 | 程序分析和代码优化 | |
