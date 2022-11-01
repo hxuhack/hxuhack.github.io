@@ -15,7 +15,7 @@
 | | Week 6    |[树形IR和类型检查](compiler/Lecture3.2-树形IR和类型检查.pdf) | |
 | | Week 7    |[线性IR和解释执行](compiler/Lecture3.3-线性IR和解释执行.pdf) | |
 | 三：编译器后端 | Week 8 | [指令选择和调度](compiler/Lecture4.1-指令选择和调度.pdf) | |
-| | Week 9   | 寄存器分配 | |
+| | Week 9   | [寄存器分配](compiler/Lecture4.2-寄存器分配.pdf) | |
 | | Week 10   | LLVM案例分析 | |
 |四：高级主题 | Week 11 | 程序分析和代码优化 | |
 | | Week 12 | 自动内存管理 | |
@@ -30,7 +30,7 @@
 |:---------:|:------------------:|:----------------------------------:|
 | Lab 1    |[基于Flex和Bison实现计算器](compiler/lab1.zip) | Oct 16  |
 | Lab 2    |[编译器前端](compiler/lab2.zip) | Nov 6 |
-| Lab 3    | | |
+| Lab 3    |[编译器中间代码](compiler/lab3.zip) | |
 | Lab 4    | | |
 | Lab 5    | | |
 
