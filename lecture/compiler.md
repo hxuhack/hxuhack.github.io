@@ -16,12 +16,13 @@
 | | Week 7    |[线性IR和解释执行](compiler/Lecture3.3-线性IR和解释执行.pdf) | |
 | 三：编译器后端 | Week 8 | [指令选择和调度](compiler/Lecture4.1-指令选择和调度.pdf) | |
 | | Week 9   | [寄存器分配](compiler/Lecture4.2-寄存器分配.pdf) | |
-| | Week 10   | LLVM案例分析 | |
-|四：高级主题 | Week 11 | 程序分析和代码优化 | |
-| | Week 12 | 自动内存管理 | |
-| | Week 13 | 高级类型系统 | |
-| | Week 14 | 异常处理 | |
-| | Week 15 | 函数式编程 | |
+| 四：代码优化 | Week 10 | [数据流分析和代码优化](compiler/Lecture5.1-数据流分析和代码优化.pdf) | |
+| | Week 11 | [代码优化-B] | |
+| | Week 12 | [代码优化-C] | |
+| 五：高级主题 | Week 13 | 自动内存管理 | |
+| | Week 14 | 高级类型系统 | |
+| | Week 15 | 异常处理 | |
+| | Week 16 | 函数式编程 | |
 | | Week 16 | 课程报告 | |
 
 ### Course Project
