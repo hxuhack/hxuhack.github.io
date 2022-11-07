@@ -14,7 +14,7 @@ I am currently a Tenure-track Associate Professor in the School of Computer Scie
 
 ### Recent Talk:
 
-- [Experiences of Teaching Rust and Code Recommendation to Assist Rust Beginners](talks/Xu-RustEdu-2022.pdf), Rust Education Workshop, 2022. 
+- Experiences of Teaching Rust and Code Recommendation to Assist Rust Beginners [Slides](talks/Xu-RustEdu-2022.pdf), [Video](https://www.youtube.com/watch?v=HchiXcBK4Gg), Rust Education Workshop, 2022. 
 
 ### Selected (Recent) Paper:
 
