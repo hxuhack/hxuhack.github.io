@@ -5,8 +5,8 @@
 
 | Phase | Date |Lecture Notes | More |
 |:---------:|:---------:|:------------------:|:----------------------------------:|
-| 一：计算器 | Week 1    |[课程介绍](compiler/Lecture1-课程介绍.pdf) | |
-| |           |[计算器实现分析](compiler/Lecture2.1-计算器实现分析.pdf) | |
+| | Week 1    |[课程介绍](compiler/Lecture1-课程介绍.pdf) | |
+|  一：计算器 |           |[计算器实现分析](compiler/Lecture2.1-计算器实现分析.pdf) | |
 | | Week 2    |[计算器词法分析](compiler/Lecture2.2-计算器词法分析.pdf) | |
 | | Week 3    |[计算器句法分析](compiler/Lecture2.3-计算器句式分析.pdf) | |
 | |           |[计算器实验](compiler/Lecture2.4-计算器实验.pdf) | |
@@ -17,12 +17,11 @@
 | 三：编译器后端 | Week 8 | [指令选择和调度](compiler/Lecture4.1-指令选择和调度.pdf) | |
 | | Week 9   | [寄存器分配](compiler/Lecture4.2-寄存器分配.pdf) | |
 | 四：代码优化 | Week 10 | [数据流分析和代码优化](compiler/Lecture5.1-数据流分析和代码优化.pdf) | |
-| | Week 11 | [代码优化-B] | |
-| | Week 12 | [代码优化-C] | |
-| 五：高级主题 | Week 13 | 自动内存管理 | |
-| | Week 14 | 高级类型系统 | |
-| | Week 15 | 异常处理 | |
-| | Week 16 | 函数式编程 | |
+| | Week 11 | [常用代码优化技术] (compiler/Lecture5.2-常用代码优化技术.pdf)| |
+| | Week 12 | [高级代码优化技术] | |
+| 五：高级主题 | Week 13 | 未定义行为和异常处理 | |
+| | Week 14 | 自动内存管理 | |
+| | Week 15 | 高级类型系统 + 函数式编程 | |
 | | Week 16 | 课程报告 | |
 
 ### Course Project
