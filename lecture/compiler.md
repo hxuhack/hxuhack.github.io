@@ -17,7 +17,7 @@
 | 三：编译器后端 | Week 8 | [指令选择和调度](compiler/Lecture4.1-指令选择和调度.pdf) | |
 | | Week 9   | [寄存器分配](compiler/Lecture4.2-寄存器分配.pdf) | |
 | 四：代码优化 | Week 10 | [数据流分析和代码优化](compiler/Lecture5.1-数据流分析和代码优化.pdf) | |
-| | Week 11 | [常用代码优化技术] (compiler/Lecture5.2-常用代码优化技术.pdf)| |
+| | Week 11 | [常用代码优化技术](compiler/Lecture5.2-常用代码优化技术.pdf)| |
 | | Week 12 | [高级代码优化技术] | |
 | 五：高级主题 | Week 13 | 未定义行为和异常处理 | |
 | | Week 14 | 自动内存管理 | |
