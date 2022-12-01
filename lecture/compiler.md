@@ -19,9 +19,11 @@
 | 四：代码优化 | Week 10 | [数据流分析和代码优化](compiler/Lecture5.1-数据流分析和代码优化.pdf) | |
 | | Week 11 | [常用代码优化技术](compiler/Lecture5.2-常用代码优化技术.pdf)| |
 | | Week 12 | [高级代码优化技术](compiler/Lecture5.3-高级代码优化技术.pdf) | |
-| 五：高级主题 | Week 13 | 未定义行为和异常处理 | |
-| | Week 14 | 自动内存管理 | |
-| | Week 15 | 高级类型系统 + 函数式编程 | |
+| 五：高级主题 | Week 13 | [并发功能](compiler/Lecture6.1-并发功能.pdf) | |
+|  |   | [动态内存管理](compiler/Lecture6.2-动态内存管理.pdf) | |
+| | Week 14 | 高级类型系统 | |
+| | | 函数式编程 | |
+| | Week 15 | 未定义行为和异常处理 | |
 | | Week 16 | 课程报告 | |
 
 ### Course Project
@@ -32,7 +34,7 @@
 | Lab 2    |[编译器前端](compiler/lab2.zip) | Nov 6 |
 | Lab 3    |[编译器中间代码](compiler/lab3.zip) | |
 | Lab 4    |[指令翻译](compiler/lab4.zip) | |
-| Lab 5    | | |
+| Lab 5    |[自定义功能](compiler/lab5.zip) | |
 
 
 ### Reference Book
