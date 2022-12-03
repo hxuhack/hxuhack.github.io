@@ -8,7 +8,7 @@
 
 - "[SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis](https://dl.acm.org/doi/10.1145/3542948)", Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), Presented at ASE 2022 Journal-first Track, 2022. (corresponding author)
 
-- "[Safe Rust Code Recommendation Based on Siamese Graph Neural Networks]()", Xiuwen Lu, Zhicong Zhang, **Hui Xu**,  _27th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2022), to appear_, 2022. (<span style="color: red">Best Paper Nominee</span>, corresponding author)
+- "[Safe Rust Code Recommendation Based on Siamese Graph Neural Networks]()", Xiuwen Lu, Zhicong Zhang, **Hui Xu**,  _27th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2022), to appear_, 2022. (<span style="color: red">Best Student Paper, Best Paper Runner Up</span>, corresponding author)
 
 - "[SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis](https://dl.acm.org/doi/10.1145/3542948)", Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), accepted_, 2022. (corresponding author)
 
