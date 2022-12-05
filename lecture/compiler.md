@@ -1,6 +1,5 @@
 |[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](../publication/list) | [<b>Artisan-Lab</b>](../lab/page) | [<b>Beauty-Fudan</b>](../photo/page) | [<b>Misc</b>](../misc/list) |
 
-
 ### Lecture Notes
 
 | Phase | Date |Lecture Notes | More |
@@ -21,8 +20,7 @@
 | | Week 12 | [高级代码优化技术](compiler/Lecture5.3-高级代码优化技术.pdf) | |
 | 五：高级主题 | Week 13 | [并发功能](compiler/Lecture6.1-并发功能.pdf) | |
 |  |   | [动态内存管理](compiler/Lecture6.2-动态内存管理.pdf) | |
-| | Week 14 | 高级类型系统 | |
-| | | 函数式编程 | |
+| | Week 14 | [高级类型系统](compiler/Lecture6.3-高级类型系统.pdf) | |
 | | Week 15 | 未定义行为和异常处理 | |
 | | Week 16 | 课程报告 | |
 
