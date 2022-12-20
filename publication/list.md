@@ -22,7 +22,7 @@
 
 ### 2021
 
-- "[RULF: Rust library fuzzing via API dependency graph traversal](https://ieeexplore.ieee.org/abstract/document/9678813)", Jianfeng Jiang, **Hui Xu**, Yangfan Zhou, _in Prof. of the 36th IEEE/ACM International Conference on Automated Software Engineering (<span style="color: red">ASE</span>)_, 2021. (<span style="color: red">Distingshed Paper Award</span>, corresponding author)
+- "[RULF: Rust library fuzzing via API dependency graph traversal](https://ieeexplore.ieee.org/abstract/document/9678813)", Jianfeng Jiang, **Hui Xu**, Yangfan Zhou, _in Prof. of the 36th IEEE/ACM International Conference on Automated Software Engineering (<span style="color: red">ASE</span>)_, 2021. (<span style="color: red">Distinguished Paper Award</span>, corresponding author)
 
 - "[Boosting symbolic execution via constraint solving time prediction (experience paper)](https://dl.acm.org/doi/10.1145/3460319.3464813)," Sicheng Luo, **Hui Xu**, Yanyang Bi, Xin Wang, Yangfan Zhou, _in Proc. of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis (<span style="color: red">ISSTA</span>)_, 2021. (corresponding author)
 
