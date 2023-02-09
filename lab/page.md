@@ -5,25 +5,34 @@
 
 <span style="color: red">Please find more information about our lab <a href = "https://artisan-lab.github.io">here</a>.</span>
 
+### Ph.D. Student
+- 崔漠寒 (2020 - now), co supervise with Yangfan Zhou
+ 
 ### Master Student
 - 孙意林 (2022 - now)
 - 吕点 (2022 - now)
 - 张志淙 (2021 - now)
 - 董 妍 (2021 - now)
-- 崔漠寒 (2020 - now)
-- 李天宇 (2020 - now)
-- 候梦圆 (2020 - now)
 - 任志勇 (2020 - now)
-- 陈阳 (2020 - now)
-- 卢修文 (2020 - now)
-- 林佳贤 (2020 - now)
 - 陈澄钧 (2020 - now), co supervise with Yangfan Zhou
 
-
 ### Graduated Student
+- 林佳贤 (2020 - 2022)
+  - 2022年中国软件大会系统原型竞赛优胜奖
+  - 毕业去向：NTU Research Assisstant  
+- 陈阳 (2020 - 2022)
+  - 毕业去向：蚂蚁集团 
+  - 获得复旦大学计算机科学技术学院应届硕士毕业生原型系统竞赛二等奖
+- 卢修文 (2020 - 2022)
+  - 获得IEEE PRDC Best Student Paper Award
+  - 毕业去向：上海安势信息科技有限公司 
+- 李天宇 (2020 - 2022)
+  - 毕业去向：字节跳动 
+- 候梦圆 (2020 - 2022)
+  - 毕业去向：比亚迪 
 - 姜剑峰 (2019 - 2022)，co supervise with Yangfan Zhou
   - 毕业去向：蚂蚁集团
-  - 荣获ACM SIGSOFT优秀论文奖、2022年度上海市优秀硕士毕业生、第二届复旦大学计算机科学技术学院应届硕士毕业生原型系统竞赛一等奖。 
+  - 荣获ACM SIGSOFT优秀论文奖、2022年度上海市优秀硕士毕业生、第二届复旦大学计算机科学技术学院应届硕士毕业生原型系统竞赛一等奖
   - [RustConf China报告](files/RustConf22.pdf) 
 - 罗思成 (2018 - 2021)
   - 毕业去向：字节跳动
