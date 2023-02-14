@@ -17,7 +17,7 @@
 - Week8: Chapt 8. Rust Type System
 - Week9: Chapt 9. Rust Concurrent Programming
 - Week10: Chapt 10. Limitations of Rust
-- Week11: by Guest Speaker](memsafe/)
+- Week11: by Guest Speaker
 
 #### Part3: Advanced Topics
 
