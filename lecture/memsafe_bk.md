@@ -2,33 +2,30 @@
 
 ### Lecture Notes
 
+- [Course Introduction] (memsafe/)
+
 #### Part1: Foundations of Memory Safety 
-- Week1: [Course Introduction](memsafe/L0-course_intro.pdf)
-- Week1: [Buffer Overflow](memsafe/L1-buffer_overflow.pdf)
-- Week2: [Memory Allocation](memsafe/L2-mem_allocation.pdf)
-- Week3: [Heap Attack and Protection](memsafe/L3-heap_attack.pdf)
-- Week4: [Memory Exhaustion and Exception Handling](memsafe/L4-memory_exhaustion.pdf)
-- Week5: [Concurrent Memory Access](memsafe/L5-concurrent_access.pdf)
+- Week1: [Chapt 1. Stack Smashing]()
+- Week2: Chapt 2. Memory Allocator
+- Week3: Chapt 3. Heap Attack
+- Week4: Chapt 4. Auto Memory Management
+- Week5: Chapt 5. Memory Exhaustion
+- Week6: Chapt 6. Concurrent Access
 
 #### Part2: Rust Programming Language
-- Week6: [Rust Ownership-based Memory Management](memsafe/L6-Rust_OBRM.pdf)
-- Week7: [Rust Type System](memsafe/L7-Rust_Type_System.pdf)
-- Week8: [Rust Concurrency](memsafe/L8-Rust_Concurrency.pdf)
-- Week9: [Rust Functional Programming](memsafe/L9-Rust_Functional_Programming.pdf)
-- Week10: [Rust Compiler Design](memsafe/L10-Rust_Compiler.pdf)
-- Week11: [Rust Compiler Techniques (by Guest Speaker)](memsafe/L11-compiler_tech.pdf)
+- Week7: Chapt 7. Rust OBRM
+- Week8: Chapt 8. Rust Type System
+- Week9: Chapt 9. Rust Concurrent Programming
+- Week10: Chapt 10. Limitations of Rust
+- Week11: by Guest Speaker](memsafe/)
 
-#### Part3: Advanced Topic for Memory Safety
-Due to Covid-19, we have to rearrange the course materials.
+#### Part3: Advanced Topics
 
-- Week12: [Dynamic Analysis of Rust Programs](memsafe/L12-Dynamic_Analysis.pdf)
-- Week13: [Static Analysis of Rust Programs](memsafe/L13-Static_Analysis.pdf)
-- Week14: Presentation (by Students)
-  - [Rust Libraries 泛型API测试](memsafe/RustLibraries-张业鸿.pptx)
-  - [Allocator](memsafe/allocator_张志淙.pptx)
-  - [MirChecker](memsafe/MirChecker_任灏贇.pptx)
-  - [Stacked Borrows](memsafe/stacked_borrows_吴钟立.pptx)
+- Week12: Chapt 11. Static Analysis of Rust Programs
+- Week13: Chapt 12. Dynamic Analysis of Rust Programs
+- Week14: Chapt 13. Formal Verification
 
+<!--
 ### Reading List
 
 **Empirical**
@@ -56,5 +53,5 @@ Due to Covid-19, we have to rearrange the course materials.
 **Other Language**
 - Emre, Mehmet, Ryan Schroeder, Kyle Dewey, and Ben Hardekopf. "[Translating C to safer Rust](https://dl.acm.org/doi/pdf/10.1145/3485498)." Proceedings of the ACM on Programming Languages 5, no. OOPSLA (2021): 1-29.
 - Sammler, Michael, Rodolphe Lepigre, Robbert Krebbers, Kayvan Memarian, Derek Dreyer, and Deepak Garg. "[RefinedC: automating the foundational verification of C code with refined ownership types](https://dl.acm.org/doi/pdf/10.1145/3453483.3454036)." In Proceedings of the 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation, pp. 158-174. 2021.
-
+-->
 
