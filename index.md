@@ -6,11 +6,12 @@ I am currently a Tenure-track Associate Professor in the School of Computer Scie
 **Email**: xuh[AT]fudan.edu.cn	
 
 <span style="color: red"> I am looking for self-motivated students (master, intern, or FYP). Please drop me an email if you are interested. </span>
+<span style="color: red"> 研究生报名请选择：计算机科学与技术=>[智能网络与系统](https://cs.fudan.edu.cn/16/3f/c24277a267839/page.htm)学科方向. </span>
 
 ### Research Project:
 
 - [Rust Program Analysis](lab/rust)
-- [Software Testing](lab/testing)
+- [Cloud Reliability](lab/testing)
 
 ### Recent Talk:
 
