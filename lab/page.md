@@ -3,8 +3,6 @@
 
 复旦大学智能软件可靠性实验室（Artisan-Lab）专注程序分析、软件测试等软件可靠性技术研究，并致力于将研究成果应用于移动计算、云计算、人工智能等系统软件的可靠性提升。
 
-<span style="color: red">Please find more information about our lab <a href = "https://artisan-lab.github.io">here</a>.</span>
-
 ### Ph.D. Student
 - 崔漠寒 (2020 - now), co supervise with Yangfan Zhou
  
