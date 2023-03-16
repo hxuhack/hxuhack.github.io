@@ -25,7 +25,7 @@
 - Week13: Chapt 12. Dynamic Analysis of Rust Programs
 - Week14: Chapt 13. Formal Verification
 
-<!--
+
 ### Reading List
 
 **Empirical**
@@ -53,4 +53,4 @@
 **Other Language**
 - Emre, Mehmet, Ryan Schroeder, Kyle Dewey, and Ben Hardekopf. "[Translating C to safer Rust](https://dl.acm.org/doi/pdf/10.1145/3485498)." Proceedings of the ACM on Programming Languages 5, no. OOPSLA (2021): 1-29.
 - Sammler, Michael, Rodolphe Lepigre, Robbert Krebbers, Kayvan Memarian, Derek Dreyer, and Deepak Garg. "[RefinedC: automating the foundational verification of C code with refined ownership types](https://dl.acm.org/doi/pdf/10.1145/3453483.3454036)." In Proceedings of the 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation, pp. 158-174. 2021.
--->
+
