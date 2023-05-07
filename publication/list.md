@@ -2,13 +2,20 @@
 
 ## Publications (chronological order)
 
+### 2023
+
+- "OOM-Guard: Towards Improving The Ergonomics of Rust OOM Handling via A Reservation-based Approach", Chengjun Chen, Zhicong Zhang, Hongliang Tian, Shoumeng Yan, **Hui Xu**, _to appear in ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)_, San Francisco, California, United States, December 3-9, 2023. (corresponding author)
+
+- "Investigating the Impact of High Level Code Design on Hardware Faults Resilience", Bohan Zhang, Lishan Yang, **Hui Xu**, and Guanpeng Li, _to appear in The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN Disrupt Track)_, Porto, Portugal, June 27-30, 2023.
+
+
 ### 2022
 
 - "[Rust library fuzzing](https://doi.ieeecomputersociety.org/10.1109/MS.2022.3176657)", **Hui Xu**, _in IEEE Software_, Sept.-Oct. 2022, pp. 105-108, vol. 39.
 
 - "[SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis](https://dl.acm.org/doi/10.1145/3542948)", Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), Presented at ASE 2022 Journal-first Track, 2022. (corresponding author)
 
-- "[Safe Rust Code Recommendation Based on Siamese Graph Neural Networks]()", Xiuwen Lu, Zhicong Zhang, **Hui Xu**,  _27th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2022), to appear_, 2022. (<span style="color: red">Best Student Paper, Best Paper Runner Up</span>, corresponding author)
+- "[Safe Rust Code Recommendation Based on Siamese Graph Neural Networks](https://ieeexplore.ieee.org/document/10027825/)", Xiuwen Lu, Zhicong Zhang, **Hui Xu**,  _27th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2022), 2022. (<span style="color: red">Best Student Paper, Best Paper Runner Up</span>, corresponding author)
 
 - "[STELLA: Sparse Taint Analysis for Enclave Leakage Detection](https://arxiv.org/abs/2208.04719)", Yang Chen, Jianfeng jiang, Shoumeng Yan, **Hui Xu**, _arXiv preprint arXiv:2208.04719_, 2022. (corresponding author)
 
@@ -16,9 +23,9 @@
 
 - "[Memory-safety challenge considered solved? An in-depth study with all Rust CVEs](https://dl.acm.org/doi/10.1145/3466642)", **Hui Xu**, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, and Michael Lyu, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), vol 31, issue 1, no. 3_, 2022. pp.1-25.
 
-- "[LegoAI: Towards Building Reliable AI Software in Real-world Applications]()", Mengyuan Hou, **Hui Xu**,  _33rd IEEE International Symposium on Software Reliability Engineering (ISSRE-W), to appear_, 2022. 
+- "[LegoAI: Towards Building Reliable AI Software in Real-world Applications](https://ieeexplore.ieee.org/document/9985079/)", Mengyuan Hou, **Hui Xu**,  _33rd IEEE International Symposium on Software Reliability Engineering (ISSRE-W)_, 2022. 
 
-- "[Automated Test Case Generation from Input Specification in Natural Language]()", Tianyu Li, Xiuwen Lu, **Hui Xu**,  _33rd IEEE International Symposium on Software Reliability Engineering (ISSRE-W), to appear_, 2022. 
+- "[Automated Test Case Generation from Input Specification in Natural Language](https://ieeexplore.ieee.org/document/9985163)", Tianyu Li, Xiuwen Lu, **Hui Xu**,  _33rd IEEE International Symposium on Software Reliability Engineering (ISSRE-W)_, 2022. 
 
 ### 2021
 
