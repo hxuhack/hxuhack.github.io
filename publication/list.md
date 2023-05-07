@@ -4,7 +4,7 @@
 
 ### 2023
 
-- "OOM-Guard: Towards Improving The Ergonomics of Rust OOM Handling via A Reservation-based Approach", Chengjun Chen, Zhicong Zhang, Hongliang Tian, Shoumeng Yan, **Hui Xu**, _to appear in ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (<span style="color: red">ESEC/FSE</span>)_, 3-9 December 2023, San Francisco, California, United States, 2023. (corresponding author)
+- "OOM-Guard: Towards Improving The Ergonomics of Rust OOM Handling via A Reservation-based Approach", Chengjun Chen, Zhicong Zhang, Hongliang Tian, Shoumeng Yan, **Hui Xu**, _to appear in ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (<span style="color: red">ESEC/FSE</span>)_, San Francisco, California, United States, December 3-9, 2023. (corresponding author)
 
 - "Investigating the Impact of High Level Code Design on Hardware Faults Resilience", Bohan Zhang, Lishan Yang, **Hui Xu**, and Guanpeng Li, _to appear in The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN Disrupt Track)_, Porto, Portugal, June 27-30, 2023.
 
