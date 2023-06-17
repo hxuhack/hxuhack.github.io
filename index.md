@@ -48,8 +48,8 @@ I am currently a Tenure-track Associate Professor in the School of Computer Scie
 * PC Member:
   * ICSE: [TechDebt 2023](https://conf.researchr.org/home/TechDebt-2023)
   * DSN: [2020 Doctoral Forum](https://dsn2020.webs.upv.es/final-program/doctoral-forum/), [DSML 2022](https://dependablesecureml.github.io/2022/index.html), [DSML 2023](https://dependablesecureml.github.io)
-  * QRS: [2022](https://qrs22.techconf.org)
+  * QRS: [2022][2023](https://qrs22.techconf.org)
   * Internetware: [2023](https://conf.researchr.org/home/internetware-2023/)
-  * PRDC:[2022](https://prdc.dependability.org/PRDC2022/), [2023](https://prdc.dependability.org/PRDC2023/)
-  * ISSRE: [2021 Fast Abstracts Track](https://issre.net), [RSDA 2021-2022 (ISSRE Workshop)](https://sites.google.com/view/rsda2021)
+  * PRDC: [2022](https://prdc.dependability.org/PRDC2022/), [2023](https://prdc.dependability.org/PRDC2023/)
+  * ISSRE: [2023](https://issre.net), [2021 Fast Abstracts Track](https://issre.net), [RSDA 2021-2022 (ISSRE Workshop)](https://sites.google.com/view/rsda2021)
   * ICPADS: [2021](http://ieee-icpads.net/2021/index.html)
