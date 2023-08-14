@@ -6,11 +6,17 @@
 
 - "OOM-Guard: Towards Improving The Ergonomics of Rust OOM Handling via A Reservation-based Approach", Chengjun Chen, Zhicong Zhang, Hongliang Tian, Shoumeng Yan, **Hui Xu**, _to appear in ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (<span style="color: red">ESEC/FSE</span>)_, San Francisco, California, United States, December 3-9, 2023. (corresponding author)
 
+- "Demystifying and Mitigating Cross-Layer Deficiencies of Soft Error Protection in Instruction Duplication", Zhengyang He, Yafan Huang, **Hui Xu**, Dingwen Tao, and Guanpeng Li, _to appear in International Conference for High-Performance Computing, Networking, Storage and Analysis (<span style="color: red">SC</span>)_, Denver, Colorado, United States, Nov 12–17, 2023.
+
 - "Investigating the Impact of High Level Code Design on Hardware Faults Resilience", Bohan Zhang, Lishan Yang, **Hui Xu**, and Guanpeng Li, _to appear in The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN Disrupt Track)_, Porto, Portugal, June 27-30, 2023.
 
-- "[STELLA: Sparse Taint Analysis for Enclave Leakage Detection](https://arxiv.org/abs/2208.04719)", Yang Chen, Jianfeng jiang, Shoumeng Yan, **Hui Xu**, _34th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, 2023. (corresponding author)
+- "[STELLA: Sparse Taint Analysis for Enclave Leakage Detection](https://arxiv.org/abs/2208.04719)", Yang Chen, Jianfeng jiang, Shoumeng Yan, **Hui Xu**, _34th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Florence, Italy, Oct 9-12, 2023. (corresponding author)
 
-- "[foREST: A Tree-based Approach for Fuzzing RESTful APIs](https://arxiv.org/abs/2203.02906)", Jiaxian Lin, Tianyu Li, Yang Chen, Guangsheng Wei, Jiadong Lin, Sen Zhang, **Hui Xu**, _34th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, 2023. (corresponding author)
+- "[foREST: A Tree-based Approach for Fuzzing RESTful APIs](https://arxiv.org/abs/2203.02906)", Jiaxian Lin, Tianyu Li, Yang Chen, Guangsheng Wei, Jiadong Lin, Sen Zhang, **Hui Xu**, _34th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Florence, Italy, Oct 9-12, 2023. (corresponding author)
+
+- "[rCanary: Detecting Memory Leaks Across Semi-automated Memory Management Boundary in Rust](https://arxiv.org/pdf/2308.04787.pdf)", Mohan Cui, Shuran Sun, **Hui Xu**, Yangfan Zhou, arXiv, 2023. (corresponding author)
+
+- "[Is unsafe an Achilles' Heel? A Comprehensive Study of Safety Requirements in Unsafe Rust Programming](https://arxiv.org/pdf/2308.04785)", Mohan Cui, Shuran Sun, **Hui Xu**, Yangfan Zhou, arXiv, 2023. (corresponding author) 
 
 
 ### 2022
