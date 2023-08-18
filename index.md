@@ -15,6 +15,8 @@ I am currently a Tenure-track Associate Professor in the School of Computer Scie
 
 ### Recent Talk:
 
+- Fighting The Heap War with Rust [Slides](talks/20230817-Aarhus-HeapWar.pdf), Aarhus University, August, 2023
+
 - 基于静态分析的Rust内存安全缺陷检测研究 [Slides](talks/ChinaSoft2022-Hui.pdf), ChinaSoft 中国软件大会，Nov, 2022. 
 
 - Experiences of Teaching Rust and Code Recommendation to Assist Rust Beginners [Slides](talks/Xu-RustEdu-2022.pdf), [Video](https://www.youtube.com/watch?v=HchiXcBK4Gg), Rust Education Workshop, Aug, 2022. 
