@@ -4,4 +4,5 @@
 
 
 [Shanghai, China](shanghai/page.md)
-[Aarhus, Denmark](aarhus/page.md)
+
+[Aarhus, Denmark](aarhus/page.md), 2023
