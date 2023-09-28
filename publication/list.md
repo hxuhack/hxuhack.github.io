@@ -6,9 +6,9 @@
 
 - "OOM-Guard: Towards Improving The Ergonomics of Rust OOM Handling via A Reservation-based Approach", Chengjun Chen, Zhicong Zhang, Hongliang Tian, Shoumeng Yan, **Hui Xu**, _to appear in ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (<span style="color: red">ESEC/FSE</span>)_, San Francisco, California, United States, December 3-9, 2023. (corresponding author)
 
-- "Demystifying and Mitigating Cross-Layer Deficiencies of Soft Error Protection in Instruction Duplication", Zhengyang He, Yafan Huang, **Hui Xu**, Dingwen Tao, and Guanpeng Li, _to appear in International Conference for High-Performance Computing, Networking, Storage and Analysis (<span style="color: red">SC</span>)_, Denver, Colorado, United States, Nov 12–17, 2023.
+- "[Demystifying and Mitigating Cross-Layer Deficiencies of Soft Error Protection in Instruction Duplication](https://cgi.luddy.indiana.edu/~ditao/paper/SC23-SDC.pdf)", Zhengyang He, Yafan Huang, **Hui Xu**, Dingwen Tao, and Guanpeng Li, _International Conference for High-Performance Computing, Networking, Storage and Analysis (<span style="color: red">SC</span>)_, Denver, Colorado, United States, Nov 12–17, 2023.
 
-- "Investigating the Impact of High Level Code Design on Hardware Faults Resilience", Bohan Zhang, Lishan Yang, **Hui Xu**, and Guanpeng Li, _to appear in The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN Disrupt Track)_, Porto, Portugal, June 27-30, 2023.
+- "[Investigating the Impact of High Level Code Design on Hardware Faults Resilience](https://ieeexplore.ieee.org/document/10206895/)", Bohan Zhang, Lishan Yang, **Hui Xu**, and Guanpeng Li, _The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN Disrupt Track)_, Porto, Portugal, June 27-30, 2023.
 
 - "[STELLA: Sparse Taint Analysis for Enclave Leakage Detection](https://arxiv.org/abs/2208.04719)", Yang Chen, Jianfeng jiang, Shoumeng Yan, **Hui Xu**, _34th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Florence, Italy, Oct 9-12, 2023. (corresponding author)
 
