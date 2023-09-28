@@ -1,7 +1,7 @@
 |[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](publication/list) | [<b>Artisan-Lab</b>](lab/page) | [<b>Pictures</b>](photo/page) | [<b>Misc</b>](misc/list) |
 
 ### Short Bio
-I am currently a Tenure-track Associate Professor in the School of Computer Science, Fudan University. My research interests include program analysis and software engineering, as well as their applications in AI systems, mobile computing, and cloud. I run a research group [Artisan-Lab](lab/page). Before joining Fudan University, I was a Postdoctoral Researcher at the Chinese University of Hong Kong with CUHK Postdoctoral Research Fellowship. I also obtained my Ph.D. degree from CUHK, supervised by [Prof. Michael Lyu](http://www.cse.cuhk.edu.hk/lyu/). Before that, I have worked in industries as a system security professional after obtaining my M.Sc. degree from Hong Kong University, and B.Eng and B.M degrees from China University of Geosciences (Beijing).
+I am an Associate Professor in the School of Computer Science, Fudan University. My research interests include program analysis and software engineering, as well as their applications in AI systems, mobile computing, and cloud. I run a research group [Artisan-Lab](lab/page). Before joining Fudan University, I was a Postdoctoral Researcher at the Chinese University of Hong Kong with CUHK Postdoctoral Research Fellowship. I also obtained my Ph.D. degree from CUHK, supervised by [Prof. Michael Lyu](http://www.cse.cuhk.edu.hk/lyu/). Before that, I have worked in industries as a system security professional after obtaining my M.Sc. degree from Hong Kong University, and B.Eng and B.M degrees from China University of Geosciences (Beijing).
 
 **Email**: xuh[AT]fudan.edu.cn	
 
@@ -15,11 +15,15 @@ I am currently a Tenure-track Associate Professor in the School of Computer Scie
 
 ### Recent Talk:
 
+- Fighting The Heap War with Rust [Slides](talks/20230924-GOSIM-HeapWar.pdf), GOSIM Workshop, Shanghai, Sep 2023
+
+- Rust安全机制和特权代码安全强化 [Slides](talks/20230917-ADL-UnsafeRust.pdf), CCF-ADL 学科前沿讲习班第142期, Beijing, Sep 2023
+
 - Fighting The Heap War with Rust [Slides](talks/20230817-Aarhus-HeapWar.pdf), Aarhus University, August, 2023
 
-- 基于静态分析的Rust内存安全缺陷检测研究 [Slides](talks/ChinaSoft2022-Hui.pdf), ChinaSoft 中国软件大会，Nov, 2022. 
+- 基于静态分析的Rust内存安全缺陷检测研究 [Slides](talks/ChinaSoft2022-Hui.pdf), ChinaSoft 中国软件大会，Nov, 2022 
 
-- Experiences of Teaching Rust and Code Recommendation to Assist Rust Beginners [Slides](talks/Xu-RustEdu-2022.pdf), [Video](https://www.youtube.com/watch?v=HchiXcBK4Gg), Rust Education Workshop, Aug, 2022. 
+- Experiences of Teaching Rust and Code Recommendation to Assist Rust Beginners [Slides](talks/Xu-RustEdu-2022.pdf), [Video](https://www.youtube.com/watch?v=HchiXcBK4Gg), Rust Education Workshop, Aug, 2022 
 
 ### Selected (Recent) Paper:
 
