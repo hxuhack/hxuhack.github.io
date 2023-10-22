@@ -10,22 +10,22 @@
 
 - "[Investigating the Impact of High Level Code Design on Hardware Faults Resilience](https://ieeexplore.ieee.org/document/10206895/)", Bohan Zhang, Lishan Yang, **Hui Xu**, and Guanpeng Li, _The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN Disrupt Track)_, Porto, Portugal, June 27-30, 2023.
 
-- "[STELLA: Sparse Taint Analysis for Enclave Leakage Detection](https://arxiv.org/abs/2208.04719)", Yang Chen, Jianfeng jiang, Shoumeng Yan, **Hui Xu**, _34th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Florence, Italy, Oct 9-12, 2023. (corresponding author)
+- "[Mind Your Enclave Pointers! Detecting Privacy Leaks for SGX Apps via Sparse Taint Analysis](https://arxiv.org/abs/2208.04719)", Yang Chen, Jianfeng jiang, Shoumeng Yan, **Hui Xu**, _34th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Florence, Italy, Oct 9-12, 2023. (<span style="color: red">One of the three Best Paper Candidates</span>, corresponding author)
 
 - "[foREST: A Tree-based Approach for Fuzzing RESTful APIs](https://arxiv.org/abs/2203.02906)", Jiaxian Lin, Tianyu Li, Yang Chen, Guangsheng Wei, Jiadong Lin, Sen Zhang, **Hui Xu**, _34th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Florence, Italy, Oct 9-12, 2023. (corresponding author)
 
-- "[rCanary: Detecting Memory Leaks Across Semi-automated Memory Management Boundary in Rust](https://arxiv.org/pdf/2308.04787.pdf)", Mohan Cui, Shuran Sun, **Hui Xu**, Yangfan Zhou, arXiv, 2023. (corresponding author)
+- "[rCanary: Detecting Memory Leaks Across Semi-automated Memory Management Boundary in Rust](https://arxiv.org/pdf/2308.04787.pdf)", Mohan Cui, Shuran Sun, **Hui Xu**, Yangfan Zhou, _arXiv_, 2023. (corresponding author)
 
-- "[Is unsafe an Achilles' Heel? A Comprehensive Study of Safety Requirements in Unsafe Rust Programming](https://arxiv.org/pdf/2308.04785)", Mohan Cui, Shuran Sun, **Hui Xu**, Yangfan Zhou, arXiv, 2023. (corresponding author) 
+- "[Is unsafe an Achilles' Heel? A Comprehensive Study of Safety Requirements in Unsafe Rust Programming](https://arxiv.org/pdf/2308.04785)", Mohan Cui, Shuran Sun, **Hui Xu**, Yangfan Zhou, _arXiv_, 2023. (corresponding author) 
 
 
 ### 2022
 
 - "[Rust library fuzzing](https://doi.ieeecomputersociety.org/10.1109/MS.2022.3176657)", **Hui Xu**, _in IEEE Software_, Sept.-Oct. 2022, pp. 105-108, vol. 39.
 
-- "[SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis](https://dl.acm.org/doi/10.1145/3542948)", Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), Presented at ASE 2022 Journal-first Track, 2022. (corresponding author)
+- "[SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis](https://dl.acm.org/doi/10.1145/3542948)", Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>)_, Presented at ASE 2022 Journal-first Track, 2022. (corresponding author)
 
-- "[Safe Rust Code Recommendation Based on Siamese Graph Neural Networks](https://ieeexplore.ieee.org/document/10027825/)", Xiuwen Lu, Zhicong Zhang, **Hui Xu**,  _27th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2022), 2022. (<span style="color: red">Best Student Paper, Best Paper Runner Up</span>, corresponding author)
+- "[Safe Rust Code Recommendation Based on Siamese Graph Neural Networks](https://ieeexplore.ieee.org/document/10027825/)", Xiuwen Lu, Zhicong Zhang, **Hui Xu**, _27th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2022)_, 2022. (<span style="color: red">Best Student Paper, Best Paper Runner Up</span>, corresponding author)
 
 - "[LegoAI: Towards Building Reliable AI Software in Real-world Applications](https://ieeexplore.ieee.org/document/9985079/)", Mengyuan Hou, **Hui Xu**,  _33rd IEEE International Symposium on Software Reliability Engineering (ISSRE-W)_, 2022. 
 
