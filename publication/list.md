@@ -2,22 +2,24 @@
 
 ## Publications (chronological order)
 
+### 2024
+
+-  "[Is unsafe an Achilles' Heel? A Comprehensive Study of Safety Requirements in Unsafe Rust Programming](https://arxiv.org/pdf/2308.04785)", Mohan Cui, Shuran Sun, Yangfan Zhou, **Hui Xu**, _to appear in 46th International Conference on Software Engineering(<span style="color: red">ICSE</span>)_, Lisbon, Portugal, April 12-20, 2024. (corresponding author) 
+
+
 ### 2023
 
-- "OOM-Guard: Towards Improving The Ergonomics of Rust OOM Handling via A Reservation-based Approach", Chengjun Chen, Zhicong Zhang, Hongliang Tian, Shoumeng Yan, **Hui Xu**, _to appear in ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (<span style="color: red">ESEC/FSE</span>)_, San Francisco, California, United States, December 3-9, 2023. (corresponding author)
+- "[OOM-Guard: Towards Improving The Ergonomics of Rust OOM Handling via A Reservation-based Approach](https://dl.acm.org/doi/10.1145/3611643.3616303)", Chengjun Chen, Zhicong Zhang, Hongliang Tian, Shoumeng Yan, **Hui Xu**, _ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (<span style="color: red">ESEC/FSE</span>)_, San Francisco, California, United States, December 3-9, 2023. (corresponding author)
 
 - "[Demystifying and Mitigating Cross-Layer Deficiencies of Soft Error Protection in Instruction Duplication](https://cgi.luddy.indiana.edu/~ditao/paper/SC23-SDC.pdf)", Zhengyang He, Yafan Huang, **Hui Xu**, Dingwen Tao, and Guanpeng Li, _International Conference for High-Performance Computing, Networking, Storage and Analysis (<span style="color: red">SC</span>)_, Denver, Colorado, United States, Nov 12–17, 2023.
 
 - "[Investigating the Impact of High Level Code Design on Hardware Faults Resilience](https://ieeexplore.ieee.org/document/10206895/)", Bohan Zhang, Lishan Yang, **Hui Xu**, and Guanpeng Li, _The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN Disrupt Track)_, Porto, Portugal, June 27-30, 2023.
 
-- "[Mind Your Enclave Pointers! Detecting Privacy Leaks for SGX Apps via Sparse Taint Analysis](https://arxiv.org/abs/2208.04719)", Yang Chen, Jianfeng jiang, Shoumeng Yan, **Hui Xu**, _34th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Florence, Italy, Oct 9-12, 2023. (<span style="color: red">One of the three Best Paper Candidates</span>, corresponding author)
+- "[Mind Your Enclave Pointers! Detecting Privacy Leaks for SGX Apps via Sparse Taint Analysis](https://www.computer.org/csdl/proceedings-article/issre/2023/159400a024/1RKjmFtagmc)", Yang Chen, Jianfeng jiang, Shoumeng Yan, **Hui Xu**, _34th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Florence, Italy, Oct 9-12, 2023. (<span style="color: red">One of the three Best Paper Candidates</span>, corresponding author)
 
-- "[foREST: A Tree-based Approach for Fuzzing RESTful APIs](https://arxiv.org/abs/2203.02906)", Jiaxian Lin, Tianyu Li, Yang Chen, Guangsheng Wei, Jiadong Lin, Sen Zhang, **Hui Xu**, _34th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Florence, Italy, Oct 9-12, 2023. (corresponding author)
+- "[foREST: A Tree-based Approach for Fuzzing RESTful APIs](https://www.computer.org/csdl/proceedings-article/issre/2023/159400a695/1RKjn2C2ySk)", Jiaxian Lin, Tianyu Li, Yang Chen, Guangsheng Wei, Jiadong Lin, Sen Zhang, **Hui Xu**, _34th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Florence, Italy, Oct 9-12, 2023. (corresponding author)
 
 - "[rCanary: Detecting Memory Leaks Across Semi-automated Memory Management Boundary in Rust](https://arxiv.org/pdf/2308.04787.pdf)", Mohan Cui, Shuran Sun, **Hui Xu**, Yangfan Zhou, _arXiv_, 2023. (corresponding author)
-
-- "[Is unsafe an Achilles' Heel? A Comprehensive Study of Safety Requirements in Unsafe Rust Programming](https://arxiv.org/pdf/2308.04785)", Mohan Cui, Shuran Sun, **Hui Xu**, Yangfan Zhou, _arXiv_, 2023. (corresponding author) 
-
 
 ### 2022
 

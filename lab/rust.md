@@ -2,11 +2,14 @@
 
 ## Survey
 
+
+-  "[Is unsafe an Achilles' Heel? A Comprehensive Study of Safety Requirements in Unsafe Rust Programming](https://arxiv.org/pdf/2308.04785)", Mohan Cui, Shuran Sun, Yangfan Zhou, **Hui Xu**, _to appear in 46th International Conference on Software Engineering(<span style="color: red">ICSE</span>)_, Lisbon, Portugal, April 12-20, 2024. (corresponding author) 
+
 -  "[Memory-safety challenge considered solved? An in-depth study with all Rust CVEs](https://dl.acm.org/doi/10.1145/3466642)", **Hui Xu**, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, and Michael Lyu, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), vol 31, issue 1, no. 3_, 2022 (first published in 2021). pp.1-25.
 
 ## Static Analysis
 
-- "OOM-Guard: Towards Improving The Ergonomics of Rust OOM Handling via A Reservation-based Approach", Chengjun Chen, Zhicong Zhang, Hongliang Tian, Shoumeng Yan, **Hui Xu**, _to appear in ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (<span style="color: red">ESEC/FSE</span>)_, San Francisco, California, United States, December 3-9, 2023. (corresponding author)
+- "[OOM-Guard: Towards Improving The Ergonomics of Rust OOM Handling via A Reservation-based Approach](https://dl.acm.org/doi/10.1145/3611643.3616303)", Chengjun Chen, Zhicong Zhang, Hongliang Tian, Shoumeng Yan, **Hui Xu**, _ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (<span style="color: red">ESEC/FSE</span>)_, San Francisco, California, United States, December 3-9, 2023. (corresponding author)
 
 - "[SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis](https://arxiv.org/abs/2103.15420)", Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), accepted_, 2022. (corresponding author)
 
