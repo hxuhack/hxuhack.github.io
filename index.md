@@ -29,7 +29,7 @@ I am an Associate Professor in the School of Computer Science, Fudan University.
 
 ### Selected (Recent) Paper:
 
-- "OOM-Guard: Towards Improving The Ergonomics of Rust OOM Handling via A Reservation-based Approach", Chengjun Chen, Zhicong Zhang, Hongliang Tian, Shoumeng Yan, **Hui Xu**, _to appear in ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (<span style="color: red">ESEC/FSE</span>)_, San Francisco, California, United States, December 3-9, 2023. (corresponding author)
+- "[OOM-Guard: Towards Improving The Ergonomics of Rust OOM Handling via A Reservation-based Approach](https://dl.acm.org/doi/10.1145/3611643.3616303)", Chengjun Chen, Zhicong Zhang, Hongliang Tian, Shoumeng Yan, **Hui Xu**, _ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (<span style="color: red">ESEC/FSE</span>)_, San Francisco, California, United States, December 3-9, 2023. (corresponding author)
  
 - "[SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis](https://dl.acm.org/doi/10.1145/3542948)", Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), Presented at ASE 2022 Journal-first Track, 2022. (corresponding author)
 
