@@ -15,6 +15,8 @@
 
 ## Fuzz
 
+- "[Fuzz Driver Synthesis for Rust Generic APIs](https://arxiv.org/abs/2312.10676)", Yehong Zhang, Jun Wu, **Hui Xu**, __arXiv_, 2023. (corresponding author).
+
 - "[Rust library fuzzing](https://doi.ieeecomputersociety.org/10.1109/MS.2022.3176657)", **Hui Xu**, _in IEEE Software_, Sept.-Oct. 2022, pp. 105-108, vol. 39. 
 
 - "[RULF: Rust library fuzzing via API dependency graph traversal](https://ieeexplore.ieee.org/abstract/document/9678813)", Jianfeng Jiang, **Hui Xu**, Yangfan Zhou, _in Prof. of the 36th IEEE/ACM International Conference on Automated Software Engineering (<span style="color: red">ASE</span>)_, 2021. (<span style="color: red">Distingshed Paper Award</span>, corresponding author)

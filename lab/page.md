@@ -14,11 +14,12 @@
 - 饶子豪 (2023 - now)，co supervise with Yangfan Zhou
 - 孙意林 (2022 - now)
 - 吕点 (2022 - now)
-- 张志淙 (2021 - now)
 - 董 妍 (2021 - now)
 - 任志勇 (2020 - now)
 
 ### Graduated Student
+- 张志淙 (2021 - now)
+  - 毕业去向：上海安势信息科技有限公司 
 - 陈澄钧 (2019 - 2023)，co supervise with Yangfan Zhou
   - 毕业去向：蚂蚁集团
 - 林佳贤 (2020 - 2022)
