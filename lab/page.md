@@ -7,20 +7,26 @@
 - 崔漠寒 (2020 - now), co supervise with Yangfan Zhou
  
 ### Master Student
+
+- 崔晨浩 (2023 - now)
+- 杨怡然 (2023 - now)
+- 孙晗 (2023 - now)，co supervise with Yangfan Zhou
+- 饶子豪 (2023 - now)，co supervise with Yangfan Zhou
 - 孙意林 (2022 - now)
 - 吕点 (2022 - now)
 - 张志淙 (2021 - now)
 - 董 妍 (2021 - now)
 - 任志勇 (2020 - now)
-- 陈澄钧 (2020 - now), co supervise with Yangfan Zhou
 
 ### Graduated Student
+- 陈澄钧 (2019 - 2023)，co supervise with Yangfan Zhou
+  - 毕业去向：蚂蚁集团
 - 林佳贤 (2020 - 2022)
   - 2022年中国软件大会系统原型竞赛优胜奖
   - 毕业去向：NTU Research Assisstant  
 - 陈阳 (2020 - 2022)
   - 毕业去向：蚂蚁集团 
-  - 获得复旦大学计算机科学技术学院应届硕士毕业生原型系统竞赛二等奖
+  - 获得ISSRE 2023 Best Paper Candidate、复旦大学优秀毕业生、复旦大学计算机科学技术学院应届硕士毕业生原型系统竞赛二等奖
 - 卢修文 (2020 - 2022)
   - 获得IEEE PRDC Best Student Paper Award
   - 毕业去向：上海安势信息科技有限公司 
@@ -36,6 +42,10 @@
   - 毕业去向：字节跳动
 
 ### FYP Student 
+ - 刘乔升（2023），bpflame - 一个基于 eBPF 技术的自动化代码调试工具 
+ - 叶浩宁（2023），C++语言的轻量级函数式运行环境
+ - 张元昌（2023），基于LSP的Rust代码推荐系统
+ - 张鼎逸（2023），知识图谱的可视化系统设计
  - 童煜晨（2022），基于 Andersen 算法的 Rust MIR 指针分析
  - 谢雨轩（2022），基于指针分析的Rust语言Rc指针循环引用漏洞检测
  - 张育茹（2022），针对RRAM存储器的深度神经网络容错方法研究
