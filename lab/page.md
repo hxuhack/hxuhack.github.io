@@ -8,7 +8,7 @@
  
 ### Master Student
 
-- 崔晨浩 (2023 - now)
+- 崔晨昊 (2023 - now)
 - 杨怡然 (2023 - now)
 - 孙晗 (2023 - now)，co supervise with Yangfan Zhou
 - 饶子豪 (2023 - now)，co supervise with Yangfan Zhou

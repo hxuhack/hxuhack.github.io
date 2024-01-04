@@ -4,7 +4,9 @@
 
 ### 2024
 
--  "[Is unsafe an Achilles' Heel? A Comprehensive Study of Safety Requirements in Unsafe Rust Programming](https://arxiv.org/pdf/2308.04785)", Mohan Cui, Shuran Sun, Yangfan Zhou, **Hui Xu**, _to appear in 46th International Conference on Software Engineering(<span style="color: red">ICSE</span>)_, Lisbon, Portugal, April 12-20, 2024. (corresponding author) 
+- "[Is unsafe an Achilles' Heel? A Comprehensive Study of Safety Requirements in Unsafe Rust Programming](https://arxiv.org/pdf/2308.04785)", Mohan Cui, Shuran Sun, Yangfan Zhou, **Hui Xu**, _to appear in 46th International Conference on Software Engineering(<span style="color: red">ICSE</span>)_, Lisbon, Portugal, April 12-20, 2024. (corresponding author) 
+
+- "[SafeNet: Towards Mitigating Replaceable Unsafe Rust Code via A Recommendation-based Approach]()", Yan Dong, Zhicong Zhang, Mohan Cui, **Hui Xu**, _to appear in Software Testing, Verification and Reliability (STVR)_, 2022. (corresponding author) 
 
 ### 2023
 
