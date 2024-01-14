@@ -18,7 +18,7 @@
 - 任志勇 (2020 - now)
 
 ### Graduated Student
-- 张志淙 (2021 - now)
+- 张志淙 (2021 - 2023)
   - 毕业去向：上海安势信息科技有限公司 
 - 陈澄钧 (2019 - 2023)，co supervise with Yangfan Zhou
   - 毕业去向：蚂蚁集团

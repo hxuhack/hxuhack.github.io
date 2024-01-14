@@ -23,7 +23,7 @@
 
 ## Code Recommendation
 
-- "[SafeNet: Towards Mitigating Replaceable Unsafe Rust Code via A Recommendation-based Approach]()", Yan Dong, Zhicong Zhang, Mohan Cui, **Hui Xu**, _to appear in Software Testing, Verification and Reliability (STVR)_, 2022. (corresponding author) 
+- "[SafeNet: Towards Mitigating Replaceable Unsafe Rust Code via A Recommendation-based Approach]()", Yan Dong, Zhicong Zhang, Mohan Cui, **Hui Xu**, _to appear in Software Testing, Verification and Reliability (STVR)_, 2024. (corresponding author) 
 
 - "[Safe Rust Code Recommendation Based on Siamese Graph Neural Networks](https://ieeexplore.ieee.org/document/10027825/)", Xiuwen Lu, Zhicong Zhang, **Hui Xu**,  _27th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2022)_, 2022. (<span style="color: red">Best Student Paper, Best Paper Runner Up</span>, corresponding author) 
 
