@@ -51,13 +51,15 @@ I am an Associate Professor in the School of Computer Science, Fudan University.
 
 ###  Academic Service
 
+* Chair, [ISSRE 2024 FA Track ](https://issre.github.io/2024/), Tsukuba, Japan
 * General Co-Chair, [DSML 2021](https://dependablesecureml.github.io/2021/index.html), Taipei
 * Publicity Co-Chair, [DSN 2021](http://dsn2021.ntu.edu.tw), Taipei
 * PC Member:
   * ICSE: [TechDebt 2023](https://conf.researchr.org/home/TechDebt-2023)
-  * DSN: [2020 Doctoral Forum](https://dsn2020.webs.upv.es/final-program/doctoral-forum/), [DSML 2022](https://dependablesecureml.github.io/2022/index.html), [DSML 2023](https://dependablesecureml.github.io)
+  * DSN: [2020 Doctoral Forum](https://dsn2020.webs.upv.es/final-program/doctoral-forum/), [DSML 2022](https://dependablesecureml.github.io/2022/index.html), [DSML 2023](https://dependablesecureml.github.io), [2024 Poster Track](https://dsn2024uq.github.io/cfposter.html)
+  * ISSRE: [2023](https://issre.net), [2021 Fast Abstracts Track](https://issre.net), [RSDA 2021-2022 (ISSRE Workshop)](https://sites.google.com/view/rsda2021)
+  * TASE: [2024](https://tase2024.github.io)
   * QRS: [2022][2023](https://qrs22.techconf.org)
   * Internetware: [2023](https://conf.researchr.org/home/internetware-2023/)
   * PRDC: [2022](https://prdc.dependability.org/PRDC2022/), [2023](https://prdc.dependability.org/PRDC2023/)
-  * ISSRE: [2023](https://issre.net), [2021 Fast Abstracts Track](https://issre.net), [RSDA 2021-2022 (ISSRE Workshop)](https://sites.google.com/view/rsda2021)
   * ICPADS: [2021](http://ieee-icpads.net/2021/index.html)
