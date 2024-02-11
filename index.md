@@ -43,8 +43,8 @@ I am an Associate Professor in the School of Computer Science, Fudan University.
 
 ###  Teaching
 
+- [SOFT130061 编译原理 Compiler Principles and Techniques](https://github.com/hxuhack/course_compiler), Autumn 2021, Autumn 2022, Autumn 2023, Spring 2024
 - [COMP737011 安全编程语言设计 Memory Safety and Programming Language Design](https://github.com/hxuhack/course_safepl), Spring 2022, Spring 2023
-- [SOFT130061 编译原理 Compiler Principles and Techniques](https://github.com/hxuhack/course_compiler), Autumn 2021, Autumn 2022, Autumn 2023
 - [COMP130159 软件安全 Software Security](lecture/softwaresec), Spring 2020
 - [COMP130189 网络安全 Network Security](lecture/networksec), Autumn 2020, Spring 2021
 
