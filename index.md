@@ -10,8 +10,9 @@ I am an Associate Professor in the School of Computer Science, Fudan University.
 
 ### Tools Developped by US:
 
-- [RULF: Automated Fuzz Driver Generator for Rust Libraries](https://github.com/Artisan-Lab/RULF)
-    (<span style="color: red">ACM SIGSOFT Distinguished Paper Award</span>)
+- [RULF](https://github.com/Artisan-Lab/RULF)
+
+  RULF is an Automated Fuzz Driver Generator for Rust Libraries. The work has won ACM SIGSOFT Distinguished Paper Award.
 - [RAP: A Static Anlysis Platform for Rust Programs](https://github.com/Artisan-Lab/RAP)
 
 ### Recent Talk:
