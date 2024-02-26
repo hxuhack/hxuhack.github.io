@@ -8,10 +8,10 @@ I am an Associate Professor in the School of Computer Science, Fudan University.
 <span style="color: red"> I am looking for self-motivated students (master, intern, or FYP). Please drop me an email if you are interested. </span>
 <span style="color: red"> 研究生报名请选择：计算机科学与技术=>[智能网络与系统](https://cs.fudan.edu.cn/16/3f/c24277a267839/page.htm)学科方向. </span>
 
-### Research Project:
+### Tools Developped by US:
 
-- [Rust Program Analysis](lab/rust)
-- [Cloud Reliability](lab/testing)
+- [RULF: Automated Fuzz Driver Generator for Rust Libraries](https://github.com/Artisan-Lab/RULF)
+- [RAP: A Static Anlysis Platform for Rust Programs](https://github.com/Artisan-Lab/RAP)
 
 ### Recent Talk:
 
@@ -43,7 +43,7 @@ I am an Associate Professor in the School of Computer Science, Fudan University.
 
 ###  Teaching
 
-- [SOFT130061 编译原理 Compiler Principles and Techniques](https://github.com/hxuhack/course_compiler), Autumn 2021, Autumn 2022, Autumn 2023, Spring 2024
+- [COMP130014 编译 Compiler Principles and Techniques](https://github.com/hxuhack/course_compiler), Autumn 2021, Autumn 2022, Autumn 2023, Spring 2024
 - [COMP737011 安全编程语言设计 Memory Safety and Programming Language Design](https://github.com/hxuhack/course_safepl), Spring 2022, Spring 2023
 - [COMP130159 软件安全 Software Security](lecture/softwaresec), Spring 2020
 - [COMP130189 网络安全 Network Security](lecture/networksec), Autumn 2020, Spring 2021
