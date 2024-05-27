@@ -4,9 +4,11 @@
 
 ### 2024
 
-- "[Is unsafe an Achilles' Heel? A Comprehensive Study of Safety Requirements in Unsafe Rust Programming](https://arxiv.org/pdf/2308.04785)", Mohan Cui, Shuran Sun, Yangfan Zhou, **Hui Xu**, _to appear in 46th International Conference on Software Engineering(<span style="color: red">ICSE</span>)_, Lisbon, Portugal, April 12-20, 2024. (corresponding author) 
+- "[A Fast Low-Level Error Detection Technique (PER)]()", Zhengyang He, Hui Xu, Guanpeng Li, _The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, 2024
 
-- "[SafeNet: Towards Mitigating Replaceable Unsafe Rust Code via A Recommendation-based Approach]()", Yan Dong, Zhicong Zhang, Mohan Cui, **Hui Xu**, _to appear in Software Testing, Verification and Reliability (STVR)_, 2024. (corresponding author) 
+- "[Is unsafe an Achilles' Heel? A Comprehensive Study of Safety Requirements in Unsafe Rust Programming](https://arxiv.org/pdf/2308.04785)", Mohan Cui, Shuran Sun, Yangfan Zhou, **Hui Xu**, _46th International Conference on Software Engineering(<span style="color: red">ICSE</span>)_, Lisbon, Portugal, April 12-20, 2024. (corresponding author) 
+
+- "[SafeNet: Towards Mitigating Replaceable Unsafe Rust Code via A Recommendation-based Approach]()", Yan Dong, Zhicong Zhang, Mohan Cui, **Hui Xu**, _Software Testing, Verification and Reliability (STVR)_, 2024. (corresponding author) 
 
 ### 2023
 
