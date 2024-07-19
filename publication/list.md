@@ -4,27 +4,27 @@
 
 ### 2024
 
-- "[A Fast Low-Level Error Detection Technique (PER)]()", Zhengyang He, Hui Xu, Guanpeng Li, _The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, 2024
+- "[A fast low-level error detection technique (PER)]()", Zhengyang He, Hui Xu, Guanpeng Li, _The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, 2024
 
-- "[Is unsafe an Achilles' Heel? A Comprehensive Study of Safety Requirements in Unsafe Rust Programming](https://arxiv.org/pdf/2308.04785)", Mohan Cui, Shuran Sun, Yangfan Zhou, **Hui Xu**, _46th International Conference on Software Engineering(<span style="color: red">ICSE</span>)_, Lisbon, Portugal, April 12-20, 2024. (corresponding author) 
+- "[Is unsafe an Achilles' Heel? A comprehensive study of safety requirements in unsafe Rust programming](https://arxiv.org/pdf/2308.04785)", Mohan Cui, Shuran Sun, Yangfan Zhou, **Hui Xu**, _46th International Conference on Software Engineering(<span style="color: red">ICSE</span>)_, Lisbon, Portugal, April 12-20, 2024. (corresponding author) 
 
-- "[SafeNet: Towards Mitigating Replaceable Unsafe Rust Code via A Recommendation-based Approach]()", Yan Dong, Zhicong Zhang, Mohan Cui, **Hui Xu**, _Software Testing, Verification and Reliability (STVR)_, 2024. (corresponding author) 
+- "[SafeNet: Towards mitigating replaceable unsafe Rust code via a recommendation-based approach]()", Yan Dong, Zhicong Zhang, Mohan Cui, **Hui Xu**, _Software Testing, Verification and Reliability (STVR)_, 2024. (corresponding author) 
 
 ### 2023
 
-- "[Fuzz Driver Synthesis for Rust Generic APIs](https://arxiv.org/abs/2312.10676)", Yehong Zhang, Jun Wu, **Hui Xu**, __arXiv_, 2024. (corresponding author).
+- "[Fuzz driver synthesis for Rust generic APIs](https://arxiv.org/abs/2312.10676)", Yehong Zhang, Jun Wu, **Hui Xu**, __arXiv_, 2024. (corresponding author).
 
-- "[OOM-Guard: Towards Improving The Ergonomics of Rust OOM Handling via A Reservation-based Approach](https://dl.acm.org/doi/10.1145/3611643.3616303)", Chengjun Chen, Zhicong Zhang, Hongliang Tian, Shoumeng Yan, **Hui Xu**, _ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (<span style="color: red">ESEC/FSE</span>)_, San Francisco, California, United States, December 3-9, 2023. (corresponding author)
+- "[OOM-Guard: Towards improving the ergonomics of Rust OOM handling via a reservation-based approach](https://dl.acm.org/doi/10.1145/3611643.3616303)", Chengjun Chen, Zhicong Zhang, Hongliang Tian, Shoumeng Yan, **Hui Xu**, _ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (<span style="color: red">ESEC/FSE</span>)_, San Francisco, California, United States, December 3-9, 2023. (corresponding author)
 
-- "[Demystifying and Mitigating Cross-Layer Deficiencies of Soft Error Protection in Instruction Duplication](https://cgi.luddy.indiana.edu/~ditao/paper/SC23-SDC.pdf)", Zhengyang He, Yafan Huang, **Hui Xu**, Dingwen Tao, and Guanpeng Li, _International Conference for High-Performance Computing, Networking, Storage and Analysis (<span style="color: red">SC</span>)_, Denver, Colorado, United States, Nov 12–17, 2023.
+- "[Demystifying and mitigating cross-layer deficiencies of soft error protection in instruction duplication](https://cgi.luddy.indiana.edu/~ditao/paper/SC23-SDC.pdf)", Zhengyang He, Yafan Huang, **Hui Xu**, Dingwen Tao, and Guanpeng Li, _International Conference for High-Performance Computing, Networking, Storage and Analysis (<span style="color: red">SC</span>)_, Denver, Colorado, United States, Nov 12–17, 2023.
 
-- "[Investigating the Impact of High Level Code Design on Hardware Faults Resilience](https://ieeexplore.ieee.org/document/10206895/)", Bohan Zhang, Lishan Yang, **Hui Xu**, and Guanpeng Li, _The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN Disrupt Track)_, Porto, Portugal, June 27-30, 2023.
+- "[Investigating the impact of high level code design on hardware faults resilience](https://ieeexplore.ieee.org/document/10206895/)", Bohan Zhang, Lishan Yang, **Hui Xu**, and Guanpeng Li, _The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN Disrupt Track)_, Porto, Portugal, June 27-30, 2023.
 
-- "[Mind Your Enclave Pointers! Detecting Privacy Leaks for SGX Apps via Sparse Taint Analysis](https://www.computer.org/csdl/proceedings-article/issre/2023/159400a024/1RKjmFtagmc)", Yang Chen, Jianfeng jiang, Shoumeng Yan, **Hui Xu**, _34th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Florence, Italy, Oct 9-12, 2023. (<span style="color: red">One of the three Best Paper Candidates</span>, corresponding author)
+- "[Mind your enclave pointers! Detecting privacy leaks for SGX apps via sparse taint analysis](https://www.computer.org/csdl/proceedings-article/issre/2023/159400a024/1RKjmFtagmc)", Yang Chen, Jianfeng jiang, Shoumeng Yan, **Hui Xu**, _34th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Florence, Italy, Oct 9-12, 2023. (<span style="color: red">One of the three Best Paper Candidates</span>, corresponding author)
 
-- "[foREST: A Tree-based Approach for Fuzzing RESTful APIs](https://www.computer.org/csdl/proceedings-article/issre/2023/159400a695/1RKjn2C2ySk)", Jiaxian Lin, Tianyu Li, Yang Chen, Guangsheng Wei, Jiadong Lin, Sen Zhang, **Hui Xu**, _34th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Florence, Italy, Oct 9-12, 2023. (corresponding author)
+- "[foREST: A tree-based approach for fuzzing RESTful APIs](https://www.computer.org/csdl/proceedings-article/issre/2023/159400a695/1RKjn2C2ySk)", Jiaxian Lin, Tianyu Li, Yang Chen, Guangsheng Wei, Jiadong Lin, Sen Zhang, **Hui Xu**, _34th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Florence, Italy, Oct 9-12, 2023. (corresponding author)
 
-- "[rCanary: Detecting Memory Leaks Across Semi-automated Memory Management Boundary in Rust](https://arxiv.org/pdf/2308.04787.pdf)", Mohan Cui, Shuran Sun, **Hui Xu**, Yangfan Zhou, _arXiv_, 2023. (corresponding author)
+- "[rCanary: Detecting memory leaks across semi-automated memory management boundary in Rust](https://arxiv.org/pdf/2308.04787.pdf)", Mohan Cui, Shuran Sun, **Hui Xu**, Yangfan Zhou, _arXiv_, 2023. (corresponding author)
 
 ### 2022
 
@@ -32,7 +32,7 @@
 
 - "[SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis](https://dl.acm.org/doi/10.1145/3542948)", Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>)_, Presented at ASE 2022 Journal-first Track, 2022. (corresponding author)
 
-- "[Safe Rust Code Recommendation Based on Siamese Graph Neural Networks](https://ieeexplore.ieee.org/document/10027825/)", Xiuwen Lu, Zhicong Zhang, **Hui Xu**, _27th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2022)_, 2022. (<span style="color: red">Best Student Paper, Best Paper Runner Up</span>, corresponding author)
+- "[Safe Rust code recommendation based on Siamese Graph Neural Networks](https://ieeexplore.ieee.org/document/10027825/)", Xiuwen Lu, Zhicong Zhang, **Hui Xu**, _27th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2022)_, 2022. (<span style="color: red">Best Student Paper, Best Paper Runner Up</span>, corresponding author)
 
 - "[LegoAI: Towards Building Reliable AI Software in Real-world Applications](https://ieeexplore.ieee.org/document/9985079/)", Mengyuan Hou, **Hui Xu**,  _33rd IEEE International Symposium on Software Reliability Engineering (ISSRE-W)_, 2022. 
 
