@@ -4,6 +4,8 @@
 
 ### 2024
 
+- "rCanary: Detecting memory leaks across semi-automated memory management boundary in Rust", Mohan Cui, **Hui Xu**, Hongliang Tian, Yangfan Zhou, _IEEE Transactions on Software Engineering (to appear)_, 2024. (corresponding author)
+- 
 - "[A fast low-level error detection technique (PER)]()", Zhengyang He, Hui Xu, Guanpeng Li, _The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, 2024
 
 - "[Is unsafe an Achilles' Heel? A comprehensive study of safety requirements in unsafe Rust programming](https://arxiv.org/pdf/2308.04785)", Mohan Cui, Shuran Sun, Yangfan Zhou, **Hui Xu**, _46th International Conference on Software Engineering(<span style="color: red">ICSE</span>)_, Lisbon, Portugal, April 12-20, 2024. (corresponding author) 
@@ -23,8 +25,6 @@
 - "[Mind your enclave pointers! Detecting privacy leaks for SGX apps via sparse taint analysis](https://www.computer.org/csdl/proceedings-article/issre/2023/159400a024/1RKjmFtagmc)", Yang Chen, Jianfeng jiang, Shoumeng Yan, **Hui Xu**, _34th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Florence, Italy, Oct 9-12, 2023. (<span style="color: red">One of the three Best Paper Candidates</span>, corresponding author)
 
 - "[foREST: A tree-based approach for fuzzing RESTful APIs](https://www.computer.org/csdl/proceedings-article/issre/2023/159400a695/1RKjn2C2ySk)", Jiaxian Lin, Tianyu Li, Yang Chen, Guangsheng Wei, Jiadong Lin, Sen Zhang, **Hui Xu**, _34th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, Florence, Italy, Oct 9-12, 2023. (corresponding author)
-
-- "[rCanary: Detecting memory leaks across semi-automated memory management boundary in Rust](https://arxiv.org/pdf/2308.04787.pdf)", Mohan Cui, Shuran Sun, **Hui Xu**, Yangfan Zhou, _arXiv_, 2023. (corresponding author)
 
 ### 2022
 
