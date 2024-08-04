@@ -15,6 +15,10 @@ I am an Associate Professor in the School of Computer Science, Fudan University.
 
 ### Recent Talk:
 
+- Rust编程语言教学实践 [Slides](talks/202408-Rust编程语言教学实践.pdf), 全国高校计算机类课程能力提升高级研修班，Shanghai, Aug 2024
+
+- Towards Reliable OS: Rust, Design, or Verification? [Slides](talks/202406RustSysVerification.pdf), online, Jun 2024
+
 - Rust语言：功能特性和趋势分析 [Slides](talks/20231029-RustSci.pdf), 1024学科周 - 编程语言和科学计算, Shanghai, Oct 2023
 
 - Fighting The Heap War with Rust [Slides](talks/20230924-GOSIM-HeapWar.pdf), [Video](https://www.bilibili.com/video/BV1kh4y1B7mX/), GOSIM Workshop, Shanghai, Sep 2023
