@@ -6,7 +6,7 @@
 
 - "[rCanary: Detecting memory leaks across semi-automated memory management boundary in Rust](https://orcid.org/0000-0003-2465-8627)", Mohan Cui, **Hui Xu**, Hongliang Tian, Yangfan Zhou, _IEEE Transactions on Software Engineering (to appear)_, 2024. (corresponding author)
 
-- "[A fast low-level error detection technique (PER)]()", Zhengyang He, Hui Xu, Guanpeng Li, _The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, 2024
+- "[A fast low-level error detection technique (PER)]()", Zhengyang He, **Hui Xu**, Guanpeng Li, _The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, 2024
 
 - "[Is unsafe an Achilles' Heel? A comprehensive study of safety requirements in unsafe Rust programming](https://dl.acm.org/doi/abs/10.1145/3597503.3639136)", Mohan Cui, Shuran Sun, Yangfan Zhou, **Hui Xu**, _46th International Conference on Software Engineering(<span style="color: red">ICSE</span>)_, Lisbon, Portugal, April 12-20, 2024. (corresponding author) 
 
