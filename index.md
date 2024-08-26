@@ -33,7 +33,9 @@ I am an Associate Professor in the School of Computer Science, Fudan University.
 
 ### Selected (Recent) Paper:
 
-- "[OOM-Guard: Towards Improving The Ergonomics of Rust OOM Handling via A Reservation-based Approach](https://dl.acm.org/doi/10.1145/3611643.3616303)", Chengjun Chen, Zhicong Zhang, Hongliang Tian, Shoumeng Yan, **Hui Xu**, _ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (<span style="color: red">ESEC/FSE</span>)_, San Francisco, California, United States, December 3-9, 2023. (corresponding author)
+- "[rCanary: Detecting memory leaks across semi-automated memory management boundary in Rust](https://orcid.org/0000-0003-2465-8627)", Mohan Cui, **Hui Xu**, Hongliang Tian, Yangfan Zhou, _IEEE Transactions on Software Engineering (<span style="color: red">TSE</span>)_, 2024. (corresponding author)
+
+- "[OOM-Guard: Towards improving the ergonomics of Rust OOM handling via a reservation-based approach](https://dl.acm.org/doi/10.1145/3611643.3616303)", Chengjun Chen, Zhicong Zhang, Hongliang Tian, Shoumeng Yan, **Hui Xu**, _ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (<span style="color: red">ESEC/FSE</span>)_, San Francisco, California, United States, December 3-9, 2023. (corresponding author)
  
 - "[SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis](https://dl.acm.org/doi/10.1145/3542948)", Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), Presented at ASE 2022 Journal-first Track, 2022. (corresponding author)
 
@@ -41,12 +43,11 @@ I am an Associate Professor in the School of Computer Science, Fudan University.
 
 - "[RULF: Rust library fuzzing via API dependency graph traversal](https://ieeexplore.ieee.org/abstract/document/9678813)", Jianfeng Jiang, **Hui Xu**, Yangfan Zhou, _in Prof. of the 36th IEEE/ACM International Conference on Automated Software Engineering (<span style="color: red">ASE</span>)_, 2021. (<span style="color: red">Distinguished Paper Award</span>, corresponding author)
 
-- "[Boosting symbolic execution via constraint solving time prediction (experience paper)](https://dl.acm.org/doi/10.1145/3460319.3464813)," Sicheng Luo, **Hui Xu**, Yanyang Bi, Yangfan Zhou, Xin Wang, _in Proc. of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis (<span style="color: red">ISSTA</span>)_, 2021. (corresponding author)
-
 ###  Teaching
 
-- [COMP130014 编译 Compiler Principles and Techniques](https://github.com/hxuhack/course_compiler), Autumn 2021, Autumn 2022, Autumn 2023, Spring 2024
+- [COMP130014 编译 Compiler Principles and Techniques](https://github.com/hxuhack/course_compiler), Autumn 2021, Autumn 2022, Autumn 2023, Spring 2024, Autumn 2024
 - [COMP737011 安全编程语言设计 Memory Safety and Programming Language Design](https://github.com/hxuhack/course_safepl), Spring 2022, Spring 2023
+- [FISF130020 Introduction to Computer Science](https://github.com/hxuhack/intro2cs), Autumn 2024
 - [COMP130159 软件安全 Software Security](lecture/softwaresec), Spring 2020
 - [COMP130189 网络安全 Network Security](lecture/networksec), Autumn 2020, Spring 2021
 
