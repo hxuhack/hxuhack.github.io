@@ -8,12 +8,13 @@ I am an Associate Professor in the School of Computer Science, Fudan University.
 <span style="color: red"> I am looking for self-motivated students (master, intern, or FYP). Please drop me an email if you are interested. </span>
 <span style="color: red"> 研究生报名请选择：计算机科学与技术=>[智能网络与系统](https://cs.fudan.edu.cn/16/3f/c24277a267839/page.htm)学科方向. </span>
 
-### Tools Developped by US:
+### On-going Project:
 
-- [RULF](https://github.com/Artisan-Lab/RULF): RULF is an Automated Fuzz Driver Generator for Rust Libraries. The work has won ACM SIGSOFT Distinguished Paper Award.
 - [RAP](https://github.com/Artisan-Lab/RAP): : RAP is a Static Program Anlysis Platform for Rust Crates.
 
 ### Recent Talk:
+
+- Rust程序分析平台：问题、现状和未来 [Slides](talks/202408-RAP.pdf), CCF编译器技术论坛，Shanghai, Aug 2024
 
 - Rust编程语言教学实践 [Slides](talks/202408-Rust编程语言教学实践.pdf), 全国高校计算机类课程能力提升高级研修班，Shanghai, Aug 2024
 
