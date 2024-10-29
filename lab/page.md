@@ -5,22 +5,26 @@
 
 ### Ph.D. Student
 - 崔漠寒 (2020 - now), co supervise with Yangfan Zhou
+- 张业鸿 (2022 - now), co supervise with Jun Wu
  
 ### Master Student
-
+- 李余祉（2024-now）
+- 李昌澄（2024-now），co-supervise with Yangfan Zhou
 - 崔晨昊 (2023 - now)
 - 杨怡然 (2023 - now)
-- 孙晗 (2023 - now)，co supervise with Yangfan Zhou
-- 饶子豪 (2023 - now)，co supervise with Yangfan Zhou
+- 孙晗 (2023 - now)，co-supervise with Yangfan Zhou
+- 饶子豪 (2023 - now)，co-supervise with Yangfan Zhou
 - 孙意林 (2022 - now)
 - 吕点 (2022 - now)
 
 ### Graduated Student
 - 董 妍 (2021 - 2024)
+  - 毕业去向：快手
 - 任志勇 (2020 - 2024)
+  - 毕业去向：TP-Link
 - 张志淙 (2021 - 2023)
   - 毕业去向：上海安势信息科技有限公司 
-- 陈澄钧 (2019 - 2023)，co supervise with Yangfan Zhou
+- 陈澄钧 (2019 - 2023)，co-supervised with Yangfan Zhou
   - 毕业去向：蚂蚁集团
 - 林佳贤 (2020 - 2022)
   - 2022年中国软件大会系统原型竞赛优胜奖
@@ -35,7 +39,7 @@
   - 毕业去向：字节跳动 
 - 候梦圆 (2020 - 2022)
   - 毕业去向：比亚迪 
-- 姜剑峰 (2019 - 2022)，co supervise with Yangfan Zhou
+- 姜剑峰 (2019 - 2022)，co-supervised with Yangfan Zhou
   - 毕业去向：蚂蚁集团
   - 荣获ACM SIGSOFT优秀论文奖、2022年度上海市优秀硕士毕业生、第二届复旦大学计算机科学技术学院应届硕士毕业生原型系统竞赛一等奖
   - [RustConf China报告](files/RustConf22.pdf) 
