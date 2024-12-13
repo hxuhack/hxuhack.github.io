@@ -2,9 +2,12 @@
 
 ## Publications (chronological order)
 
+### 2025
+- "[RuMono: Fuzz Driver Synthesis for Rust Generic APIs](https://arxiv.org/abs/2312.10676)", Yehong Zhang, Jun Wu, **Hui Xu**, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), to appear. (corresponding author).
+  
 ### 2024
 
-- "[rCanary: Detecting memory leaks across semi-automated memory management boundary in Rust](https://orcid.org/0000-0003-2465-8627)", Mohan Cui, **Hui Xu**, Hongliang Tian, Yangfan Zhou, _IEEE Transactions on Software Engineering (to appear)_, 2024. (corresponding author)
+- "[rCanary: Detecting memory leaks across semi-automated memory management boundary in Rust]([https://orcid.org/0000-0003-2465-8627](https://ieeexplore.ieee.org/abstract/document/10636096/))", Mohan Cui, **Hui Xu**, Hongliang Tian, Yangfan Zhou, _IEEE Transactions on Software Engineering )_, 2024. (corresponding author)
 
 - "[A fast low-level error detection technique (PER)]()", Zhengyang He, **Hui Xu**, Guanpeng Li, _The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, 2024
 
@@ -13,8 +16,6 @@
 - "[SafeNet: Towards mitigating replaceable unsafe Rust code via a recommendation-based approach](https://onlinelibrary.wiley.com/doi/abs/10.1002/stvr.1875)", Yan Dong, Zhicong Zhang, Mohan Cui, **Hui Xu**, _Software Testing, Verification and Reliability (STVR)_, 2024. (corresponding author) 
 
 ### 2023
-
-- "[Fuzz driver synthesis for Rust generic APIs](https://arxiv.org/abs/2312.10676)", Yehong Zhang, Jun Wu, **Hui Xu**, __arXiv_, 2024. (corresponding author).
 
 - "[OOM-Guard: Towards improving the ergonomics of Rust OOM handling via a reservation-based approach](https://dl.acm.org/doi/10.1145/3611643.3616303)", Chengjun Chen, Zhicong Zhang, Hongliang Tian, Shoumeng Yan, **Hui Xu**, _ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (<span style="color: red">ESEC/FSE</span>)_, San Francisco, California, United States, December 3-9, 2023. (corresponding author)
 
