@@ -13,13 +13,14 @@
 - 崔晨昊 (2023 - now)
 - 杨怡然 (2023 - now)
 - 孙晗 (2023 - now)，co-supervise with Yangfan Zhou
-- 饶子豪 (2023 - now)，co-supervise with Yangfan Zhou
+- 饶子豪 (2023 - now)，co-supervise with Xin Wang
 - 孙意林 (2022 - now)
 - 吕点 (2022 - now)
 
 ### Graduated Student
 - 董 妍 (2021 - 2024)
   - 毕业去向：快手
+  - 获得复旦大学计算机科学技术学院应届硕士毕业生原型系统竞赛一等奖
 - 任志勇 (2020 - 2024)
   - 毕业去向：TP-Link
 - 张志淙 (2021 - 2023)
