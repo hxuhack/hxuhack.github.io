@@ -3,13 +3,13 @@
 ## Publications (chronological order)
 
 ### 2025
-- "[RuMono: Fuzz Driver Synthesis for Rust Generic APIs](https://arxiv.org/abs/2312.10676)", Yehong Zhang, Jun Wu, **Hui Xu**, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), to appear. (corresponding author).
+- "[RuMono: Fuzz Driver Synthesis for Rust Generic APIs](https://arxiv.org/abs/2312.10676)", Yehong Zhang, Jun Wu, **Hui Xu**, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>)_, to appear. (corresponding author).
   
 ### 2024
 
-- "[rCanary: Detecting memory leaks across semi-automated memory management boundary in Rust]([https://orcid.org/0000-0003-2465-8627](https://ieeexplore.ieee.org/abstract/document/10636096/))", Mohan Cui, **Hui Xu**, Hongliang Tian, Yangfan Zhou, _IEEE Transactions on Software Engineering  (<span style="color: red">TSE</span>)_, 2024. (corresponding author)
+- "[rCanary: Detecting memory leaks across semi-automated memory management boundary in Rust](https://ieeexplore.ieee.org/abstract/document/10636096/)", Mohan Cui, **Hui Xu**, Hongliang Tian, Yangfan Zhou, _IEEE Transactions on Software Engineering  (<span style="color: red">TSE</span>)_, 2024. (corresponding author)
 
-- "[A fast low-level error detection technique (PER)]()", Zhengyang He, **Hui Xu**, Guanpeng Li, _The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, 2024
+- "[A fast low-level error detection technique](A fast low-level error detection technique)", Zhengyang He, **Hui Xu**, Guanpeng Li, _The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, 2024
 
 - "[Is unsafe an Achilles' Heel? A comprehensive study of safety requirements in unsafe Rust programming](https://dl.acm.org/doi/abs/10.1145/3597503.3639136)", Mohan Cui, Shuran Sun, Yangfan Zhou, **Hui Xu**, _46th International Conference on Software Engineering(<span style="color: red">ICSE</span>)_, Lisbon, Portugal, April 12-20, 2024. (corresponding author) 
 
