@@ -10,11 +10,9 @@
 
 ### 经典计算机教材
 - [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/), by Randal Bryant and David R. O'Hallaron
-- [The Little Schemer](https://book.douban.com/subject/1632977/), by Daniel P. Friedman and Matthias Felleis
 - [Pattern Recognition and Machine Learning](https://book.douban.com/subject/2061116/), by Christopher Bishop
 
 ### 软工书籍
-- [The Fuzzing Book](https://www.fuzzingbook.org), by Andreas Zeller, et al.
 - [Static Program Analysis](https://cs.au.dk/~amoeller/spa/), by Anders Møller and Michael I. Schwartzbach
 
 ### 其它
@@ -30,7 +28,9 @@
 - [降临 Arrival](https://movie.douban.com/subject/21324900/), 2016
 
 ### 科学/人物/成长
-- [隐藏人物 Hidden Figures](https://movie.douban.com/subject/26615208/?from=subject-page), 关于沃尔夫假说（Sapir-Whorf hypothesis）, 2016
+- [奥本海默 Oppenheimer ](https://movie.douban.com/subject/35593344/), 2023
+- [降临 Arriaval](https://movie.douban.com/subject/21324900/), 关于沃尔夫假说（Sapir-Whorf hypothesis）, 2016
+- [隐藏人物 Hidden Figures](https://movie.douban.com/subject/26615208/?from=subject-page), 2016
 - [知无涯者 The Man Who Knew Infinity](https://movie.douban.com/celebrity/1054443/), for Srinivasa Ramanujan (拉马努金), 2015
 - [互联网之子 The Internet's Own Boy: The Story of Aaron Swartz](https://movie.douban.com/subject/25785114/), for Aaron Swartz, 2014
 - [模仿游戏 The Imitation Game](https://movie.douban.com/subject/10463953/), for Alan Turing（阿兰图灵）, 2014
