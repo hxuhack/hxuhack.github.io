@@ -8,6 +8,10 @@ I am an Associate Professor in the School of Computer Science, Fudan University.
 <span style="color: red"> I am looking for self-motivated students (master, intern, or FYP). Please drop me an email if you are interested. </span>
 <span style="color: red"> 研究生报名请选择：计算机科学与技术=>[智能网络与系统](https://cs.fudan.edu.cn/16/3f/c24277a267839/page.htm)学科方向. </span>
 
+### Textbook
+
+- [编译授课笔记](book/编译授课笔记v1.0.pdf)
+
 ### On-going Project:
 
 - [RAPx](https://github.com/Artisan-Lab/RAPx): : RAPx is a Static Program Anlysis Platform for Rust Crates.
