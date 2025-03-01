@@ -2,10 +2,9 @@
 
 ## Publications (chronological order)
 
-### 2025
-- "[RuMono: Fuzz Driver Synthesis for Rust Generic APIs](https://arxiv.org/abs/2312.10676)", Yehong Zhang, Jun Wu, **Hui Xu**, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>)_, to appear. (corresponding author).
-  
+
 ### 2024
+- "[RuMono: Fuzz Driver Synthesis for Rust Generic APIs](https://dl.acm.org/doi/10.1145/3709359)", Yehong Zhang, Jun Wu, **Hui Xu**, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), 2024. (corresponding author).
 
 - "[rCanary: Detecting memory leaks across semi-automated memory management boundary in Rust](https://ieeexplore.ieee.org/abstract/document/10636096/)", Mohan Cui, **Hui Xu**, Hongliang Tian, Yangfan Zhou, _IEEE Transactions on Software Engineering  (<span style="color: red">TSE</span>)_, 2024. (corresponding author)
 
