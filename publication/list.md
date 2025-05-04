@@ -2,13 +2,17 @@
 
 ## Publications (chronological order)
 
+### 2025
+- "[Annotating and Auditing the Safety Properties of Unsafe Rust](https://arxiv.org/abs/2504.21312)", Zihao Rao, Hongliang Tian, Xin Wang, **Hui Xu**, _arXiv:2504.21312_, 2025. (corresponding author)
+
+- "[KubeChecker: Detecting Configuration Bugs in Container Orchestration]", Yilin Sun, Dian Lv, Cheng Chui, **Hui Xu**, _The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks(DSN)_, Naples, Italy, June 23-26, 2025
 
 ### 2024
 - "[RuMono: Fuzz Driver Synthesis for Rust Generic APIs](https://dl.acm.org/doi/10.1145/3709359)", Yehong Zhang, Jun Wu, **Hui Xu**, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), 2024. (corresponding author).
 
 - "[rCanary: Detecting memory leaks across semi-automated memory management boundary in Rust](https://ieeexplore.ieee.org/abstract/document/10636096/)", Mohan Cui, **Hui Xu**, Hongliang Tian, Yangfan Zhou, _IEEE Transactions on Software Engineering  (<span style="color: red">TSE</span>)_, 2024. (corresponding author)
 
-- "[A fast low-level error detection technique](A fast low-level error detection technique)", Zhengyang He, **Hui Xu**, Guanpeng Li, _The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, 2024
+- "[A fast low-level error detection technique](A fast low-level error detection technique)", Zhengyang He, **Hui Xu**, Guanpeng Li, _The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, Brisbane, Australia, June 24-27, 2024
 
 - "[Is unsafe an Achilles' Heel? A comprehensive study of safety requirements in unsafe Rust programming](https://dl.acm.org/doi/abs/10.1145/3597503.3639136)", Mohan Cui, Shuran Sun, Yangfan Zhou, **Hui Xu**, _46th International Conference on Software Engineering(<span style="color: red">ICSE</span>)_, Lisbon, Portugal, April 12-20, 2024. (corresponding author) 
 
