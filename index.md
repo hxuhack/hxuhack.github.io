@@ -14,7 +14,8 @@ I am an Associate Professor in the School of Computer Science, Fudan University.
 
 ### On-going Project:
 
-- [RAPx](https://github.com/Artisan-Lab/RAPx): : RAPx is a Static Program Anlysis Platform for Rust Crates.
+- [RAPx](https://github.com/Artisan-Lab/RAPx): RAPx is a Static Program Anlysis Platform for Rust Crates.
+- [tag-std](https://github.com/Artisan-Lab/tag-std): The project aims to define appropriate safety properties for the unsafe APIs in the Rust standard library.
 
 ### Recent Talk:
 
