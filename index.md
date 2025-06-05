@@ -1,12 +1,12 @@
 |[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](publication/list) | [<b>Artisan-Lab</b>](lab/page) | [<b>Pictures</b>](photo/page) | [<b>Misc</b>](misc/list) |
 
 ### Short Bio
-I am an Associate Professor in the School of Computer Science, Fudan University. My research interests include program analysis and software engineering, as well as their applications in AI systems, mobile computing, and cloud. I run a research group [Artisan-Lab](lab/page). Before joining Fudan University, I was a Postdoctoral Researcher at the Chinese University of Hong Kong with CUHK Postdoctoral Research Fellowship. I also obtained my Ph.D. degree from CUHK, supervised by [Prof. Michael Lyu](http://www.cse.cuhk.edu.hk/lyu/). Before that, I have worked in industries as a system security professional after obtaining my M.Sc. degree from Hong Kong University, and B.Eng and B.M degrees from China University of Geosciences (Beijing).
+I am an Associate Professor (博士生导师) in the School of Computer Science, Fudan University. My research interests include program analysis and software engineering, as well as their applications in AI systems, mobile computing, and cloud. I run a research group [Artisan-Lab](lab/page). Before joining Fudan University, I was a Postdoctoral Researcher at the Chinese University of Hong Kong with CUHK Postdoctoral Research Fellowship. I also obtained my Ph.D. degree from CUHK, supervised by [Prof. Michael Lyu](http://www.cse.cuhk.edu.hk/lyu/). Before that, I have worked in industries as a system security professional after obtaining my M.Sc. degree from Hong Kong University, and B.Eng and B.M degrees from China University of Geosciences (Beijing).
 
 **Email**: xuh[AT]fudan.edu.cn	
 
-<span style="color: red"> I am looking for self-motivated students (master, intern, or FYP). Please drop me an email if you are interested. </span>
-<span style="color: red"> 研究生报名请选择：计算机科学与技术=>[智能网络与系统](https://cs.fudan.edu.cn/16/3f/c24277a267839/page.htm)学科方向. </span>
+<span style="color: red"> I am looking for self-motivated students (Ph.D., master, intern, or FYP). Please drop me an email if you are interested. </span>
+<span style="color: red"> 博士、硕士研究生报名请选择：计算机科学与技术=>[智能网络与系统](https://cs.fudan.edu.cn/16/3f/c24277a267839/page.htm)学科方向. </span>
 
 ### Textbook
 
@@ -64,9 +64,10 @@ I am an Associate Professor in the School of Computer Science, Fudan University.
 * General Co-Chair, [DSML 2021](https://dependablesecureml.github.io/2021/index.html), Taipei
 * Publicity Co-Chair, [DSN 2021](http://dsn2021.ntu.edu.tw), Taipei
 * PC Member:
+  * ASE: [ASE 2025](https://conf.researchr.org/home/ase-2025) 
   * ICSE: [TechDebt 2023](https://conf.researchr.org/home/TechDebt-2023)
   * DSN: [2020 Doctoral Forum](https://dsn2020.webs.upv.es/final-program/doctoral-forum/), [DSML 2022](https://dependablesecureml.github.io/2022/index.html), [DSML 2023](https://dependablesecureml.github.io), [2024 Poster Track](https://dsn2024uq.github.io/cfposter.html), [2025 Poster Track](https://dsn2025.github.io/cfposter.html)
-  * ISSRE: [2023](https://issre.net), [2021 Fast Abstracts Track](https://issre.net), [RSDA 2021-2022 (ISSRE Workshop)](https://sites.google.com/view/rsda2021)
+  * ISSRE: [2025, 2024, 2023](https://issre.net), [2021 Fast Abstracts Track](https://issre.net), [RSDA 2021-2022 (ISSRE Workshop)](https://sites.google.com/view/rsda2021)
   * TASE: [2024](https://tase2024.github.io)
   * QRS: [2022][2023](https://qrs22.techconf.org)
   * Internetware: [2023](https://conf.researchr.org/home/internetware-2023/)
