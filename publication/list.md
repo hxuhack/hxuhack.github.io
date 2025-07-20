@@ -3,9 +3,12 @@
 ## Publications (chronological order)
 
 ### 2025
+
 - "[Annotating and Auditing the Safety Properties of Unsafe Rust](https://arxiv.org/abs/2504.21312)", Zihao Rao, Hongliang Tian, Xin Wang, **Hui Xu**, _arXiv:2504.21312_, 2025. (corresponding author)
 
-- "[KubeChecker: Detecting Configuration Bugs in Container Orchestration]()", Yilin Sun, Dian Lv, Cheng Chui, **Hui Xu**, _The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks(DSN)_, Naples, Italy, June 23-26, 2025
+- "[Unleashing The Efficiency of Rust: An Empirical Study of Performance Bugs in Rust Projects]", Chenhao Cui, **Hui Xu**, to appear in The 36th IEEE International Symposium on Software Reliability Engineering (ISSRE), 2025. (corresponding author)
+  
+- "[KubeChecker: Detecting Configuration Bugs in Container Orchestration]()", Yilin Sun, Dian Lv, Cheng Chui, **Hui Xu**, _The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks(DSN)_, Naples, Italy, June 23-26, 2025.
 
 ### 2024
 - "[RuMono: Fuzz Driver Synthesis for Rust Generic APIs](https://dl.acm.org/doi/10.1145/3709359)", Yehong Zhang, Jun Wu, **Hui Xu**, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), 2024. (corresponding author).
