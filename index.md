@@ -14,10 +14,14 @@ I am an Associate Professor in the School of Computer Science, Fudan University.
 
 ### On-going Project:
 
-- [RAPx](https://github.com/Artisan-Lab/RAPx): RAPx is a Static Program Anlysis Platform for Rust Crates.
+- [RAPx](https://github.com/Artisan-Lab/RAPx): RAPx is a Static Program Analysis Platform for analyzing Rust Crates.
+  - The tool is taking part in the [verify-rust-std](https://github.com/model-checking/verify-rust-std/issues/444) challenge. 
 - [tag-std](https://github.com/Artisan-Lab/tag-std): The project aims to define appropriate safety properties for the unsafe APIs in the Rust standard library.
+  - We proposed this [RFC](https://github.com/rust-lang/rfcs/pull/3842) to the Rust community.
 
 ### Recent Talk:
+
+- Unsafe代码治理 [Slides](talks/Unsafe代码治理-20250719.pdf), CCF秀湖会议，Suzhou, July, 2025
 
 - Rust程序分析平台：问题、现状和未来 [Slides](talks/202408-RAP.pdf), CCF编译器技术论坛，Shanghai, Aug 2024
 
@@ -30,12 +34,6 @@ I am an Associate Professor in the School of Computer Science, Fudan University.
 - Fighting The Heap War with Rust [Slides](talks/20230924-GOSIM-HeapWar.pdf), [Video](https://www.bilibili.com/video/BV1kh4y1B7mX/), GOSIM Workshop, Shanghai, Sep 2023
 
 - Rust安全机制和特权代码安全强化 [Slides](talks/20230917-ADL-UnsafeRust.pdf), CCF-ADL 学科前沿讲习班第142期, Beijing, Sep 2023
-
-- Fighting The Heap War with Rust [Slides](talks/20230817-Aarhus-HeapWar.pdf), Aarhus University, August, 2023
-
-- 基于静态分析的Rust内存安全缺陷检测研究 [Slides](talks/ChinaSoft2022-Hui.pdf), ChinaSoft 中国软件大会，Nov, 2022 
-
-- Experiences of Teaching Rust and Code Recommendation to Assist Rust Beginners [Slides](talks/Xu-RustEdu-2022.pdf), [Video](https://www.youtube.com/watch?v=HchiXcBK4Gg), Rust Education Workshop, Aug, 2022 
 
 ### Selected (Recent) Paper:
 
@@ -52,8 +50,8 @@ I am an Associate Professor in the School of Computer Science, Fudan University.
 ###  Teaching
 
 - [COMP130014 编译 Compiler Principles and Techniques](https://github.com/hxuhack/course_compiler), Fall 2024, Spring 2024, Fall 2023, Fall 2022, Fall 2021
-- [COMP737011 安全编程语言设计 Memory Safety and Programming Language Design](https://github.com/hxuhack/course_safepl), Spring 2024, Spring 2023, Spring 2022 
-- [FISF130020 Introduction to Computer Science](https://github.com/hxuhack/intro2cs), Fall 2024
+- [COMP737011 安全编程语言设计 Memory Safety and Programming Language Design](https://github.com/hxuhack/course_safepl), Spring 2022-2025 
+- [FISF130020/MF20006 Introduction to Computer Science](https://github.com/hxuhack/intro2cs), Fall 2024-2025
 - [COMP130159 软件安全 Software Security](lecture/softwaresec), Spring 2020
 - [COMP130189 网络安全 Network Security](lecture/networksec), Spring 2021, Fall 2020
 
