@@ -1,5 +1,7 @@
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-# Rationale on the Soundness of Tracing based Methodology
+# Rationale on the Soundness of Tracing based Verification Methodology
+(This passage justifies the soundness of our verification approach used in [RAPx](https://artisan-lab.github.io/RAPx-Book/6.4-unsafe.html).)
+
 To verify the soundness of Rust APIs, we employ a tracing-based method.
 Informally, our approach assumes that all undefined behaviors originate from unsafe code, 
 and that the risks of undefined behavior are determined solely by the safety properties (_i.e.,_ a set of constraints that must be satisfied to avoid undefined behavior) of that unsafe code.
@@ -14,7 +16,7 @@ However, it can also be extended to more advanced constructs with dynamic method
 We aim to prove the following theorem. 
 
 **Theorem (Origin of Undefined Behavior)**
-Undefined behavior originates from unsafe code and is solely determined by the safety constraints of that unsafe code.
+Undefined behavior originates exclusively from unsafe code and is solely determined by the safety constraints of that unsafe code.
 
 ## Proof
 
@@ -33,7 +35,7 @@ $$
 , where $$P_s$$ denotes any Rust program that does not use unsafe code..
 
 **Proposition 2 (Safe API Soundness)**  
-A safe API $$f_s$$ provided by a module is sound iff 
+A safe public API $$f_s$$ provided by a module is sound iff 
 
 $$
   \forall P_{f_s},\ P_{f_s} \nRightarrow UB
@@ -50,6 +52,8 @@ Each unsafe API has a set of safety constraints (a sufficient condition) that mu
 
 **Observation 2 (Uniformity of Safety Constraints)**:  
 The safety constraints of each API are uniform across all call sites.
+
+Based on the two observations, we can derive the following proposition.
 
 **Proposition 3 (Unsafe API Soundness)**  
 An unsafe API $$f_u$$ with safety constraint $$SC_{f_u}$$ is sound iff
@@ -70,11 +74,11 @@ Now the theorem can be proved:
 From the theorem, we derive the following two corollaries, which can be applied in verification.
 
 **Corollary 1 (Encapsulation Soundness of Safe API)** 
-A safe API $$f_s$$ is sound if and only if it contains no unsafe code, 
-or, if it contains unsafe code, all safety constraints of the internal unsafe code are satisfied by the API itself.
+A safe API $$f_s$$ is sound iff it contains no unsafe code, or,
+if it contains unsafe code, all safety constraints of the internal unsafe code are satisfied by the API itself.
 
 **Corollary 2 (Encapsulation Soundness of Unsafe API)** 
-An unsafe API $$f_u$$ with one or more internal unsafe call sites is sound if and only if 
+An unsafe API $$f_u$$ with one or more internal unsafe call sites is sound iff 
 all residual safety constraints from the internal unsafe call sites that cannot be enforced internally are reflected as the safety constraints of the API itself.
 
 
