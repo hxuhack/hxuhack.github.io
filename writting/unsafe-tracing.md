@@ -74,11 +74,11 @@ Now the theorem can be proved:
 
 From the theorem, we derive the following two corollaries, which can be applied in verification.
 
-**Corollary 1 (Encapsulation Soundness of Safe API)** 
+**Corollary 1 (Encapsulation Soundness of Safe API)**  
 A safe API $$f_s$$ is sound iff it contains no unsafe code, or,
 if it contains unsafe code, all safety constraints of the internal unsafe code are satisfied by the API itself.
 
-**Corollary 2 (Encapsulation Soundness of Unsafe API)** 
+**Corollary 2 (Encapsulation Soundness of Unsafe API)**  
 An unsafe API $$f_u$$ with one or more internal unsafe call sites is sound iff 
 all residual safety constraints from the internal unsafe call sites that cannot be enforced internally are reflected as the safety constraints of the API itself.
 
