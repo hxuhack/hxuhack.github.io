@@ -1,7 +1,7 @@
 |[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](publication/list) | [<b>Artisan-Lab</b>](lab/page) | [<b>Pictures</b>](photo/page) | [<b>Misc</b>](misc/list) |
 
 ### Short Bio
-I am an Associate Professor in the School of Computer Science, Fudan University. My research interests include program analysis and software engineering, as well as their applications in AI systems, mobile computing, and cloud. I run a research group [Artisan-Lab](lab/page). Before joining Fudan University, I was a Postdoctoral Researcher at the Chinese University of Hong Kong with CUHK Postdoctoral Research Fellowship. I also obtained my Ph.D. degree from CUHK, supervised by [Prof. Michael Lyu](http://www.cse.cuhk.edu.hk/lyu/). Before that, I have worked in industries as a system security professional after obtaining my M.Sc. degree from Hong Kong University, and B.Eng and B.M degrees from China University of Geosciences (Beijing).
+I am an Associate Professor at the School of Computer Science, Fudan University, where I lead the [Artisan-Lab](lab/page). My research interests focus on program analysis and software reliability. Before joining Fudan University, I was a Postdoctoral Researcher at the Chinese University of Hong Kong, supported by the CUHK Postdoctoral Research Fellowship. I also received my Ph.D. degree from CUHK, supervised by [Prof. Michael Lyu](http://www.cse.cuhk.edu.hk/lyu/). Before my academic career, I worked in industry as a security professional for several years after obtaining my M.Sc. degree from Hong Kong University, and B.Eng and B.M degrees from China University of Geosciences (Beijing). 
 
 **Email**: xuh[AT]fudan.edu.cn	
 
@@ -15,37 +15,20 @@ I am an Associate Professor in the School of Computer Science, Fudan University.
 ### On-going Project:
 
 - [RAPx](https://github.com/Artisan-Lab/RAPx): RAPx is a Static Program Analysis Platform for analyzing Rust Crates.
-  - The tool is taking part in the [verify-rust-std](https://github.com/model-checking/verify-rust-std/issues/444) challenge. 
+  - The tool is taking part in the [verify-rust-std](https://github.com/model-checking/verify-rust-std/issues/444) challenge.
+  - [Tracing-based Methodology](https://artisan-lab.github.io/RAPx-Book/6.4-unsafe.html) for unsafe code verification.
+  - [Rationale for the Methodology’s Soundness](writting/unsafe-tracing).
 - [tag-std](https://github.com/Artisan-Lab/tag-std): The project aims to define appropriate safety properties for the unsafe APIs in the Rust standard library.
   - We proposed this [RFC](https://github.com/rust-lang/rfcs/pull/3842) to the Rust community.
+  - [System of safety properties in Rust](writting/safety-prop).
 
 ### Recent Talk:
 
 - Unsafe代码治理 [Slides](talks/Unsafe代码治理-20250719.pdf), CCF秀湖会议，Suzhou, July, 2025
 
-- Rust程序分析平台：问题、现状和未来 [Slides](talks/202408-RAP.pdf), CCF编译器技术论坛，Shanghai, Aug 2024
-
-- Rust编程语言教学实践 [Slides](talks/202408-Rust编程语言教学实践.pdf), 全国高校计算机类课程能力提升高级研修班，Shanghai, Aug 2024
-
-- Towards Reliable OS: Rust, Design, or Verification? [Slides](talks/202406-RustSysVerification.pdf), online, Jun 2024
-
-- Rust语言：功能特性和趋势分析 [Slides](talks/20231029-RustSci.pdf), 1024学科周 - 编程语言和科学计算, Shanghai, Oct 2023
-
 - Fighting The Heap War with Rust [Slides](talks/20230924-GOSIM-HeapWar.pdf), [Video](https://www.bilibili.com/video/BV1kh4y1B7mX/), GOSIM Workshop, Shanghai, Sep 2023
 
 - Rust安全机制和特权代码安全强化 [Slides](talks/20230917-ADL-UnsafeRust.pdf), CCF-ADL 学科前沿讲习班第142期, Beijing, Sep 2023
-
-### Selected (Recent) Paper:
-
-- "[rCanary: Detecting memory leaks across semi-automated memory management boundary in Rust](https://orcid.org/0000-0003-2465-8627)", Mohan Cui, **Hui Xu**, Hongliang Tian, Yangfan Zhou, _IEEE Transactions on Software Engineering (<span style="color: red">TSE</span>)_, 2024. (corresponding author)
-
-- "[OOM-Guard: Towards improving the ergonomics of Rust OOM handling via a reservation-based approach](https://dl.acm.org/doi/10.1145/3611643.3616303)", Chengjun Chen, Zhicong Zhang, Hongliang Tian, Shoumeng Yan, **Hui Xu**, _ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (<span style="color: red">ESEC/FSE</span>)_, San Francisco, California, United States, December 3-9, 2023. (corresponding author)
- 
-- "[SafeDrop: Detecting memory deallocation bugs of Rust programs via static data-flow analysis](https://dl.acm.org/doi/10.1145/3542948)", Mohan Cui, Chengjun Chen, **Hui Xu**, Yangfan Zhou, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), Presented at ASE 2022 Journal-first Track, 2022. (corresponding author)
-
-- "[Memory-safety challenge considered solved? An in-depth study with all Rust CVEs](https://dl.acm.org/doi/10.1145/3466642)", **Hui Xu**, Zhuangbin Chen, Mingshen Sun, Yangfan Zhou, and Michael Lyu, _ACM Transactions on Software Engineering and Methodology (<span style="color: red">TOSEM</span>), vol 31, issue 1, no. 3_, 2022 (first published in 2021). pp.1-25.
-
-- "[RULF: Rust library fuzzing via API dependency graph traversal](https://ieeexplore.ieee.org/abstract/document/9678813)", Jianfeng Jiang, **Hui Xu**, Yangfan Zhou, _in Prof. of the 36th IEEE/ACM International Conference on Automated Software Engineering (<span style="color: red">ASE</span>)_, 2021. (<span style="color: red">Distinguished Paper Award</span>, corresponding author)
 
 ###  Teaching
 
