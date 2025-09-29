@@ -1,4 +1,5 @@
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+|[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](../publication/list) | [<b>Artisan-Lab</b>](../lab/page) | [<b>Pictures</b>](../photo/page) | [<b>Misc</b>](../misc/list) |
 # Rationale on the Soundness of Tracing based Verification Methodology
 (This article justifies the soundness of our verification approach used in [RAPx](https://artisan-lab.github.io/RAPx-Book/6.4-unsafe.html).)
 
