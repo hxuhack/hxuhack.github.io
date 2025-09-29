@@ -50,7 +50,7 @@ Next, we extend the discussion to the soundness of unsafe Rust using inductive r
 **Observation 1 (Pervasiveness of Safety Constraints)**  
 Each unsafe API has a set of safety constraints (a sufficient condition) that must be satisfied to avoid undefined behavior.
 
-**Observation 2 (Uniformity of Safety Constraints)**:  
+**Observation 2 (Uniformity of Safety Constraints)**  
 The safety constraints of each API are uniform across all call sites.
 
 Based on the two observations, we can derive the following proposition.
