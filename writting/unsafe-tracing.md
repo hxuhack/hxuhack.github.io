@@ -1,6 +1,6 @@
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 |[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](../publication/list) | [<b>Artisan-Lab</b>](../lab/page) | [<b>Pictures</b>](../photo/page) | [<b>Misc</b>](../misc/list) |
-# Rationale on the Soundness of Tracing based Verification Methodology
+## Rationale on the Soundness of Tracing based Verification Methodology
 (This article justifies the soundness of our verification approach used in [RAPx](https://artisan-lab.github.io/RAPx-Book/6.4-unsafe.html).)
 
 To verify the soundness of Rust APIs, we employ a tracing-based method.
@@ -12,14 +12,14 @@ In the following paragraphs, we will attempt to prove that the assumption holds.
 To simplify our discussion, the proof considers only a subset of Rust with static functions.
 However, it can also be extended to more advanced constructs with dynamic methods.
 
-## To Prove
+### To Prove
 
 We aim to prove the following theorem. 
 
 **Theorem (Origin of Undefined Behavior)**
 Undefined behavior originates exclusively from unsafe code and is solely determined by the safety constraints of that unsafe code.
 
-## Proof
+### Proof
 
 **Definition ([Safety Promise of Rust](https://rust-lang.github.io/unsafe-code-guidelines/glossary.html#soundness-of-code--of-a-library))**  
 Only programs that use unsafe code may exhibit undefined behavior.
@@ -70,7 +70,7 @@ Now the theorem can be proved:
 - Assuming an unsafe API is sound (Proposition 3), any undefined behavior observed when using the API​ must result from a violation of its safety constraint, which completes the proof of the theorem.
 
 
-## Application in Verification
+### Application in Verification
 
 From the theorem, we derive the following two corollaries, which can be applied in verification.
 
