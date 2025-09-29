@@ -16,8 +16,8 @@ I am an Associate Professor at the School of Computer Science, Fudan University,
 
 - [RAPx](https://github.com/Artisan-Lab/RAPx): RAPx is a Static Program Analysis Platform for analyzing Rust Crates.
   - The tool is taking part in the [verify-rust-std](https://github.com/model-checking/verify-rust-std/issues/444) challenge.
-  - [Tracing-based Methodology](https://artisan-lab.github.io/RAPx-Book/6.4-unsafe.html) for unsafe code verification.
-  - [Rationale for the Methodology’s Soundness](writting/unsafe-tracing).
+  - [Tracing-based methodology](https://artisan-lab.github.io/RAPx-Book/6.4-unsafe.html) for unsafe code verification.
+  - [Rationale for the methodology’s soundness](writting/unsafe-tracing).
 - [tag-std](https://github.com/Artisan-Lab/tag-std): The project aims to define appropriate safety properties for the unsafe APIs in the Rust standard library.
   - We proposed this [RFC](https://github.com/rust-lang/rfcs/pull/3842) to the Rust community.
   - [System of safety properties in Rust](writting/safety-prop).
