@@ -18,12 +18,12 @@ Undefined behavior originates from unsafe code and is solely determined by the s
 
 ## Proof
 
-**Definition ([Safety Promise of Rust](https://rust-lang.github.io/unsafe-code-guidelines/glossary.html#soundness-of-code--of-a-library))**
+**Definition ([Safety Promise of Rust](https://rust-lang.github.io/unsafe-code-guidelines/glossary.html#soundness-of-code--of-a-library))**  
 Only programs that use unsafe code may exhibit undefined behavior.
 
 Based on the definition, two propositions can be derived.
 
-**Proposition 1 (Compiler Soundness)**
+**Proposition 1 (Compiler Soundness)**  
 Rust compiler is sound iff 
 
 $$
@@ -32,7 +32,7 @@ $$
 
 , where $$P_s$$ denotes any Rust program that does not use unsafe code..
 
-**Proposition 2 (Safe API Soundness)**
+**Proposition 2 (Safe API Soundness)**  
 A safe API $$f_s$$ provided by a module is sound iff 
 
 $$
