@@ -25,19 +25,19 @@ Based on the definition, two propositions can be derived.
 
 **Proposition 1 (Compiler Soundness)**
 Rust compiler is sound iff 
-\[
+$$
   \forall P_s, P_s \nRightarrow UB
-\]
-, where \(P_s\) denotes any Rust program that does not use unsafe code..
+$$
+, where $$P_s$$ denotes any Rust program that does not use unsafe code..
 
 **Proposition 2 (Safe API Soundness)**
-A safe API \(f_s\) provided by a module is sound iff 
-\[
+A safe API $$f_s$$ provided by a module is sound iff 
+$$
   \forall P_{f_s}, P_{f_s} \nRightarrow UB
-\]
-, where \(P_{f_s}\) denotes any program of another module that uses \(f_s\) and contains no unsafe code.
+$$
+, where $$P_{f_s}$$ denotes any program of another module that uses $$f_s$$ and contains no unsafe code.
 
-The proof of the two propositions is straightforward: assuming the existence of a \(P_s\) or \(P_{f_s}\) that leads to undefined behavior would contradict the Safety Promise of Rust.
+The proof of the two propositions is straightforward: assuming the existence of a $$P_s$$ or $$P_{f_s}$$ that leads to undefined behavior would contradict the Safety Promise of Rust.
 
 Next, we extend the discussion to the soundness of unsafe Rust using inductive reasoning.
 
@@ -48,11 +48,11 @@ Each unsafe API has a set of safety constraints (a sufficient condition) that mu
 The safety constraints of each API are uniform across all call sites.
 
 **Proposition 3 (Unsafe API Soundness)**  
-An unsafe API \(f_u\) with safety constraint \(SC_{f_u}\) is sound iff
-\[
+An unsafe API $$f_u$$ with safety constraint $$SC_{f_u}$$ is sound iff
+$$
   \forall P_{f_u} \text{s.t.} P_{f_u} \vdash SC_{f_u}, P_{f_u} \nRightarrow UB
-\]
-where \(P_{f_u}\) denotes any program of another module that uses \(f_u\) and contains no other unsafe code.
+$$
+where $$P_{f_u}$$ denotes any program of another module that uses $$f_u$$ and contains no other unsafe code.
 
 Now the theorem can be proved:
 - Assume that the Rust compiler is sound (Proposition 1) and all safe APIs are sound (Proposition 2), only unsafe Rust can introduce undefined behaviors.
@@ -64,11 +64,11 @@ Now the theorem can be proved:
 From the theorem, we derive the following two corollaries, which can be applied to verification.
 
 **Corollary 1 (Encapsulation Soundness of Safe API)** 
-A safe API \(f_s\) is sound if and only if it contains no unsafe code, 
+A safe API $$f_s$$ is sound if and only if it contains no unsafe code, 
 or, if it contains unsafe code, all safety constraints of the internal unsafe code are satisfied by the API itself.
 
 **Corollary 2 (Encapsulation Soundness of Unsafe API)** 
-An unsafe API \(f_u\) with one or more internal unsafe call sites is sound if and only if 
+An unsafe API $$f_u$$ with one or more internal unsafe call sites is sound if and only if 
 all residual safety constraints from the internal unsafe call sites that cannot be enforced internally are reflected as the safety constraints of the API itself.
 
 
