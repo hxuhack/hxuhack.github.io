@@ -1,6 +1,6 @@
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 # Rationale on the Soundness of Tracing based Verification Methodology
-(This passage justifies the soundness of our verification approach used in [RAPx](https://artisan-lab.github.io/RAPx-Book/6.4-unsafe.html).)
+(This article justifies the soundness of our verification approach used in [RAPx](https://artisan-lab.github.io/RAPx-Book/6.4-unsafe.html).)
 
 To verify the soundness of Rust APIs, we employ a tracing-based method.
 Informally, our approach assumes that all undefined behaviors originate from unsafe code, 
