@@ -1,3 +1,4 @@
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 ## Rationale on the Soundness of Tracing based Methodology
 To verify the soundness of Rust APIs, we employ a tracing-based method.
 Informally, our approach assumes that all undefined behaviors originate from unsafe code, 
