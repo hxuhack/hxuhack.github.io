@@ -7,7 +7,7 @@
 
 To verify the soundness of Rust APIs, we employ a tracing-based method.
 Informally, our approach assumes that all undefined behaviors originate from unsafe code, 
-and that the risks of undefined behavior are determined solely by the safety properties (_i.e.,_ a set of constraints that must be satisfied to avoid undefined behavior) of that unsafe code.
+and that the risks of undefined behavior are determined solely by the safety properties (_i.e.,_ a set of constraints that should be satisfied to avoid undefined behavior) of that unsafe code.
 By tracing all possible execution paths and showing that these safety properties are always satisfied, we can formally verify the soundness of the API.
 
 In the following paragraphs, we will attempt to prove that the assumption holds.
