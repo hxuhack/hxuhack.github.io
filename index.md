@@ -20,7 +20,7 @@ I am an Associate Professor at the School of Computer Science, Fudan University,
   - [Rationale for the methodology’s soundness](writting/unsafe-tracing).
 - [tag-std](https://github.com/Artisan-Lab/tag-std): The project aims to define appropriate safety properties for the unsafe APIs in the Rust standard library.
   - We proposed this [RFC](https://github.com/rust-lang/rfcs/pull/3842) to the Rust community.
-  - [System of safety properties in Rust](writting/safety-prop).
+  - [System of safety properties in Rust](https://github.com/Artisan-Lab/tag-std/blob/main/sp-origin.md).
 
 ### Recent Talk:
 
