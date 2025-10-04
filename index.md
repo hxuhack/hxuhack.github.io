@@ -1,7 +1,7 @@
 |[<b>Home</b>](https://hxuhack.github.io/) | [<b>Publications</b>](publication/list) | [<b>Artisan-Lab</b>](lab/page) | [<b>Pictures</b>](photo/page) | [<b>Misc</b>](misc/list) |
 
 ### Short Bio
-I am an Associate Professor at the School of Computer Science, Fudan University, where I lead the [Artisan-Lab](lab/page). My research interests focus on program analysis and software reliability. Before joining Fudan University, I was a Postdoctoral Researcher at the Chinese University of Hong Kong, supported by the CUHK Postdoctoral Research Fellowship. I also received my Ph.D. degree from CUHK, supervised by [Prof. Michael Lyu](http://www.cse.cuhk.edu.hk/lyu/). Before my academic career, I worked in industry as a security professional for several years after obtaining my M.Sc. degree from Hong Kong University, and B.Eng and B.M degrees from China University of Geosciences (Beijing). 
+I am an Associate Professor at the College of Computer Science and Artificial Intelligence, Fudan University, where I lead the [Artisan-Lab](lab/page). My research focuses on program analysis and software reliability, with an emphasis on Rust code analysis. Before joining Fudan University, I was a Postdoctoral Researcher at the Chinese University of Hong Kong, supported by the CUHK Postdoctoral Research Fellowship. I also received my Ph.D. degree from CUHK, supervised by [Prof. Michael Lyu](http://www.cse.cuhk.edu.hk/lyu/). Before my academic career, I worked in industry as a security professional for several years after obtaining my M.Sc. degree from Hong Kong University, and B.Eng and B.M degrees from China University of Geosciences (Beijing). 
 
 **Email**: xuh[AT]fudan.edu.cn	
 
