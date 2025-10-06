@@ -71,7 +71,7 @@ $$
 where $$P_{f_u}$$ denotes any program of another module that uses $$f_u$$ and contains no other unsafe code.
 
 Now the theorem can be proved:
-- Assume that the Rust compiler is sound (Proposition 1) and all safe APIs are sound (Proposition 2), only unsafe Rust can introduce undefined behaviors.
+- According to the safety promise, only unsafe Rust can introduce undefined behaviors.
 - Assuming an unsafe API is sound (Proposition 3), any undefined behavior observed when using the API​ must result from a violation of its safety constraint, which completes the proof of the theorem.
 
 
