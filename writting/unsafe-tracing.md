@@ -23,13 +23,15 @@ Undefined behavior originates exclusively from unsafe code and is solely determi
 
 ### Proof
 
-**Definition ([Safety Promise of Rust](https://rust-lang.github.io/unsafe-code-guidelines/glossary.html#soundness-of-code--of-a-library))**  
+**Definition (Safety Promise of Rust)**  
 Only programs that use unsafe code may exhibit undefined behavior.
+
+The original words from [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/glossary.html#soundness-of-code--of-a-library) are: "_For Rust, this (soundness) means well-typed programs cannot cause Undefined Behavior. This promise only extends to safe code..._"
 
 Based on the definition, two propositions can be derived.
 
 **Proposition 1 (Compiler Soundness)**  
-Rust compiler is sound iff 
+Rust compiler is sound only if 
 
 $$
   \forall P_s, P_s \nRightarrow UB
@@ -45,6 +47,7 @@ $$
 $$
 
 , where $$P_{f_s}$$ denotes any program of another module that uses $$f_s$$ and contains no unsafe code.
+This is also stated in the document of [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/glossary.html#soundness-of-code--of-a-library): "_a library (or an individual function) is sound if it is impossible for safe code to cause Undefined Behavior using its public API._"
 
 The proof of the two propositions is straightforward: assuming the existence of a $$P_s$$ or $$P_{f_s}$$ that leads to undefined behavior would contradict the Safety Promise of Rust.
 
