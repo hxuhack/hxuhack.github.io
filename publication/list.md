@@ -4,6 +4,9 @@
 
 ### 2025
 
+
+- "[A Trace-based Approach for Code Safety Analysis](https://arxiv.org/pdf/2510.10410)", **Hui Xu**, _arXiv:2510.10410_, 2025.
+ 
 - "[Annotating and Auditing the Safety Properties of Unsafe Rust](https://arxiv.org/abs/2504.21312)", Zihao Rao, Hongliang Tian, Xin Wang, **Hui Xu**, _arXiv:2504.21312_, 2025. (corresponding author)
 
 - "[Unleashing The Efficiency of Rust: An Empirical Study of Performance Bugs in Rust Projects]()", Chenhao Cui, **Hui Xu**, _to appear in The 36th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, 2025. (corresponding author)
