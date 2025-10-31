@@ -24,6 +24,8 @@ I am an Associate Professor at the College of Computer Science and Artificial In
 
 ### Recent Talk:
 
+- Taming Unsafe Code with Safety Tags [Slides](talks/RFMIG-20251027.pdf), [Video](https://www.youtube.com/watch?v=g6o-TtvCFv8), Rust Formal Methods Interest Group, Online, Oct, 2025
+ 
 - Unsafe代码治理 [Slides](talks/Unsafe代码治理-20250719.pdf), CCF秀湖会议，Suzhou, July, 2025
 
 - Fighting The Heap War with Rust [Slides](talks/20230924-GOSIM-HeapWar.pdf), [Video](https://www.bilibili.com/video/BV1kh4y1B7mX/), GOSIM Workshop, Shanghai, Sep 2023
