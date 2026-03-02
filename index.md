@@ -34,7 +34,8 @@ I am an Associate Professor at the College of Computer Science and Artificial In
 
 ###  Teaching
 
-- [COMP130014 编译 Compiler Principles and Techniques](https://github.com/hxuhack/course_compiler), Fall 2024, Spring 2024, Fall 2023, Fall 2022, Fall 2021
+- [编译原理 Compiler Principles and Techniques](https://tea-compiler.github.io/), Spring 2026, Fall 2024, Spring 2024, Fall 2023, Fall 2022, Fall 2021
+- [人工智能的软件基础 AI Software](https://aisoft-course.github.io/), Spring 2026
 - [COMP737011 安全编程语言设计 Memory Safety and Programming Language Design](https://github.com/hxuhack/course_safepl), Spring 2022-2025 
 - [FISF130020/MF20006 Introduction to Computer Science](https://github.com/hxuhack/intro2cs), Fall 2024-2025
 - [COMP130159 软件安全 Software Security](lecture/softwaresec), Spring 2020
@@ -47,7 +48,7 @@ I am an Associate Professor at the College of Computer Science and Artificial In
 * General Co-Chair, [DSML 2021](https://dependablesecureml.github.io/2021/index.html), Taipei
 * Publicity Co-Chair, [DSN 2021](http://dsn2021.ntu.edu.tw), Taipei
 * PC Member:
-  * ASE: [ASE 2025](https://conf.researchr.org/home/ase-2025)
+  * ASE: [2026, 2025](https://conf.researchr.org/home/ase-2025)
   * DSN: [2026](https://dsn2026.github.io/), [2020 Doctoral Forum](https://dsn2020.webs.upv.es/final-program/doctoral-forum/), [DSML 2022](https://dependablesecureml.github.io/2022/index.html), [DSML 2023](https://dependablesecureml.github.io), [2024 Poster Track](https://dsn2024uq.github.io/cfposter.html), [2025 Poster Track](https://dsn2025.github.io/cfposter.html)
   * ISSRE: [2025, 2024, 2023](https://issre.net), [2021 Fast Abstracts Track](https://issre.net), [RSDA 2021-2022 (ISSRE Workshop)](https://sites.google.com/view/rsda2021)
   * TASE: [2026, 2024](https://tase2024.github.io)
