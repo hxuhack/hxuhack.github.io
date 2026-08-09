@@ -2,13 +2,16 @@
 
 ## Publications (chronological order)
 
+### 2026
+- "[SafeDep: Detecting State Mutation Unsoundness in Rust via Dependency Slicing and LLM Reasoning]", Zihao Rao, Yilin Chen, Chengjun Chen, **Hui Xu**, _The 41st IEEE/ACM International Conference on Automated Software Engineering (ASE)_, Munich, Germany, 2026
+
 ### 2025
 
 - "[A trace-based approach for code safety analysis](https://arxiv.org/pdf/2510.10410)", **Hui Xu**, _arXiv:2510.10410_, 2025.
 
 - "[Annotating and auditing the safety properties of unsafe Rust](https://arxiv.org/abs/2504.21312)", Zihao Rao, Hongliang Tian, Xin Wang, **Hui Xu**, _arXiv:2504.21312_, 2025. (corresponding author)
 
-- "[Unleashing the efficiency of Rust: an empirical study of performance bugs in Rust projects]()", Chenhao Cui, **Hui Xu**, _to appear in The 36th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, 2025. (corresponding author)
+- "[Unleashing the efficiency of Rust: an empirical study of performance bugs in Rust projects](https://ieeexplore.ieee.org/document/11229568)", Chenhao Cui, **Hui Xu**, _The 36th IEEE International Symposium on Software Reliability Engineering (ISSRE)_, 2025. (corresponding author)
 
 - "[KubeChecker: detecting configuration bugs in container orchestration]()", Yilin Sun, Dian Lv, Cheng Chui, **Hui Xu**, _The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)_, Naples, Italy, June 23-26, 2025.
 
