@@ -3,7 +3,7 @@
 ## Publications (chronological order)
 
 ### 2026
-- "[SafeDep: Detecting State Mutation Unsoundness in Rust via Dependency Slicing and LLM Reasoning]", Zihao Rao, Yilin Chen, Chengjun Chen, **Hui Xu**, _The 41st IEEE/ACM International Conference on Automated Software Engineering (ASE)_, Munich, Germany, 2026
+- "[SafeDep: Detecting State Mutation Unsoundness in Rust via Dependency Slicing and LLM Reasoning]()", Zihao Rao, Yilin Chen, Chengjun Chen, **Hui Xu**, _to appear in The 41st IEEE/ACM International Conference on Automated Software Engineering (ASE)_, Munich, Germany, Oct 12-16, 2026
 
 ### 2025
 
