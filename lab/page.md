@@ -8,15 +8,18 @@
 - 饶子豪 (2023 - now)，co-supervise with Xin Wang
  
 ### Master Student
+- 章悦凯 (2026 - now)
 - 王浩涵 (2025 - now)
 - 陈怡霖 (2025 - now)
 - 李余祉（2024-now）
 - 李昌澄（2024-now），co-supervise with Yangfan Zhou
-- 崔晨昊 (2023 - now)
 - 杨怡然 (2023 - now)
 - 孙晗 (2023 - now)，co-supervise with Yangfan Zhou
 
 ### Graduated Student
+- 崔晨昊 (2023 - 2026)
+  - 毕业去向：米哈游
+  - 上海市优秀硕士毕业生
 - 崔漠寒 (2020 - 2025), co supervise with Yangfan Zhou
   - 毕业去向：华为
   - 上海市优秀博士毕业生
@@ -54,6 +57,7 @@
   - 毕业去向：字节跳动
 
 ### FYP Student 
+ - 孙一（2026），面向智能体工作负载的大语言模型推理服务系统评测框架
  - 王浩涵（2025），基于概率程序分析的Rust悬空指针缺陷检测
  - 陈怡霖（2025），Rust API安全性验证
  - 刘畅（2025），基于eBPF的微服务跨层调用链追踪与动态自适应性能分析系统

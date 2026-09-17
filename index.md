@@ -7,6 +7,7 @@ I am an Associate Professor at the College of Computer Science and Artificial In
 
 <span style="color: red"> I am looking for self-motivated students (Ph.D., master, intern, or FYP). Please drop me an email if you are interested. </span>
 <span style="color: red"> 博士、硕士研究生报名请选择：计算机科学与技术=>[智能网络与系统](https://cs.fudan.edu.cn/16/3f/c24277a267839/page.htm)学科方向. </span>
+<span style="color: red"> Before contacting me, I recommend students complete the following: be active on [Rust Zulip](https://rust-lang.zulipchat.com/) / [Rust Internals](https://internals.rust-lang.org/) for more than 1 month (averaging >= 2 discussions per week), and submit 2 PRs without AI involvement to the [Rust repository](https://github.com/rust-lang/rust). </span>
 
 ### Textbook
 
@@ -30,7 +31,7 @@ I am an Associate Professor at the College of Computer Science and Artificial In
 - [编译原理 Compiler Principles and Techniques](https://tea-compiler.github.io/), Spring 2026, Fall 2024, Spring 2024, Fall 2023, Fall 2022, Fall 2021
 - [人工智能的软件基础 AI Software](https://aisoft-course.github.io/), Spring 2026
 - [COMP737011 安全编程语言设计 Memory Safety and Programming Language Design](https://github.com/hxuhack/course_safepl), Spring 2022-2025 
-- [FISF130020/MF20006 Introduction to Computer Science](https://github.com/hxuhack/intro2cs), Fall 2024-2025
+- [FISF130020/MF20006 Introduction to Computer Science](https://intro2cs.github.io/), 2024-2026
 - [COMP130159 软件安全 Software Security](lecture/softwaresec), Spring 2020
 - [COMP130189 网络安全 Network Security](lecture/networksec), Spring 2021, Fall 2020
 
