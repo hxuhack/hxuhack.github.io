@@ -5,12 +5,12 @@
 
 ### Ph.D. Student
 - 张业鸿 (2022 - now), co supervise with Jun Wu
-- 饶子豪 (2023 - now)，co-supervise with Xin Wang
+- [饶子豪](https://diudiu777.github.io/) (2023 - now)，co-supervise with Xin Wang
  
 ### Master Student
 - 章悦凯 (2026 - now)
 - 王浩涵 (2025 - now)
-- 陈怡霖 (2025 - now)
+- [陈怡霖](https://github.com/yilin0518) (2025 - now)
 - 李余祉（2024-now）
 - 李昌澄（2024-now），co-supervise with Yangfan Zhou
 - 杨怡然 (2023 - now)
