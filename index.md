@@ -5,8 +5,8 @@ I am an Associate Professor at the College of Computer Science and Artificial In
 
 **Email**: xuh[AT]fudan.edu.cn	
 
-<span style="color: red"> I am looking for self-motivated students (Ph.D., master, intern, or FYP). Please drop me an email if you are interested. </span>
-<span style="color: red"> 博士、硕士研究生报名请选择：计算机科学与技术=>[智能网络与系统](https://cs.fudan.edu.cn/16/3f/c24277a267839/page.htm)学科方向. </span>
+<span style="color: red"> I am looking for self-motivated students (Ph.D., master, intern, or FYP). Please drop me an email if you are interested. </span><br>
+<span style="color: red"> 博士、硕士研究生报名请选择：计算机科学与技术=>[智能网络与系统](https://cs.fudan.edu.cn/16/3f/c24277a267839/page.htm)学科方向. </span><br>
 <span style="color: red"> Before contacting me, I recommend students complete the following: be active on [Rust Zulip](https://rust-lang.zulipchat.com/) / [Rust Internals](https://internals.rust-lang.org/) for more than 1 month (averaging >= 2 discussions per week), and submit 2 PRs without AI involvement to the [Rust repository](https://github.com/rust-lang/rust). </span>
 
 ### Textbook
